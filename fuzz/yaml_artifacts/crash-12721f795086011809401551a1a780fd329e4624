@@ -1,0 +1,5 @@
+%TAG !prefix! tag:example.2001-12-14t21:59:43.10-05:00
+--- !prefix!B
+c: d
+--- !prefix!<
+e: f

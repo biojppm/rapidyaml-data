@@ -1,0 +1,15 @@
+[
+
+=VAL  +DOC
+"lit\n",
+  " fo:lded\L
+- |+ # :hom+DOC -/-
+ping:- |ÿ-
+  ]\"
+::- - |+DOC
+"lit\n",
+  " fo:lded\L
+- |+ # :hom+DOC -/-
+ping:- |1-
+  ]\"
+]
