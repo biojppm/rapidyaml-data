@@ -1,0 +1,7 @@
+
+test:
+- {a: 1}
+# next line has a trailing space
+- {b: 2} 
+# next line has a trailing space
+- [0, {c: 3}] 

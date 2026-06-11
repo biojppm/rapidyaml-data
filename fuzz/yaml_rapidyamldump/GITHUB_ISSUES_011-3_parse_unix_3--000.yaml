@@ -1,0 +1,5 @@
+component:
+  type: perspective camera component
+  some_data: {}  # this was working
+  data:
+    {}           # but this was not working

@@ -1,0 +1,7 @@
+a: b
+b: c
+aa: bb
+aaa: bbb
+foo:
+  aa: cc
+  bbb: dd

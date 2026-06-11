@@ -1,0 +1,12 @@
+
+base_1: &base_1
+  a: 10
+  b: 10
+base_2: &base_2
+  b: 20
+k1:
+  !!merge <<: *base_1
+  !!merge <<: *base_2
+k2:
+  !!merge <<: *base_2
+  !!merge <<: *base_1

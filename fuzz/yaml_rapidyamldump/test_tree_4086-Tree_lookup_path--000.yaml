@@ -1,0 +1,16 @@
+
+a:
+  b: bval
+  c:
+    d:
+      - e
+      - d
+      - f: fval
+        g: gval
+        h:
+          -
+            x: a
+            y: b
+          -
+            z: c
+            u:

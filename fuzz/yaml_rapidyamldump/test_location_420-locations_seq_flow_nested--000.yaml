@@ -1,0 +1,10 @@
+[
+  one,
+  two,
+  [woops,     there,    [  goes,     master]],
+  five,
+  {wait: is,   this:   {   really: a map? },   nope: [  a seq!, { had: you there,  eehh: no. } ]},
+  yep,
+  it,
+  was
+]

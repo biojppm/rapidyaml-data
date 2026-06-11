@@ -1,0 +1,7 @@
+plain:
+squoted: ''
+dquoted: ""
+literal: |
+folded: >
+all_null: [~, null, Null, NULL]
+non_null: [nULL, non_null, non null, null it is not]

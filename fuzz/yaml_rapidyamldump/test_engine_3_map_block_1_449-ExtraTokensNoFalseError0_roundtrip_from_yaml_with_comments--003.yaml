@@ -1,0 +1,6 @@
+---
+map : {foo: bar, notag: none}
+   # this is a comment
+
+seq : [foo, bar]
+...

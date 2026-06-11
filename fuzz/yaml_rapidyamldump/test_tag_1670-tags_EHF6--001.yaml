@@ -1,0 +1,4 @@
+!!seq [
+  !!map { !!str k: v},
+  !!map { !!str ? k: v}
+]

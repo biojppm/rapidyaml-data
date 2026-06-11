@@ -1,0 +1,11 @@
+matrix:
+
+  include:
+    #
+    #
+    - env: CXX_=g++-7 A=64 BT=Coverage
+    - env: CXX_=g++-7 A=32 BT=Coverage
+    #
+    #
+
+    - env: CXX_=g++-7       A=32 BT=Debug   SAN=ALL VG=ON

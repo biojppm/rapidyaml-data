@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: while :validplain,
+    1: while :validplain,
+    2: while :validplain,
+    3: while :validplain
+  },
+  keys: {
+    while :validplain: 0,
+    while :validplain: 1,
+    while :validplain: 2,
+    while :validplain: 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  foo: 0,
+  bar: 1,
+  map: {
+    hell: yeah
+  },
+  seq: [
+    hell,
+    yeah
+  ]
+}

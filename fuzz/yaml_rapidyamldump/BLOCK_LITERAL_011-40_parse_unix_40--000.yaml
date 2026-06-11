@@ -1,0 +1,5 @@
+tpl:
+  src: |
+    #include "{{hdr.filename}}"
+  
+    {{src.gencode}}

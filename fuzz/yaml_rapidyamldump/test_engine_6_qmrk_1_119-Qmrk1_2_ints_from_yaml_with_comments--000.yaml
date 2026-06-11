@@ -1,0 +1,6 @@
+   # this is a comment
+map:
+  ? an explicit key: another value
+  a simple key: a value
+? an explicit key deindented: its value
+? more: siblings

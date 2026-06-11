@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .notnan,
+    1: .notnan,
+    2: .notnan,
+    3: .notnan
+  },
+  keys: {
+    .notnan: 0,
+    .notnan: 1,
+    .notnan: 2,
+    .notnan: 3
+  }
+}

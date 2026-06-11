@@ -1,0 +1,9 @@
+- &a0 !b0 foo0: bar0
+- &a1 !b1
+  foo1: bar1
+- !b2
+  &a2 foo2: bar2
+- &a3 !b3
+  foo3: bar3
+- &a4 !b4
+  foo4: bar4

@@ -1,0 +1,25 @@
+skip_commits:
+  files:
+    - a
+    - b
+    - c
+    - d
+    - e
+    - f
+  more_files:
+    - a
+    - b
+  even_more_files:
+    - a
+    - b
+more_skip:
+  files:
+    - a
+    - b
+    - c
+    - d
+    - e
+    - f
+  more_files:
+    - a
+    - b

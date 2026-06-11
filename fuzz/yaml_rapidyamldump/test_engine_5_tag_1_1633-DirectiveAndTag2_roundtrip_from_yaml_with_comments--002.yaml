@@ -1,0 +1,4 @@
+%TAG !! foo-
+   # this is a comment
+
+--- !!a b

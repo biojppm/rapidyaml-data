@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .Oot,
+    1: .Oot,
+    2: .Oot,
+    3: .Oot
+  },
+  keys: {
+    .Oot: 0,
+    .Oot: 1,
+    .Oot: 2,
+    .Oot: 3
+  }
+}

@@ -1,0 +1,23 @@
+!!seq
+- !!str k1: v1
+  !!str k2: v2
+  !!str k3: v3
+- !!map
+  !!str k4: v4
+  !!str k5: v5
+  !!str k6: v6
+- !!map
+  k7: v7
+  k8: v8
+  k9: v9
+- - !!str v10
+  - !!str v20
+  - !!str v30
+- !!seq
+  - !!str v40
+  - !!str v50
+  - !!str v60
+- !!seq
+  - v70
+  - v80
+  - v90

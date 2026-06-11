@@ -1,0 +1,15 @@
+
+a new: buffer
+to: be parsed
+map with key:
+  first: value
+  second: value
+seq with key:
+  - first value
+  - second value
+  -
+    - nested first value
+    - nested second value
+  -
+    nested first: value
+    nested second: value

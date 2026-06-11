@@ -1,0 +1,4 @@
+---
+*mapref : {foo: bar, notag: none}
+*seqref : [foo, bar]
+...

@@ -1,0 +1,9 @@
+- !tag
+- !tag 0
+- !tag []
+   # this is a comment
+
+- !tag {}
+- !tag	
+- !tag
+- !tag

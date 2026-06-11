@@ -1,0 +1,7 @@
+test: --- t
+test: '--- t'
+   # this is a comment
+
+test: "--- t"
+"--- t": "--- t"
+'--- t': '--- t'

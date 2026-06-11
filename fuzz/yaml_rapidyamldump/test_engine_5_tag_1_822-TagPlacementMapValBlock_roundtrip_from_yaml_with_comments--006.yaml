@@ -1,0 +1,10 @@
+x: !tag
+a: !tag 0
+b: !tag []
+c: !tag {}
+d: !tag
+   # this is a comment
+
+  e: !tag
+f: !tag
+  - !tag g

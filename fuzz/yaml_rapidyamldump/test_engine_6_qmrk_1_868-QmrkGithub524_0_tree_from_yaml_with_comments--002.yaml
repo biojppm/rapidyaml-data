@@ -1,0 +1,5 @@
+? outer
+: inner1: 1
+   # this is a comment
+
+  inner2: 2

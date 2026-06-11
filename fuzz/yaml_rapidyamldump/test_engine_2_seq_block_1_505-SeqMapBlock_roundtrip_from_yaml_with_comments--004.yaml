@@ -1,0 +1,8 @@
+- foo: 1
+  bar: 2
+- foo: 10
+   # this is a comment
+
+  bar: 20
+- foo: 100
+  bar: 200

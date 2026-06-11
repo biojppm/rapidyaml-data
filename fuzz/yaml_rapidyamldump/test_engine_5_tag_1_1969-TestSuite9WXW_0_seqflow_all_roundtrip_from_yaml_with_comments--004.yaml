@@ -1,0 +1,7 @@
+!foo [a, b, c]
+...
+%TAG ! tag:example.com,2000:app/
+   # this is a comment
+
+---
+!foo [a, b, c]

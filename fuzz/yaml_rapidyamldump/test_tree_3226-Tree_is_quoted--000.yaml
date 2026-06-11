@@ -1,0 +1,9 @@
+---
+"quoted1": foo
+quoted2: "foo"
+"quoted3": "foo"
+'quoted4': foo
+quoted5: 'foo'
+'quoted6': 'foo'
+notquoted: bar
+...

@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: 'while #invalidplain',
+    1: 'while #invalidplain',
+    2: 'while #invalidplain',
+    3: 'while #invalidplain'
+  },
+  keys: {
+    'while #invalidplain': 0,
+    'while #invalidplain': 1,
+    'while #invalidplain': 2,
+    'while #invalidplain': 3
+  }
+}

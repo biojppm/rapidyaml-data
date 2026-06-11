@@ -1,0 +1,6 @@
+&blockanchor
+   # this is a comment
+
+? &mapkey
+  &scalarkey "foo" : bar
+: baz

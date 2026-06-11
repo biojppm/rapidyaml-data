@@ -1,0 +1,7 @@
+&seq
+   # this is a comment
+
+[
+&val1 val1
+,*val1
+]

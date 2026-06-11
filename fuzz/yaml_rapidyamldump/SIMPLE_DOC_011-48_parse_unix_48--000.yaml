@@ -1,0 +1,26 @@
+
+    ---
+    {a: 0, b: 1, c: 2,
+    
+
+ 
+  
+   
+    
+
+    d:
+       some scalar
+    }
+    ---
+    a: 0
+    b: 1
+    c: 2
+    
+
+ 
+  
+   
+    
+
+    d:
+       some scalar

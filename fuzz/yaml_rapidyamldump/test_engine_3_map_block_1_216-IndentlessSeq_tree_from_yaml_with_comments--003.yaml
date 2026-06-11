@@ -1,0 +1,10 @@
+foo:
+- bar
+-
+   # this is a comment
+
+baz: qux
+foo2:
+- bar2
+- 
+baz2: qux2

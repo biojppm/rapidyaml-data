@@ -1,0 +1,6 @@
+
+  processors:
+    - simple:
+  sampler:
+    trace_id_ratio_based:
+      ratio:

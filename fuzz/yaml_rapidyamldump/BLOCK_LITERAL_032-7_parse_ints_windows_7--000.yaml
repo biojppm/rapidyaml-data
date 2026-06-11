@@ -1,0 +1,38 @@
+---
+|
+hello0
+there
+---
+|
+ hello1
+ there
+---
+|
+  hello2
+  there
+---
+|
+ciao3
+qua
+---
+|
+    ciao4
+    qua
+---
+|
+      ciao5
+      qua
+---
+- |
+ hello6
+ there
+- |
+ ciao7
+ qua
+---
+foo: |
+ hello8
+ there
+bar: |
+ ciao9
+ qua

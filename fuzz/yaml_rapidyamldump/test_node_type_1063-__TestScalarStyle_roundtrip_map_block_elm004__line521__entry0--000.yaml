@@ -1,0 +1,10 @@
+vals:
+  0: bar
+  1: bar
+  2: bar
+  3: bar
+keys:
+  bar: 0
+  bar: 1
+  bar: 2
+  bar: 3

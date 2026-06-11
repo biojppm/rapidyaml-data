@@ -1,0 +1,6 @@
+
+? &mapanchor
+  *ref : bar
+   # this is a comment
+
+: baz

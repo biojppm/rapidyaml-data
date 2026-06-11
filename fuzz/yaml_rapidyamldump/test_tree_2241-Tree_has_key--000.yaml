@@ -1,0 +1,6 @@
+---
+map: {foo: bar}
+seq: [foo, bar]
+---
+a scalar
+...

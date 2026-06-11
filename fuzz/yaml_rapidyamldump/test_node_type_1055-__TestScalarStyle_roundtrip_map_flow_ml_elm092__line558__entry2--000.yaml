@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .Infnot,
+    1: .Infnot,
+    2: .Infnot,
+    3: .Infnot
+  },
+  keys: {
+    .Infnot: 0,
+    .Infnot: 1,
+    .Infnot: 2,
+    .Infnot: 3
+  }
+}

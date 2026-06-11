@@ -1,0 +1,2 @@
+[foo: &alias value1,
+bar: !t *alias]

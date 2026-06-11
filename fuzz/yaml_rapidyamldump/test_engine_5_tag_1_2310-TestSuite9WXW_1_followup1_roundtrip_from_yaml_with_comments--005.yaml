@@ -1,0 +1,10 @@
+---
+- !<single-foo> bar
+- !<double-foo> bat
+- !<prefixed-foo> bat
+   # this is a comment
+
+---
+- !<!foo> bar
+- !<tag:yaml.org,2002:foo> bat
+- !<tag:yaml.org,2002:str> bat

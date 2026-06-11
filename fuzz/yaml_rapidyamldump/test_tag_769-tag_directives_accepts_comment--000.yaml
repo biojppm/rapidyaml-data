@@ -1,0 +1,8 @@
+
+%TAG !m! !my-   # comment
+--- # Bulb here
+!m!light fluorescent
+...
+%TAG !m! !meta-   # comment
+--- # Color here
+!m!light green

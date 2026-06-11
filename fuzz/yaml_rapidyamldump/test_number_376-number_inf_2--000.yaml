@@ -1,0 +1,13 @@
+
+good:
+  -.inf: -.inf
+  -.inf:   -.inf
+  -.Inf: -.Inf
+  -.INF: -.INF
+  -inf: -inf
+  -infinity: -infinity
+  -.inf:
+    -.inf
+set:
+  nothing0: nothing
+  nothing1: nothing

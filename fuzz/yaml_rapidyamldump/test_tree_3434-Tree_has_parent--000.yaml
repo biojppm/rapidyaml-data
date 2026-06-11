@@ -1,0 +1,4 @@
+---
+map: {foo: *keyvalref, notag: none}
+seq: &seq [*valref, bar]
+...

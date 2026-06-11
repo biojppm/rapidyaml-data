@@ -1,0 +1,6 @@
+---
+*mapref : {foo: bar, notag: none}
+   # this is a comment
+
+*seqref : [foo, bar]
+...

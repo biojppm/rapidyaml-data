@@ -1,0 +1,11 @@
+{
+oka: {a : b},
+is it ok      :     let's see,
+okb: {a : b},
+ok   : {a : b},
+must be ok   : {
+    c0  : d,
+    c1    : d,
+    c2       : d,
+}
+}

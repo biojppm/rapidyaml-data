@@ -1,0 +1,18 @@
+plain key: plain val
+'squoted key': 'squoted val'
+"dquoted key": "dquoted val"
+? |-
+    literal key
+: |-
+    literal val
+? >-
+    folded key
+: >-
+    folded val
+block map:
+  this is: block
+block seq:
+  - this is
+  - block
+flow map: {this is: flow}
+flow seq: [this is, flow]

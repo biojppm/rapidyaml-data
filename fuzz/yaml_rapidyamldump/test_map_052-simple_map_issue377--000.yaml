@@ -1,0 +1,3 @@
+
+const game::perception::PerceiveData:
+      PerceiveData: {default: nullptr}

@@ -1,0 +1,13 @@
+anchored_content: This string will appear as the value of two keys.
+other_anchor: This string will appear as the value of two keys.
+anchors_in_seqs:
+  - this value appears in both elements of the sequence
+  - this value appears in both elements of the sequence
+base:
+  name: Everyone has same name
+foo:
+  name: Everyone has same name
+  age: 10
+bar:
+  name: Everyone has same name
+  age: 20

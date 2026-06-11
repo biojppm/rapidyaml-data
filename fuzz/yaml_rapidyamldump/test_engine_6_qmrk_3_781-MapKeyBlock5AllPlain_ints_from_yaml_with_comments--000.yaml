@@ -1,0 +1,4 @@
+   # this is a comment
+? &mapanchor !maptag
+  &keyanchor !keytag foo: bar
+: baz

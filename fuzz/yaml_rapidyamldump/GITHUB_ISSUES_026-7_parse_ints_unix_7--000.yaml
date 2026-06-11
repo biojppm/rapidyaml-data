@@ -1,0 +1,13 @@
+
+# correct:
+- MessageID1: 'MapRegion_HyrulePrairie'
+- MessageID2: "MapRegion_HyrulePrairie"
+-  MessageID3: 'MapRegion_HyrulePrairie'
+-  MessageID4: "MapRegion_HyrulePrairie"
+# incorrect: uninitialised memory?
+- MessageID5:  'MapRegion_HyrulePrairie'
+- MessageID6:  "MapRegion_HyrulePrairie"
+- MessageID7:   'MapRegion_HyrulePrairie'
+- MessageID8:   "MapRegion_HyrulePrairie"
+-  MessageID9:          'MapRegion_HyrulePrairie'
+-  MessageID0:          "MapRegion_HyrulePrairie"

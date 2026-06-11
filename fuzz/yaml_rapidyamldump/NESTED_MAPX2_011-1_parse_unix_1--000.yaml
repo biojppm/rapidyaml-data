@@ -1,0 +1,5 @@
+{
+foo: {foo0: 00, bar0: 01, baz0: 02},
+bar: {foo1: 10, bar1: 11, baz1: 12},
+baz: {foo2: 20, bar2: 21, baz2: 22}
+}

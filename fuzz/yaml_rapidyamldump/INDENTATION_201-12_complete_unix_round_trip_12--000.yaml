@@ -1,0 +1,30 @@
+matrix:
+  include:
+    - env01
+    - env02
+    - env03
+    - env04
+    - env11
+    - env12
+    - env13
+    - env14
+    - env21
+    - env22
+    - env23
+    - env24
+    - env31
+    - env32
+    - env33
+    - env34
+    - env41
+    - env42
+    - env43
+    - env44
+    - env51
+    - env52
+    - env53
+    - env54
+    - env61
+    - env62
+    - env63
+    - env64

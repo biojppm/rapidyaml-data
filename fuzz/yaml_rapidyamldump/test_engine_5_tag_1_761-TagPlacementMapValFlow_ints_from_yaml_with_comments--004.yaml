@@ -1,0 +1,8 @@
+{
+x: !tag,
+a: !tag 0,
+b: !tag [],
+   # this is a comment
+
+c: !tag {},
+}

@@ -1,0 +1,34 @@
+map:
+  nested:
+   # this is a comment
+
+    nested more:
+      nested even more:
+      - now inside a seq:
+          another map:
+          - another seq
+          - etc
+---
+map:
+  nested:
+    nested more:
+      nested even more:
+      - now inside a seq:
+          another map: the value
+---
+map:
+  nested:
+    nested more:
+      nested even more:
+      - now inside a seq:
+          another map:
+          - another seq
+          - etc
+...
+map:
+  nested:
+    nested more:
+      nested even more:
+      - now inside a seq:
+          another map: the value
+...

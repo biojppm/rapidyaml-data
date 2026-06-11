@@ -1,0 +1,6 @@
+
+? &mapanchor !maptag
+   # this is a comment
+
+  &keyanchor !keytag "foo": bar
+: baz

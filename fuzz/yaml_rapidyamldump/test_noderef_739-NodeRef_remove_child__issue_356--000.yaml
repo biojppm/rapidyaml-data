@@ -1,0 +1,8 @@
+
+numbers:
+  one: true
+  two: false
+  three: false
+  four: false
+formats:
+  rtt: json

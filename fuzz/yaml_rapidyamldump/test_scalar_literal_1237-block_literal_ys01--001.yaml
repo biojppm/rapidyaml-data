@@ -1,0 +1,6 @@
+defn run(prompt session=nil):
+  when session:
+    write session _ :append true: |
+      Q: $(orig-prompt:trim)
+      A ($api-model):
+      $(answer:trim)

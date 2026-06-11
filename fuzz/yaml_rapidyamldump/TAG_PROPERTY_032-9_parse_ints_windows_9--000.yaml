@@ -1,0 +1,4 @@
+some_seq: !!its_type [
+ !!int 0,
+ !!str 0
+ ]

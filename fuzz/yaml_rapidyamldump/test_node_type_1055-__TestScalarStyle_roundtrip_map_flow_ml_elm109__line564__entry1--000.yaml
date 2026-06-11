@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .NOT,
+    1: .NOT,
+    2: .NOT,
+    3: .NOT
+  },
+  keys: {
+    .NOT: 0,
+    .NOT: 1,
+    .NOT: 2,
+    .NOT: 3
+  }
+}

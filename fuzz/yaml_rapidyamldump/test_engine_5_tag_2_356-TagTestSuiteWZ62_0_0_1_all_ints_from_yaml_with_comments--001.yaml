@@ -1,0 +1,4 @@
+foo: !!str
+   # this is a comment
+
+!!str : bar

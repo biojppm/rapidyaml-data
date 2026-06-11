@@ -1,0 +1,3 @@
+value:
+  desc:
+    Timecode in "HH:MM:SS:FF" format where the last ':' can be replaced by ',' or ';'.

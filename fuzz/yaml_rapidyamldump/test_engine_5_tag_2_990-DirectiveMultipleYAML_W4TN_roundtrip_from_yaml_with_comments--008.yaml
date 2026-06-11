@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+foo
+...
+%YAML 1.2
+---
+# Empty
+   # this is a comment
+
+...

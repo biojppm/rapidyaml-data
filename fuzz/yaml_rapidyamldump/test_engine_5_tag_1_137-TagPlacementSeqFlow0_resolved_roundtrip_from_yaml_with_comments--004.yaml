@@ -1,0 +1,14 @@
+[
+!tag ,
+!tag 0,
+   # this is a comment
+
+!tag [],
+!tag {},
+!tag	,
+!tag
+,
+!tag
+,
+!tag,
+!tag]

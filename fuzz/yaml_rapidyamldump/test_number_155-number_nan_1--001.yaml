@@ -1,0 +1,10 @@
+good:
+  .nan: .nan
+  .nan: .nan
+  .NaN: .NaN
+  .NAN: .NAN
+  nan: nan
+  .nan: .nan
+set:
+  nothing0: nothing
+  nothing1: nothing

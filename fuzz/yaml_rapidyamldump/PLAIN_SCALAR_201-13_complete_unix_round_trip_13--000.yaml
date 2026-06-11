@@ -1,0 +1,13 @@
+example: Several lines of text, with some "quotes" of various 'types'. Escapes (like \n) don't do anything.
+
+  Newlines can be added by leaving a blank line. Additional leading whitespace is ignored.
+another example: Several lines of text,
+
+  but the second line is empty, and _indented_. There are more lines that follow.
+yet another example: Several lines of text,
+
+  but the second line is empty, and _unindented_. There are more lines that follow.
+final example: Several lines of text,
+
+
+  but the second line is empty, and _unindented_. There are more lines that follow. And the last line terminates at the end of the file.

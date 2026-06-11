@@ -1,0 +1,7 @@
+
+final example: Several lines of text,
+
+
+  but the second line is empty, and _unindented_.
+  There are more lines that follow. And the last line
+  terminates at the end of the file.

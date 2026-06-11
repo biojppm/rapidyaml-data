@@ -1,0 +1,9 @@
+{
+foo:
+ bar
+,
+foo2:
+   # this is a comment
+
+bar2
+}

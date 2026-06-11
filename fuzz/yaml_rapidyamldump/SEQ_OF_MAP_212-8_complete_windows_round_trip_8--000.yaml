@@ -1,0 +1,7 @@
+'implicit block key': [
+    {'implicit flow key 1': value1},
+    {'implicit flow key 2': value2},
+    {'implicit flow key 3': value3},
+    {'implicit flow key m': {key1: val1,key2: val2}},
+    {'implicit flow key s': [val1,val2]}
+  ]

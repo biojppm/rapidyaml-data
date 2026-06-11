@@ -1,0 +1,5 @@
+- foo
+- bar
+- - nested
+  - seq
+- nested: map

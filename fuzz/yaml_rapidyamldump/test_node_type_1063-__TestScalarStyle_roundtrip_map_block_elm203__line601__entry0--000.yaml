@@ -1,0 +1,10 @@
+vals:
+  0: <!foo> scalar
+  1: <!foo> scalar
+  2: <!foo> scalar
+  3: <!foo> scalar
+keys:
+  <!foo> scalar: 0
+  <!foo> scalar: 1
+  <!foo> scalar: 2
+  <!foo> scalar: 3

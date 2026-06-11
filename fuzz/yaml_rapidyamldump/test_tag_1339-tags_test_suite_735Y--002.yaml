@@ -1,0 +1,11 @@
+
+-
+  foo : bar
+- #!!map
+  foo : bar
+- #!!map # Block collection
+  foo : bar
+- !!map
+  foo : bar
+- !!map # Block collection
+  foo : bar

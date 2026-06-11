@@ -1,0 +1,7 @@
+&map
+   # this is a comment
+
+{
+&rkey1 key1: &rval1 val1,
+*rkey1 : *rval1
+}

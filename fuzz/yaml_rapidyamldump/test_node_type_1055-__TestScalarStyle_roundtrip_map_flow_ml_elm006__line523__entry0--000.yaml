@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: bar space,
+    1: bar space,
+    2: bar space,
+    3: bar space
+  },
+  keys: {
+    bar space: 0,
+    bar space: 1,
+    bar space: 2,
+    bar space: 3
+  }
+}

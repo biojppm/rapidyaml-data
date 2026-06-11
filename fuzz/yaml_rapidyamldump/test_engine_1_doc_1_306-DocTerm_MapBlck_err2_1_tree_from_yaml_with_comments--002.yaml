@@ -1,0 +1,4 @@
+foo: bar
+--- {bad: yes}
+   # this is a comment
+

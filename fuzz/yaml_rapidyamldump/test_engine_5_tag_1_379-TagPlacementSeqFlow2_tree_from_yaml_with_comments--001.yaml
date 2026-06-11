@@ -1,0 +1,14 @@
+[
+   # this is a comment
+
+!<foo> ,
+!<foo> 0,
+!<foo> [],
+!<foo> {},
+!<foo>	,
+!<foo>
+,
+!<foo>
+,
+!<foo>,
+!<foo>]

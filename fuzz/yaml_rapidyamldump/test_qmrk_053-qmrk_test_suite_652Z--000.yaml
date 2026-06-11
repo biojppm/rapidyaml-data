@@ -1,0 +1,5 @@
+
+?foo: bar  # not an explicit key in RUNK
+?bar: 42   # not an explicit key in RMAP|RKEY
+?baz:
+   ?bat: 24  # not an explicit key in RMAP|RVAL

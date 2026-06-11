@@ -1,0 +1,17 @@
+!mtag
+? !tag0
+ !a : !b
+: !tag1
+   # this is a comment
+
+ !a : !b
+? !tag2
+ !a 1: !b 2
+: !tag3
+ !a : !b
+? !tag4
+ - !a 1
+ - !b 2
+: !tag5
+ !a : !b
+? !tag6

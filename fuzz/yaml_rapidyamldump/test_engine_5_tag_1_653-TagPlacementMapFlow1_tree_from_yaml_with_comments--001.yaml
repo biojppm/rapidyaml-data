@@ -1,0 +1,15 @@
+{
+   # this is a comment
+
+ 0: !tag,
+ 1: !tag0 0,
+ 2: !tags [],
+ 3: !tagm {},
+ 4: !tag1	,
+ 5: !tag2
+,
+ 6: !tag3
+,
+ 7: !tag4 's',
+ 8: !tag5 "d",
+ 9: !tag6}

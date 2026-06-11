@@ -1,0 +1,26 @@
+#!/usr/bin/env ys-0
+
+defn run(prompt session=nil):
+  session-text =:
+    when session && session:fs-e:
+
+  answer =:
+    cond:
+      api-model =~ /^dall-e/:
+        openai-image(prompt).data.0.url
+      api-model.in?(anthropic-models):
+        anthropic(prompt):anthropic-message:format
+      api-model.in?(groq-models):
+        groq(prompt).choices.0.message.content:format
+      api-model.in?(openai-models):
+        openai-chat(prompt).choices.0.message.content:format
+      else: die()
+
+  say: answer
+
+  when session:
+    write session _ :append true: |+
+      Q: $(orig-prompt:trim)
+      A ($api-model):
+      $(answer:trim)
+

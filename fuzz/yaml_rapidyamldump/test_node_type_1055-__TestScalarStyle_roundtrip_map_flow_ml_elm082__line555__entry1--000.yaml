@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .INF,
+    1: .INF,
+    2: .INF,
+    3: .INF
+  },
+  keys: {
+    .INF: 0,
+    .INF: 1,
+    .INF: 2,
+    .INF: 3
+  }
+}

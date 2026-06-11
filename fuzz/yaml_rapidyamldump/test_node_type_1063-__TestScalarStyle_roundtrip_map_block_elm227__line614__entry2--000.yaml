@@ -1,0 +1,10 @@
+vals:
+  0: also ?validplain
+  1: also ?validplain
+  2: also ?validplain
+  3: also ?validplain
+keys:
+  also ?validplain: 0
+  also ?validplain: 1
+  also ?validplain: 2
+  also ?validplain: 3

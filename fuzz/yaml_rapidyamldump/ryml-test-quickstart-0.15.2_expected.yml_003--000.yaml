@@ -1,0 +1,12 @@
+foo: says who
+bar: [20,30,oh so nice,oh so nice (serialized)]
+john: in_scope
+float: 2.4
+digits: 2.400000
+newkeyval: shiny and new
+newkeyval (serialized): shiny and new (serialized)
+newseq: []
+newseq (serialized): []
+newmap: {}
+newmap (serialized): {}
+I am something: indeed

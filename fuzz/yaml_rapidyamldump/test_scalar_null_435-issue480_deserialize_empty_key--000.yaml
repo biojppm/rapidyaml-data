@@ -1,0 +1,11 @@
+flow: {"": dquoted, '': squoted, : plain, null: enull, ~: tilde}
+block:
+  "": dquoted
+  '': squoted
+  ? |
+  : literal
+  ? >
+  : folded
+  : plain
+  null: enull
+  ~: tilde

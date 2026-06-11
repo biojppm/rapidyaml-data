@@ -1,0 +1,3 @@
+dst: !!map
+  map: flow
+  yes: it is

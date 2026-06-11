@@ -1,0 +1,4 @@
+[[foo1,bar1,baz1],
+   # this is a comment
+
+[foo2,bar2,baz2]]

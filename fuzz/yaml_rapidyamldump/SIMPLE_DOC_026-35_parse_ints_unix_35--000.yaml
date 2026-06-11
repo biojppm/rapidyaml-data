@@ -1,0 +1,9 @@
+# the first : should cause a parse error
+    ---
+    - a
+    - b
+    - c
+    ---
+    a: 0
+    b: 1
+    c: 2

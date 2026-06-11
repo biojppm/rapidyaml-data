@@ -1,0 +1,5 @@
+? foo
+:
+--- bad
+   # this is a comment
+

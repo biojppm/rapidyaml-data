@@ -1,0 +1,14 @@
+plain: well
+  a
+  b
+  c
+squo: 'single''quote'
+dquo: "x\t\ny"
+lit: |
+     X
+     Y
+     Z
+fold: >
+     U
+     V
+     W

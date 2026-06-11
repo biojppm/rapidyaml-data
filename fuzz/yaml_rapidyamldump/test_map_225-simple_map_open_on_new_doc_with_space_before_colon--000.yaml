@@ -1,0 +1,12 @@
+
+foo0 : bar
+---
+foo1 : bar  # the " :" was causing an assert
+---
+foo2 : bar
+---
+foo3	: bar  # this is a tab
+---
+foo4   	  : bar  # tabs and spaces
+---
+foo5	   	  : bar  # spaces and tabs

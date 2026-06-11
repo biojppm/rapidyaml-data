@@ -1,0 +1,15 @@
+block map:
+  block key: block val
+block seq:
+  - block val 1
+  - block val 2
+  - 'quoted'
+flow map, singleline: {flow key: flow val}
+flow seq, singleline: [flow val,flow val]
+flow map, multiline: {
+    flow key: flow val
+  }
+flow seq, multiline: [
+    flow val,
+    flow val
+  ]

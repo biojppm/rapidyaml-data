@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .Nannot,
+    1: .Nannot,
+    2: .Nannot,
+    3: .Nannot
+  },
+  keys: {
+    .Nannot: 0,
+    .Nannot: 1,
+    .Nannot: 2,
+    .Nannot: 3
+  }
+}

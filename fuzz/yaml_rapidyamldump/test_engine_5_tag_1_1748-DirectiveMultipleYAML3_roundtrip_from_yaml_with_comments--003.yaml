@@ -1,0 +1,7 @@
+%YAML 1.2
+--- a
+   # this is a comment
+
+...
+%YAML 1.2
+--- b

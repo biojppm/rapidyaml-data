@@ -1,0 +1,6 @@
+---
+{a: map}: [a,seq]
+---
+[A,SEQ]: {A: MAP}
+   # this is a comment
+

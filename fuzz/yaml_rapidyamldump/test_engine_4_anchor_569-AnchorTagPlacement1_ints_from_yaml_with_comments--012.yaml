@@ -1,0 +1,15 @@
+- &a0 !b0 foo0: bar0
+- &a1 !b1
+  foo1: bar1
+- &a2
+  !b2 foo2: bar2
+- &a3
+  !b3
+  foo3: bar3
+- &a4
+
+  !b4
+
+   # this is a comment
+
+  foo4: bar4

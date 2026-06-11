@@ -1,0 +1,4 @@
+   # this is a comment
+&seq
+- &val1 val1
+- *val1

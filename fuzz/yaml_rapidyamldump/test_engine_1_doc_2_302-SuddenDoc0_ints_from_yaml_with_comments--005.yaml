@@ -1,0 +1,9 @@
+- map:
+   foo: bar
+...
+seq:
+  - a
+   # this is a comment
+
+  - b
+...

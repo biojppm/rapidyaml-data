@@ -1,0 +1,15 @@
+
+version: 0
+type: xml
+param_root:
+  objects:
+    System: {SameGroupActorName: '', IsGetItemSelf: false}
+    General:
+      Speed: 1.0
+      Life: 100
+      IsLifeInfinite: false
+      ElectricalDischarge: 1.0
+      IsBurnOutBorn: false
+      BurnOutBornName: 
+      IsBurnOutBornIdent: false
+      ChangeDropTableName: ''

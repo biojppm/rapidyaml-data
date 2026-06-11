@@ -1,0 +1,8 @@
+{
+  explicit key1: explicit value,
+  explicit key2: ,
+  explicit key3: ,
+  simple key1: explicit value,
+  simple key2: ,
+  simple key3: 
+}

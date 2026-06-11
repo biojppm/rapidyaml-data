@@ -1,0 +1,13 @@
+
+this: ~
+is: ~
+a: ~
+map: ~
+and:
+  this:
+    as: ~
+    well: ~
+  aswell: # this one works as well
+      # even with a comment in between
+    val: here
+    hah: here

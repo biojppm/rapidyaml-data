@@ -1,0 +1,2 @@
+!!str "foo": !!str bar
+baz: "foo"

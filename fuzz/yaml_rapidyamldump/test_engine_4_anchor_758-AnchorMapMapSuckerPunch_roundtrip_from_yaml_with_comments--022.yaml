@@ -1,0 +1,28 @@
+!mymap &mymap
+&fooanch !footag foo: &seq
+  &key1 key1: &val1 val1
+  &key2 key2: &val2 val2
+!bartag &baranch bar: !a &map2
+  !b &key10 key10: !c &val10 val10
+  &key20 !b key20: &val20 !c val20
+  key10: 20
+&bazanch !baztag baz:   &map2 !a
+    &key10 !b key10: &val10 !c val10
+    !b &key20 key20: !c &val20 val20
+    key10: 20
+brr: &map2
+  !a foo: bar
+bra: &map2
+
+
+
+  !a foo: bar
+bre: &map2
+  !a
+   # this is a comment
+
+  
+  
+  foo: bar
+bru:   &wtf
+  foo

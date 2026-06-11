@@ -1,0 +1,6 @@
+--- !prefix!A
+a: b
+--- !prefix!B
+c: d
+--- !prefix!C
+e: f

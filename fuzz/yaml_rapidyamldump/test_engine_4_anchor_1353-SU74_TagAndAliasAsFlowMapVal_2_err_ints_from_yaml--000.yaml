@@ -1,0 +1,2 @@
+key1: &alias value1
+value2: *alias !t

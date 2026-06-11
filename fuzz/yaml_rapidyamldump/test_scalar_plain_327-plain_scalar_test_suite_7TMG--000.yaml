@@ -1,0 +1,8 @@
+---
+word1
+# comment
+---
+# first value is NOT a multiline plain scalar
+[ word1
+# comment
+, word2]

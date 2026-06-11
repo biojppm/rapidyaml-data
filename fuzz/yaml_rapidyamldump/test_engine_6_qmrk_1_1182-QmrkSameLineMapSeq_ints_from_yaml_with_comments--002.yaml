@@ -1,0 +1,7 @@
+k: v
+? - a
+   # this is a comment
+
+  - b
+: - a
+  - b

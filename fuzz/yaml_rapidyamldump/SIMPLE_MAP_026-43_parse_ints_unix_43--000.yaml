@@ -1,0 +1,8 @@
+---
+{
+"foo0":"bar",
+"foo1":bar,
+"foo3":{"a":map},
+"foo5":[a,seq],
+}
+--- {"foo0":"bar","foo1":bar,"foo3":{"a":map},"foo5":[a,seq],}

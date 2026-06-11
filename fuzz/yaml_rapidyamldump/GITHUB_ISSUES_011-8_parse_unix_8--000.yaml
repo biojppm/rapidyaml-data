@@ -1,0 +1,28 @@
+
+# incorrect: uninitialised memory?
+-  MessageID1:          'MapRegion_HyrulePrairie'
+-  MessageID2:          "MapRegion_HyrulePrairie"
+
+# incorrect: uninitialised memory?
+-  MessageID3:          'MapRegion_HyrulePrairie '
+-  MessageID4:          "MapRegion_HyrulePrairie "
+
+# incorrect: for some reason the ' is included in the string
+-  MessageID5: 'MapRegion_HyrulePrairie '
+- MessageID6: 'MapRegion_HyrulePrairie '
+-  MessageID7: "MapRegion_HyrulePrairie "
+- MessageID8: "MapRegion_HyrulePrairie "
+
+# incorrect: same issue
+- MessageID9: 'MapRegion_HyrulePrairie '
+- MessageID10: "MapRegion_HyrulePrairie "
+
+# incorrect: still has the trailing quote
+- MessageID11: 'MapRegion_HyrulePrairie'
+- MessageID12: "MapRegion_HyrulePrairie"
+
+# the string is parsed correctly in this case
+- key1: true1
+  MessageID1:          'MapRegion_HyrulePrairie1 '
+- key2: true2
+  MessageID2:          "MapRegion_HyrulePrairie2 "

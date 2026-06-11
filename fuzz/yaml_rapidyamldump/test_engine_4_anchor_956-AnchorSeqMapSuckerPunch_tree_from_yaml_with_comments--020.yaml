@@ -1,0 +1,28 @@
+&seq
+- &key1 key1: &val1 val1
+  &key2 key2: &val2 val2
+- !a &map2a
+  !b &key10 key10: &val10 val10
+  &key20 key20: &val20 val20
+  key10: 20
+-   &map2x !a
+    &key10 !b key10: &val10 val10
+    &key20 key20: &val20 val20
+    key10: 20
+- &map2y
+  !a foo: bar
+- &map2z
+
+
+
+  !a foo: bar
+- &map2u
+  !a
+   # this is a comment
+
+  
+  
+  foo: bar
+-   &wtf
+  foo
+  

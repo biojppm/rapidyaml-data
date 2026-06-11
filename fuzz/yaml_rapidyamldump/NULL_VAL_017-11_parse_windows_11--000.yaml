@@ -1,0 +1,8 @@
+
+fixed case:
+  foo: a
+  bar: 
+your case:
+  foo: a
+  bar: ''
+whatever: baz

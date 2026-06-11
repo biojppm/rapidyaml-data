@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+- !light fluorescent
+- !m something
+...
+%TAG !m! !extraordinary-
+---
+- !m!light green
+- !!int 2

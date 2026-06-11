@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: 'also: invalidplain',
+    1: 'also: invalidplain',
+    2: 'also: invalidplain',
+    3: 'also: invalidplain'
+  },
+  keys: {
+    'also: invalidplain': 0,
+    'also: invalidplain': 1,
+    'also: invalidplain': 2,
+    'also: invalidplain': 3
+  }
+}

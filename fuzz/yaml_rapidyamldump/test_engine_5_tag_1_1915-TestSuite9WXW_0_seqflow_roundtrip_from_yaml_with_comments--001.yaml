@@ -1,0 +1,4 @@
+--- !foo [a,b,c]
+...
+%TAG ! tag:example.com,2000:app/
+--- !foo [a,b,c]

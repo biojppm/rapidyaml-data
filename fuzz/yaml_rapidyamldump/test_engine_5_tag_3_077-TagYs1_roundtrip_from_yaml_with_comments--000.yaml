@@ -1,0 +1,4 @@
+   # this is a comment
+!yamlscript/v0/bare
+--- !code
+42

@@ -1,0 +1,8 @@
+!mtag
+!tag : x
+!tag a: x
+!tag []: x
+   # this is a comment
+
+!tag {}: x
+!tag :

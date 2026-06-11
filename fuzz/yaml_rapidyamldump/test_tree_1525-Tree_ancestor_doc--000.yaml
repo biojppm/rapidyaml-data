@@ -1,0 +1,22 @@
+---
+doc0:
+ - a
+ - b
+---
+doc1:
+  doc1:
+   - a
+   - b
+---
+doc2:
+  doc2:
+    doc2:
+     - a
+     - b
+---
+doc3:
+  doc3:
+    doc3:
+      doc3:
+        - a
+        - b

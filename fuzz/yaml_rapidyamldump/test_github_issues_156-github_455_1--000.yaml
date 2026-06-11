@@ -1,0 +1,11 @@
+
+file_format: 0.0
+tracer_provider:
+  processors:
+    - simple:
+        exporter:
+          console:
+  sampler:
+    trace_id_ratio_based:
+      ratio:
+    

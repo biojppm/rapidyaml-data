@@ -1,0 +1,14 @@
+
+? a
+? b
+?
+...
+--- !!set   # test that we do not add any last item
+? a
+? b
+...
+--- !!set   # test that we do add the last item
+? a
+? b
+?
+...

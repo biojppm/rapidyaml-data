@@ -1,0 +1,13 @@
+%TAG !prefix! doc0:
+   # this is a comment
+
+--- !prefix!A
+a: b
+...
+%TAG !prefix! doc1:
+--- !prefix!B
+c: d
+...
+%TAG !prefix! doc2:
+--- !prefix!C
+e: f

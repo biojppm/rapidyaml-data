@@ -1,0 +1,13 @@
+%TAG ! single-
+%TAG !! double-
+%TAG !m! prefixed-
+---
+- !foo bar
+- !!foo bat
+- !m!foo bat
+---
+- !foo bar
+   # this is a comment
+
+- !!foo bat
+- !!str bat

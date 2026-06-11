@@ -1,0 +1,3 @@
+- !<tag:yaml.org,2002:str> s
+- !<tag:yaml.org,2002:int> 0
+- !<tag:yaml.org,2002:foo> 0

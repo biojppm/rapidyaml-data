@@ -1,0 +1,7 @@
+   # this is a comment
+map1:
+  foo1: bar1
+  FOO1: BAR1
+map2:
+  foo2: bar2
+  FOO2: BAR2

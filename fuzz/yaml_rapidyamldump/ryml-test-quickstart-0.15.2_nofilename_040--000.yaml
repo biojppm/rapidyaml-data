@@ -1,0 +1,17 @@
+- a
+- b
+- x0: 1
+  x1: 2
+- champagne: Dom Perignon
+  coffee: Arabica
+  more:
+    vinho verde: Soalheiro
+    vinho tinto: Redoma 2017
+  beer:
+    - Rochefort 10
+    - Busch
+    - Leffe Rituel
+- foo
+- bar
+- baz
+- bat

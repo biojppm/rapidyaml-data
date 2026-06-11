@@ -1,0 +1,16 @@
+#
+# UTF8/16/32 can be placed directly in any scalar:
+#
+en: Planet (Gas)
+fr: Planète (Gazeuse)
+ru: Планета (Газ)
+ja: 惑星（ガス）
+zh: 行星（气体）
+#
+# UTF8 decoding only happens in double-quoted strings,
+# as per the YAML standard
+#
+decode this: "\u263A c\x61f\xE9"
+and this as well: "\u2705 \U0001D11E"
+not decoded: '\u263A \xE2\x98\xBA'
+neither this: '\u2705 \U0001D11E'

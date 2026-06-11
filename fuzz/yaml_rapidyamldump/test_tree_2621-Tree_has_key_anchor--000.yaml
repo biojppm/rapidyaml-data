@@ -1,0 +1,4 @@
+--- &docanchor
+&mapanchor map: {&keyvalanchor foo: bar, anchor: none}
+&seqanchor seq: [&valanchor foo, bar]
+...

@@ -1,0 +1,8 @@
+foo:
+  - bar
+  - 
+baz: qux
+foo2:
+  - bar
+  - 
+baz2: qux

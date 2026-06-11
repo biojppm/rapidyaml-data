@@ -1,0 +1,8 @@
+?
+ - foo
+ - bar
+:
+   # this is a comment
+
+ - baz
+ - bat

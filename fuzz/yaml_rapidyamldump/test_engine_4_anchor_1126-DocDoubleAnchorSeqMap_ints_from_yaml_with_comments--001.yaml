@@ -1,0 +1,4 @@
+--- &docanchor
+   # this is a comment
+
+&anchor [seq, yeah]: foo

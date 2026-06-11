@@ -1,0 +1,4 @@
+orig1: &orig1 {foo: bar}
+orig2: &orig2 {baz: bat}
+orig3: &orig3 {and: more}
+copy: {}

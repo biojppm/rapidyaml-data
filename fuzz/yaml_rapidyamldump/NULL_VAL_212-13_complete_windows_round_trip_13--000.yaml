@@ -1,0 +1,9 @@
+version: 10
+type: test
+param_root:
+  objects:
+    TestContent:
+      Str64_empty: ''
+      Str64_empty2: 
+      Str64_empty3: ''
+  lists: {}

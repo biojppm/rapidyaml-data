@@ -1,0 +1,4 @@
+foo: bar
+... #bad
+   # this is a comment
+

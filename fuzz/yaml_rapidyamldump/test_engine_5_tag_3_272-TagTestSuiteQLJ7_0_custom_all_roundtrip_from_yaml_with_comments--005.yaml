@@ -1,0 +1,8 @@
+--- !A
+a: b
+--- !B
+c: d
+   # this is a comment
+
+--- !C
+e: f

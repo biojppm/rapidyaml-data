@@ -1,0 +1,4 @@
+
+? key
+: \t - one # Explicit compact
+    - two # block value

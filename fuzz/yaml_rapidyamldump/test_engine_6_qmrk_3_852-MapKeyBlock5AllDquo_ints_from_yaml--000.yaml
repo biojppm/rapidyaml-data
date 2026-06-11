@@ -1,0 +1,4 @@
+
+? &mapanchor !maptag
+  &keyanchor !keytag "foo": bar
+: baz

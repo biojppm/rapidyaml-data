@@ -1,0 +1,39 @@
+foo0:
+  foo1:
+    foo2: 000
+    bar2: 001
+    baz2: 002
+  bar1:
+    foo2: 010
+    bar2: 011
+    baz2: 012
+  baz1:
+    foo2: 020
+    bar2: 021
+    baz2: 022
+bar0:
+  foo1:
+    foo2: 100
+    bar2: 101
+    baz2: 102
+  bar1:
+    foo2: 110
+    bar2: 111
+    baz2: 112
+  baz1:
+    foo2: 120
+    bar2: 121
+    baz2: 122
+baz0:
+  foo1:
+    foo2: 200
+    bar2: 201
+    baz2: 202
+  bar1:
+    foo2: 210
+    bar2: 211
+    baz2: 212
+  baz1:
+    foo2: 220
+    bar2: 221
+    baz2: 222

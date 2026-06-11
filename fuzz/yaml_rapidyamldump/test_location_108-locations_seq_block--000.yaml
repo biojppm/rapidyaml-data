@@ -1,0 +1,16 @@
+
+- this
+- is
+- a
+- seq
+- - and
+  - this
+  - - as
+    - well
+  - - # this one works as well
+      # even with a comment in between
+      the scalar value is here
+    -   and here's another value
+    -
+      - another val
+      - yet another val

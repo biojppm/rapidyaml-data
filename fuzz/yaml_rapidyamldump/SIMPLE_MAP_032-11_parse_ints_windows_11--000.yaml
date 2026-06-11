@@ -1,0 +1,9 @@
+
+foo: 0
+  # this is a foo
+bar: 1
+  # this is a bar
+baz: 2
+  # this is a baz
+bat: 3
+  # this is a bat

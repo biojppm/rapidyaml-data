@@ -1,0 +1,2 @@
+foo: !<tag:yaml.org,2002:str> 
+!<tag:yaml.org,2002:str> : bar

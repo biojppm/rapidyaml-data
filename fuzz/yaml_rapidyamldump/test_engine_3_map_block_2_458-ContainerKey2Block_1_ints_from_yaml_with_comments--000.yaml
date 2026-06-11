@@ -1,0 +1,5 @@
+   # this is a comment
+
+foo: bar
+!maptag &mapanchor {this: is, a: keymap}: [and,now,a,seq,val]
+!seqtag &seqanchor [now, reversed]: {of: course}

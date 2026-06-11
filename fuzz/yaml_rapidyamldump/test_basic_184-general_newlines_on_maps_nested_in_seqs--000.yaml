@@ -1,0 +1,7 @@
+enemy:
+- actors:
+  - {name: Enemy_Bokoblin_Junior, value: 4.0}
+  - {name: Enemy_Bokoblin_Middle, value: 16.0}
+  - {name: Enemy_Bokoblin_Senior, value: 32.0}
+  - {name: Enemy_Bokoblin_Dark, value: 48.0}
+  species: BokoblinSeries

@@ -1,0 +1,4 @@
+{a: b}: 42
+   # this is a comment
+
+{c: d}: 42

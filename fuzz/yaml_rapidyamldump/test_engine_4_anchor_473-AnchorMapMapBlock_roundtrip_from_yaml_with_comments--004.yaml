@@ -1,0 +1,6 @@
+&map
+&mapkey map: &mapval
+  &key1 key1: &val1 val1
+   # this is a comment
+
+  &key2 key2: &val2 val2

@@ -1,0 +1,2 @@
+- &alias value1
+- *alias &b

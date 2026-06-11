@@ -1,0 +1,10 @@
+version: '{build}'
+
+image: Visual Studio 2017
+
+environment:
+  matrix:
+    - compiler: msvc-15-seh
+
+    - compiler: msvc-15-seh
+    - compiler: msvc-15-seh

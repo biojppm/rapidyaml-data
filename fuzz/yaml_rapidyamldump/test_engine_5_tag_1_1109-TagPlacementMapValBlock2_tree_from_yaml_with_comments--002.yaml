@@ -1,0 +1,7 @@
+!mtag
+!tag0 : !tag1
+   # this is a comment
+
+  !tag2 : !tag3
+a:
+  : 

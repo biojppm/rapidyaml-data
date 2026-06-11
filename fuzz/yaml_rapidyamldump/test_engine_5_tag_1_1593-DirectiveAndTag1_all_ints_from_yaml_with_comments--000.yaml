@@ -1,0 +1,8 @@
+   # this is a comment
+%YAML 1.2
+---
+!light fluorescent
+...
+%TAG !m! !my-
+---
+!m!light green

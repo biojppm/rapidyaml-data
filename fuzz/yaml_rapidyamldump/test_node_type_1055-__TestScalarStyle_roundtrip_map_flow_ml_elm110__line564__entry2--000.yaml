@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .Not,
+    1: .Not,
+    2: .Not,
+    3: .Not
+  },
+  keys: {
+    .Not: 0,
+    .Not: 1,
+    .Not: 2,
+    .Not: 3
+  }
+}

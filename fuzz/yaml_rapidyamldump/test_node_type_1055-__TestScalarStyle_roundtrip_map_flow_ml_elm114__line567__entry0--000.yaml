@@ -1,0 +1,14 @@
+{
+  vals: {
+    0: .nan,
+    1: .nan,
+    2: .nan,
+    3: .nan
+  },
+  keys: {
+    .nan: 0,
+    .nan: 1,
+    .nan: 2,
+    .nan: 3
+  }
+}

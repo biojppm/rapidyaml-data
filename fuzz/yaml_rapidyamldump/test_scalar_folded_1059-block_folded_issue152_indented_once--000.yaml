@@ -1,0 +1,19 @@
+
+indented_once:
+  ok:
+    - |
+      exec pg_isready -U "dog" -d "dbname=dog" -h 127.0.0.1 -p 5432
+    - parses - yes
+  ok_parses: yes
+  err:
+    - |
+      exec pg_isready -U "dog" -d "dbname=dog" -h 127.0.0.1 -p 5432
+  err_parses: no
+  err2:
+    - >
+      exec pg_isready -U "dog" -d "dbname=dog" -h 127.0.0.1 -p 5432
+  err2_parses: no
+  err3:
+    - >-
+      exec pg_isready -U "dog" -d "dbname=dog" -h 127.0.0.1 -p 5432
+  err3_parses: no

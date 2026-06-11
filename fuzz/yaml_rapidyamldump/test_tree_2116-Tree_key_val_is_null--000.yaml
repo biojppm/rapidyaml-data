@@ -1,0 +1,9 @@
+
+map: {foo: bar, : knil, vnil: }
+seq: [foo, bar]
+: knil
+vnil:
+squoted: ''
+dquoted: ""
+literal: |
+folded: >

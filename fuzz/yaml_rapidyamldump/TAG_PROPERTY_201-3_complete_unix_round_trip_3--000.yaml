@@ -1,0 +1,5 @@
+{
+  ivar: !!int 0,
+  svar: !!str 0,
+  !!str key: !!int val
+}

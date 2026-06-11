@@ -1,0 +1,6 @@
+
+        list:
+            - &bar bar
+        map:
+            node: *bar
+    

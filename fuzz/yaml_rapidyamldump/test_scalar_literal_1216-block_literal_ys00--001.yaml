@@ -1,0 +1,6 @@
+each [k ENV:keys]:
+  when (k =~ /^YAMLLM_/) && not(env-vars.get(k)):
+    die: |
+      Invalid env var '$k'.
+      Not one of:
+      $(env-vars:keys.join("\n"))

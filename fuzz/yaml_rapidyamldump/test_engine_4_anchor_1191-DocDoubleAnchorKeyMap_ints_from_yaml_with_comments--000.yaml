@@ -1,0 +1,3 @@
+   # this is a comment
+--- &docanchor
+&anchor {key: val}: foo
