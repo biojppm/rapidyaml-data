@@ -1,0 +1,29 @@
+{normal: {singleline: foo,multiline: {____________: foo bar,____mid_____: foo
+
+  bar,_m__d_i_end1: 'foo
+
+  bar
+
+  ',____mid_end2: 'foo
+
+  bar
+
+
+  ',____mid_end3: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',beg_mid_midn\n"}}}

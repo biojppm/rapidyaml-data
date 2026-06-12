@@ -1,0 +1,73 @@
+' 1st n  :-,
+    :*,
+    :@,
+    :%,
+    :^,
+    :$,
+    :`,
+    : x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens ЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭare enabled)
+    x:a,
+  
+- {foo: , bar: , baz: }
+- {foo:, bar:, baz:}
+- {foo:foo: , bar:bar: , baz:baz: }
+- {foo:foo:, bar:bar:, baz:baz:}
+- {:foo:foo: , :bar:bar: , :baz:baz: }
+- {:foo:fog:, :bar:bar , bar: , baz: }
+- {foo:, bar:, baz:}
+- {foo:foo: , bar:bar: , baz:baz: }
+- {foo:foo:, bar:bar:, baz:baz:}
+- {:foo:foo: , :bar:bar: , :baz:ba:, :baz:baz:}
+ЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭare enabled)
+    x:a,
+    x:0,
+яяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens ЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,   # this is a map
+      # this is a map
+    x:	,  # this is a map (when tab tokens are enabled)
+    :z:a,
+    :z:0,
+    :z::,
+    :z:-,
+    :z:*,
+    :z:@,
+    :z:%,
+    :z:^,
+    :z:$,
+    :z:`,
+    :z: ,   # this is a map
+    :z:	,  # this is a map (whe‘‘-empяty
+nd non-emp
+ 2nd non-empty
+	3'

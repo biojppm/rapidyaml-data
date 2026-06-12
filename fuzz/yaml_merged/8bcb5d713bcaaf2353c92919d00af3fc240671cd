@@ -1,0 +1,2 @@
+anchored: &anchor !lolue
+alias: *anchor

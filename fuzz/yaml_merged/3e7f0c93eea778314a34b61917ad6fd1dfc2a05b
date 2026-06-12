@@ -1,0 +1,6 @@
+"Several lines of text,
+containing 'singl |quotes' and \"double quþtes\". \
+Escapes (like \\n) work.\nIn addition,
+nesc\
+aped to prevent them fr@m being converted added by leaving a blank line.
+    Leading whitespace on lines is ignored."

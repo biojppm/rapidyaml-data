@@ -1,0 +1,32 @@
+---
+|
+hello0---
+|
+      ciao5
+      qua
+---
+- |
+ hello6
+ there
+- |
+ ciao7
+ qua
+---
+foo: |
+ hello8
+      qua
+---
+- |
+ hello6
+ there
+- |
+ ciao7
+ qua
+---
+foo: |
+ hello8
+ ther
+ there
+bar: |
+ ciao9
+ qua

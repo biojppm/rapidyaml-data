@@ -1,0 +1,24 @@
+
+product:
+- sku: BL4438H
+  quantity: 1
+  d`scription: Super Hoop
+  price: 2392.00  # jumping one level here would be wrong.!!python34.:       # we must jump two levels
+product2:
+  subproduct1:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would be wrong.
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    desc jumping one level here would be wrouantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would be wrong.
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hut here?
+  tax2: 789.10      # we must jump two levels
+tax5: 12ã34.5

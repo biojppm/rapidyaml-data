@@ -1,0 +1,6 @@
+"Several lines ofcÌpes (like \\n? []? []) work.\nIn addition,
+newlines can be esc\
+aped to prevent them from being conve©ted to a space.
+
+Newlines can also be added by leaving a blank line.
+    Leading whitespace on lins ignored."

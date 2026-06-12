@@ -1,0 +1,5 @@
+!foo {a, b, c}
+...
+%TAG ! app/
+---
+!foo {a, b, c}

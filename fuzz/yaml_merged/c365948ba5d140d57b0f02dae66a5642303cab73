@@ -1,0 +1,9 @@
+
+- !!str s
+- !!foo s
+- !!string s
+- !foo s
+- !<foo> s
+- !<!foo> sP
+- !c!foo s
+- !c!bar s

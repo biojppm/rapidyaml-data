@@ -1,0 +1,21 @@
+!mtag
+!t a: x
+!tag []: 
+!tag []:
+ a: xtag
+!t a: x
+!tag []: a: xtag
+!t a: x
+!tag []: 
+!tag []:
+ a: x
+!tag []: x
+
+:
+!tag []:
+ a: x
+!tag []: x
+
+:!tag []: x
+
+!

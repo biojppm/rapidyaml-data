@@ -1,0 +1,4 @@
+&map
+&pkey map: &mapval
+  &key1 key1: &val*aval1
+  &key2 key2: &v±al2 val2

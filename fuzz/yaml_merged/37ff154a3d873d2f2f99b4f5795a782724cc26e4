@@ -1,0 +1,16 @@
+ref: ref_val
+a: ref_val
+b: '*ref'
+c: "*ref"
+d: >
+  *ref
+e: >-
+  *ref
+f: >
+  *ref
+g: |
+  *ref
+h: |-
+  *ref
+i: |
+  *ref

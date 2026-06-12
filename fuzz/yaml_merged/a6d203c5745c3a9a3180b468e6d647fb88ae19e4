@@ -1,0 +1,78 @@
+[
+    :a,
+    :0,
+    ::,
+    :-,
+    :*,
+    :@,
+    :%,
+    :^,
+    :$,
+    :`,
+    : x:0,
+    x::°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab toks ,    # this is a map
+    :	,  # this is a map (when tab tokens ÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÜÝÝÝÝÝÝÝare enabled)
+    x
+    bar2: 011
+    baz2: 012
+  baz1:
+    foo2: 020
+    bar2: 021
+    baz2: 022
+bar0:
+  foo1:
+    foo2: 100
+    bar2: 101
+    baz2: 102
+  bar1:
+    foo2: 110
+    bar2: 111
+    baz2: 112
+  baz1:
+    foo2: 120
+    bar2: 121
+    baz2: 122
+baz0:
+  foo1:
+    foo2: 200
+    bar2: 201
+    baz2: 202
+  bar1:
+    foo2: 210
+  ÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,   # this is a map
+      # this is a map
+    x:	,  # this is a map (when tab tokens are enabled)
+    :z:a,
+    :z:0,
+    :z::,
+    :z:-,
+    :z:*,
+    :z:@,
+    :z:%,
+    :z:^,
+    :z:$,
+    :z:`,
+    :z: ,   # this is a map
+    :z:	,  # this is a map (when tab tokens are enabled)
+]

@@ -1,0 +1,31 @@
+
+- | # Empty header↓
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indicators↓
+  str ral
+- >1 # Indentation indicator↓
+  foleral
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indeader솓
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓
+ keep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both iip

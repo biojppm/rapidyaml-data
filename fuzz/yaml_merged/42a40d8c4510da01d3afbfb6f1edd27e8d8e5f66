@@ -1,0 +1,9 @@
+%TAG ! single-
+%TAG !! double-
+%TAG !m! prefixed-
+---
+- !foo bar
+- !!foo bat
+- !m!foo bat
+---
+-!!str bat

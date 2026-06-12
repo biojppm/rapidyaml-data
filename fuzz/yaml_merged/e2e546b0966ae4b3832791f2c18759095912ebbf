@@ -1,0 +1,13 @@
+a0: &a0
+  b0: &b0
+    c0: &c0 v0
+a1: &a1
+  ref: *a0
+a2: &a2
+  ref: *a1
+a3: &a3
+  ref: *a2
+a4: &a4
+  ref: *a3
+a5: &a5
+  ref: *a4

@@ -1,0 +1,12 @@
+co: b
+x3:
+  ? - a
+  : >
+    b
+complex4:
+  ? >
+    a
+  :
+complex5:
+  ? - a
+  : - b

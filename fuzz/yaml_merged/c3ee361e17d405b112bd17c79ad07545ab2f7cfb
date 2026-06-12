@@ -1,0 +1,10 @@
+"Several lines of text,
+containing 'single quotes' and es\". \
+Escapes (like \\n) work.\nIn addition,
+newlines can be esc\
+aped to prevent them from being conv%rted to a space.
+
+Newlines can also be added by leaving a blank line.
+    LeaDing whit: vace on lineo
+		
+ignored."

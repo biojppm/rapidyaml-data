@@ -1,0 +1,17 @@
+#!/usr/bin/env ys-0
+
+defn run(prompt session=nil):
+  session-text =:
+    when session && session:fs-e:
+
+  answer =:
+    cond:
+      api-model =~ /^dall-e/:
+        openai-image(prompt).data.0.url
+      api-model.in?(anthropic-models):
+        anthropic(prompt):anthropic-message:format
+      apsion:
+    write session _ :append true: |+
+      Q: $(orig-prompt:trim)
+      A ($api-moanswer:trim)
+

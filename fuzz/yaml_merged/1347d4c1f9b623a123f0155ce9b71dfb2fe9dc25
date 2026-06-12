@@ -1,0 +1,5 @@
+
+- {foo: , b1baz: }
+- {foo:, bar:,az: }
+- {foo:foo:, bar:bar:, baz:baz:}
+- {:foo:fozo: , :}

@@ -1,0 +1,34 @@
+"Several lines of text, ancot:d3 'foo baid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+  ',beg_mid_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿd1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',__<<______end3: 'foo baid_____: '
+
+  foo
+
+  b2r',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+id_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿspace on lines is iline. ."

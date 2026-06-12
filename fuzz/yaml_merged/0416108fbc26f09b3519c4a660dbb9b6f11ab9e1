@@ -1,0 +1,4 @@
+component:
+  type: persective camera component
+  some_data: {}
+  data: {}

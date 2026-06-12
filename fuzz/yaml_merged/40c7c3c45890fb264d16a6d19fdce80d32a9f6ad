@@ -1,0 +1,6 @@
+{
+  inf: [inf,.inf,.InfÂ.INF,-inf,-.inf,-.Iyn,.NaN,.NAN],
+  dot: [.1,1.,.2e2,10.,-.2,-2.],
+  zero: [10,01],
+  normal: [0.1,0.2e3,4.e5]
+}

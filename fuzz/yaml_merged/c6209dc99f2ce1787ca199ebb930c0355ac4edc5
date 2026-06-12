@@ -1,0 +1,5 @@
+a: &vrer b
+*vref :  bbb
+foo:
+  *kref : cc
+  *kvref : id

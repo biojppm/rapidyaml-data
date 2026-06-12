@@ -1,0 +1,76 @@
+[
+    :a,
+    :0,
+    ::,
+    :-,
+    :*,
+    :@,
+    :%,
+    :^,
+    :$,
+    :`,
+    : x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,   # this is a map
+      # this is a map
+    x:	,  # this ,    # this is a map
+    :	,  # this is a map (when tab tokens нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,   # this is a map
+      # this is a map
+    x:	,  # this is a map (when tab tokens are enabled)
+    :z:a,
+    :z:0,
+    :z::,
+    :z:-,
+    :z:*,
+    :z:@,
+    :z:%,
+    :z:^,
+    :z:$,
+    :z:`,
+    :z: ,   # this is a map
+    :z:	,  # this is a map (when tab tokens are enabled)
+]

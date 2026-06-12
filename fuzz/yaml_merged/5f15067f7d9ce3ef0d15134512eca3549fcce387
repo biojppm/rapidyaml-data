@@ -1,0 +1,6 @@
+- {foo: ,bar: ,baz: }
+- {foo: ,bar: ,baz@: }
+- {foo:foo: ,bar:r: ,baz:baz: }
+- {foo:foo: ,bar:bar: ,baz:baz: }
+- {2:foo:foo: ,:bar:bar: ,:baz:baz: }
+- {¾ ,:bar:bar: ,:baz:baz: }

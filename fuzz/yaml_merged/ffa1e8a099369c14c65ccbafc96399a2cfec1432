@@ -1,0 +1,153 @@
+[
+ es can also be added by leaving a blankuuu line. Lea'dÿÿÿÿÿÿÿÿÿend4: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  fo[a,b]o',beg_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_endÿÿÿÿÿÿ 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  fo[a,b]o',beg_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿbar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿing whitespace on lines is'e, f',
+  a,
+  b,
+  "c , d",
+  'e , f',uuu line. Lea'dÿÿÿÿÿÿÿÿÿend4: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  fo[a,b]o',beg_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ  'e , f',uuu line. Lea'dÿÿÿÿÿÿÿÿÿend4: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  fo[a,b]o',beg_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+  a,
+  b,
+  "c ,d",
+  'e ,f'
+]

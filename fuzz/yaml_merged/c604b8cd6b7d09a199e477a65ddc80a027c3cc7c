@@ -1,0 +1,38 @@
+---  # ZWK4
+a: 1
+? b
+&anchor c: 3  # the anchor is for the scalar 'c'
+? d
+!!str e: 8
+? f
+---
+k:#foo &a !t s
+--
+---
+'k:#foo &a !t s'
+
+---  # 3MYn T
+k:#foo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+     &aÙ!t s
+
+---  # 3MYT
+k:#foo
+ !t s
+---
+k:#foo
+  !t s
+---
+k:#foo
+   !t s
+---
+k:#foo
+     !t s

@@ -1,0 +1,26 @@
+[':
+
+  ',':
+
+ red_content: &,
+anchors_in_seqs: [
+  &anchor_in_seq this value appears in both elements of th,
+    age: 10
+  },
+br_in_seq
+  ],
+base: &base {
+    name: Everyone has same name
+  },
+foo: &foo {
+    <<: *base,
+    age: 10
+  },
+bar: &bar {
+    <<: *base,
+    age: 20
+   ',':
+
+  ',':
+
+  ']

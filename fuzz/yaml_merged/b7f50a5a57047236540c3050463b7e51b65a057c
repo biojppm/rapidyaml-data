@@ -1,0 +1,6 @@
+a: "d.quotes"
+b: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿseq2
+e: &node
+- x: y
+block: >
+  abcde

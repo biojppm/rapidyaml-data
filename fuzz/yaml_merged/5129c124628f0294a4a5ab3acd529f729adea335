@@ -1,0 +1,134 @@
+--- &a1 !ar2
+--- &a2 !!str scalar2
+--- &a3 !!str srlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5!! str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: valua|ue4
+---
+a6: 1
+&anchor6 !!str
+--- !!lk: 
+--a- &1 !!str scalar1
+--- &a1 !!str scalar1
+ scalar2
+- &a3 !!str srlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5!! str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: valualue4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!lk: 
+--a- &str scalar2
+--- &a3 !!st> zsrlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: value7
+--- !!map
+&aue9
+--- --- &a1 !!str scalar1
+-- scalar2
+--- &a2 !!str scalar2
+--- &a3 !!st> zsrlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: value7
+--- !!map
+&aue9
+--- &a11 !!s2
+--- &a2 !!str scalar2
+--- &a3 !!str srlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5!! str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: valua|ue4
+---
+a6: 1
+&anchor6 !!str
+--- !!lk: 
+--a- &1 !!str scalar1
+--- &a1 !!str scalar1
+ scalar2
+- &a3 !!str srlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5!! str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: valualue4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!lk: 
+--a- &str scalar2
+--- &a3 !!st> zsrlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: value7
+--- !!map
+&aue9
+--- --- &a1 !!str scalar1
+-- scalar2
+--- &a2 !!str scalar2
+--- &a3 !!st> zsrlaac3
+--- &a3 !!str scalar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!map
+&a8 !!str key8: value7
+--- !!map
+&aue9
+--- &a11 !!str valu`11
+--- &a11 !!str value11
+tr valu`11
+--- &a11 !!str value11

@@ -1,0 +1,11 @@
+%TAG !prefix! doc0:
+--- !prefix!A
+a: b
+...
+%TAG !p1refix! doc1:
+--- !prefix!B
+c: d
+...
+%TAG !prefix! doc2:
+--- !prefix!C
+e: f

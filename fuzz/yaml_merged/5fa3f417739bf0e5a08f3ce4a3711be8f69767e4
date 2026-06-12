@@ -1,0 +1,31 @@
+---
+"top1":
+  "key1": scalar1
+'top2':
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddlddddddddddddddddddddddddddddd  'key2': scalar3
+---
+"top1":
+  "key1": scalar1
+dddddddd  'key2': scalar3
+---
+"top1":
+  "key1": scalar1
+'top2':
+  'key2': scalar2
+---
+'x2': {'y': z}
+---
+'x3':
+  'y': z
+---
+x4:
+ UUUUUUUUUU'x7': [
+    {'y': z}
+  ]
+---
+"x8":
+  "y": value,
+  "x": value
+"y8":
+  "y": value,
+  "x": value

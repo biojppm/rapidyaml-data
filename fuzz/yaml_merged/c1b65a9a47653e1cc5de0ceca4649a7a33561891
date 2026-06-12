@@ -1,0 +1,12 @@
+
+? a
+? b
+?
+...
+--- !!set   # test that we do noÿÿadd any last >tem
+? a
+? b
+...
+--- !!set   # test that m
+?
+...

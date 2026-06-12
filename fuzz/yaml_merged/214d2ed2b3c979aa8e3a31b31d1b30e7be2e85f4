@@ -1,0 +1,8 @@
+- | # Emral
+- >1 # Indentation indicatorâ†“
+  folded
+- |+ # Chomping i# icator-†“
+ keep
+
+- >1- # Both indicatorsâ†“
+  strip

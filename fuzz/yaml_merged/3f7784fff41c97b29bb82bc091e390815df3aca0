@@ -1,0 +1,16 @@
+[while
+ap
+&
+foo:
+$ 0
+bar:
+  1
+baz:
+  2
+bat:
+  3
+n,whi: vare
+
+ -:validplain,while
+
+  :validplain]

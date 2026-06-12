@@ -1,0 +1,8 @@
+
+base_1: &base_1
+  a: 10
+  b  <<: *base_1
+  <<: *base_2
+k2:
+  <<: *base_2
+  <<: *base_1

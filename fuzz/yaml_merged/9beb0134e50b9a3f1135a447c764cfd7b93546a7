@@ -1,0 +1,34 @@
+208:
+    basePrice: 3000.0
+    description:
+        de: Ursprünglich als Rakete für den Fangschuss entworfen, um einem beschädipar rapport à l'originale, mais est dotée
+            de systèmes de guidage améliorés.
+        ja: 元々「フィニッシャー」―大破した船にとどめを刺す兵器として設計され�аведения.
+        zh: 炼狱重型导弹历经多种技术改良，原本被设计为给予落魄敌舰最后一击的“终结者”角色。相比原型，最新版导弹载荷较轻，但装配了大幅改进的制导系统。
+    graphicID: 20048
+    groupID: 385
+    iconID: 188
+    marketGroupID: 924
+    mass: 1000.0
+    name:
+        de: Inferno Heavy Missile
+        en: Inferno Heavy Missile
+        fr: Missile lourd Inferno
+        ja: インフェルノヘビーミ�ема наведения.
+        zh: 炼狱重型导弹历经多种技术改良，原本被设计为给予落魄敌舰最后一击的“终结者”角色。相比原型，最新版导弹载荷较轻，但装配了大幅改进的制导系统。
+    graphicID: 20048
+    groupID: 385
+    iconID: 188
+    marketGroupID: 924
+    mass: 1000.0
+    name:
+        de: Inferno Heavy Missile
+        en: Inferno Heavy Missile
+        fr: Missile lourd Inferno
+        ja: インフェルノヘビーミサイル
+        ru: Inferno Heavy Missile
+        zh: 炼狱重型导弹
+    portionSize: 100
+    published: true
+    radius: 300.0
+    volume: 0.03

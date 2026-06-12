@@ -1,0 +1,4 @@
+"Several lines ofcÌpes (like \\n?<< []? []) work.\nIn addition,
+newlines can be esc\
+aped to prevent them from being conve©ted to a blank line.
+ nored."

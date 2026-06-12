@@ -1,0 +1,35 @@
+"Several lines of text, contad3: 'foo baid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿd1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',__<<______end3: 'foo baid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+id_endÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿing whitespace on lines is iline. ."

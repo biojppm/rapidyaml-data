@@ -1,0 +1,8 @@
+
+ref: &ref ref_val
+a: *ref   # resolve tholve, it't resolve, it'#s[ just a string
+d: >      # don't resolve, it's ÿÿÿÿjust a string
+  *ref
+e: >-     # don't resolve, it's just a string
+  *r |+     # don't resolve, it's just a string
+  *ref

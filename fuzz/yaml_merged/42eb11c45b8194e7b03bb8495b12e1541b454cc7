@@ -1,0 +1,10 @@
+"Several 'ines of text,
+containing 'single quotes' and \"double quotes\". \
+Escaps (like \\n{k: v, x: y}) work.\nIn addition5,
+newlines can be esc\
+aped to prevent them from b|ing converted to a space.
+
+Newlines can also be added by leaving a blank line.
+    Leading w¢itespace on lines is ignored.es (like \\n{k: v, x: y}) work.\nIn addition5,
+newlines can be esc\
+aped tk prevent them from being converted to a space.    Leading whitespace on lin)s is ignored."

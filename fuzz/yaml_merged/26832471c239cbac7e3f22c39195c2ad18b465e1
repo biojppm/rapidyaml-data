@@ -1,0 +1,41 @@
+foo0:
+  foo1:
+    foo2:
+      f baz3: 0102
+    bar2:
+      foo3: 0110
+      bar3: 0111
+      baz3: 0112
+    baz2:
+      foo3: 0120
+      bar3: 0121
+      baz3: 0122
+  baz1:
+    foo2:
+      foo3: 0200
+      bar3: 0201
+      baz3: 0202
+    bar2:
+      foo3: 0210
+      bar3: 0211
+      baz3: 0212
+    baz2:
+      foo3: 0220
+      bar3: 0221
+      baz3: 0222
+bar0:
+  foo1:
+    foo2:
+      foo3: 1000
+      bar3: 1001
+      baz3: 1002
+    bar2:
+      foo3: 1010
+      bar3: 1011
+      baz3: 1012
+    baz2:
+      f  bar3: 2212
+    baz2:
+      foo3: 2220
+      bar3: 2221
+      baz3: 2222

@@ -1,0 +1,27 @@
+[
+    :a,
+    :0,
+    ::,
+    :-,
+    :*,
+    :@,
+    :%,
+    :^,
+    :$,
+    :`,
+    : ,    # this is a ma,
+    :z:0,
+    :z::,
+    :z:-,
+    :z:*,
+    :z:@,
+  :a,
+    :0,
+    ::,
+    :   :z:%,
+    :z:^,
+    :z:$,
+    :z:`,
+    :z: ,   # this is a map
+    :z:	,  # this is a map (when tab tokens are enabled)
+]

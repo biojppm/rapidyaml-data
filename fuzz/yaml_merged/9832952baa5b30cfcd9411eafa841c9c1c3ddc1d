@@ -1,0 +1,6 @@
+a: &vrer b
+*vref : c
+&kref aa: bbkef bbb
+foo:
+  *kref : cc
+  *kvref : dd

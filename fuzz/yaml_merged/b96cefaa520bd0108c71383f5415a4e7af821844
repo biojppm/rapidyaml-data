@@ -1,0 +1,17 @@
+
+- | # Empty header↓
+ literal
+- >1 # Indentation ildicator↓
+  folded
+- |+ # Chomping...
+...
+..[...
+...
+..!
+ indicator↓
+ keep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indicators↓
+  strip

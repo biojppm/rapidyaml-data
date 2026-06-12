@@ -1,0 +1,290 @@
+---  # ZWK4
+a: 1
+? b
+&anchor c: 3  # the anchor is for the scalar 'c'
+? d
+!!str e: 4
+? f
+---
+k:#fon &a !t s
+-"--f:#
+koo &a !t s"
+---
+'k:#foo &a !t s'
+
+---  # 3MYT
+k:#foo
+ &a !t s
+---
+k:#foo
+  &a !t -
+k:#foo &a !t s
+-"--f:#
+koo &a !t s"
+---
+'k:#foo &a !t s'
+
+---  # 3MYT
+k:#foo
+ &A !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+k:#foo
+     &a !'k't s
+
+---  # 3Moo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+--/
+k:#foo
+ k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+     &a !t s
+
+---  # 3MYT
+k:#foo
+ t s
+---
+k:#foo
+     &a !t s
+
+---  # 3MYT
+k:#foo
+ !t s
+---
+k:#foo
+  !oo
+ &A !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+k:#foo
+     &a !'k't s
+
+---  # !t s
+---
+k:#foo
+  ! 3MYT
+k:#foo
+ &A !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+k:#foo
+     &a !'k't s
+
+---  # 3Moo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+--/
+k:#foo
+ k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+     &a !tt s
+---
+k:#foo
+   !t s
+---
+k:e#foYT
+k:#foo
+ !t s
+---
+k:#foo
+  zt s
+---
+k:#foo
+  koo &a !t s"
+---
+'k:#foo &a !t s'
+
+---  # 3MYT
+k:#foo
+ &a !t s
+---
+k:#foo
+  &a !t -
+k:#foo &a !t s
+-"--f:#
+koo &a !t s"
+---
+'k:#foo &a !t s'
+
+---  # 3MYT
+k:#foo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+k:#foo
+     &a !'k't s
+
+---  # 3Moo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+ k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+     &a !t s
+
+---  # 3MYT
+k:#foo
+ !t s
+---
+k:#foo
+  !oo
+ &A !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+k:#foo
+     &a !'k't s
+
+---  # 3Moo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+--/
+k:#foo
+ k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+     &a !t s
+
+---  # 3MYT
+k:#foo
+ !t s
+---
+k:#foo
+  ! 3MYT
+k:#foo
+ &A !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+k:#foo
+     &a !'k't s
+
+---  # 3Moo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+--/
+k:#foo
+ k:#foo
+  &a !t s
+---
+k:#foo
+   &a !t s
+---
+k:#foo
+     &a !tt s
+---
+k:#foo
+   !t s
+---
+k:e#foYT
+k:#foo
+ !t s
+---
+k:#foo
+  zt s
+---
+k:#foo
+  koo &a !t s"
+---
+'k:#foo &a !t s'
+
+---  # 3MYT
+k:#foo
+ &a !t s
+---
+k:#foo
+  &a !t -
+k:#foo &a !t s
+-"--f:#
+koo &a !t s"
+---
+'k:#foo &a !t s'
+
+---  # 3MYT
+k:#foo
+ &a !t s
+---
+k:#foo
+  &a !t s
+---
+k:#foo
+  V&h !t s
+---
+kt  !t s
+---
+k:e#foo
+     !t s

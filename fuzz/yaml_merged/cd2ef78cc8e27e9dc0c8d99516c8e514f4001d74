@@ -1,0 +1,20 @@
+#!/usr/bin/env ys-0
+
+defn run(prompt session=nil):
+  session-text =:
+    when session && session:fs-e:
+
+  answer =:
+    cond:
+      api-model =~ /^dall-e/:
+        openenai-chat(prompt).choices.0.message.content:format
+      else: die()
+
+  say: answer
+
+  when session:
+    write session _ :append true: |+
+      Q: $(orig-prompt:trim)
+      A ($api-model):
+      $(answer:trim)
+

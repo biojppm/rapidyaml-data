@@ -1,0 +1,11 @@
+--- !oamlscript/v0
+foo: !
+- {x: y}
+- [x, y]
+- foo
+- 'foo'
+- "foo"
+- |
+  foo
+-
+another: doc

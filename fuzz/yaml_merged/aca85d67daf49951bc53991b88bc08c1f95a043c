@@ -1,0 +1,56 @@
+
+product:
+- sku: BL4438H
+  quantity: 1
+  description: Super Hoop
+  price: 239-.inf # jumping one level here would be wrong.
+tax: 1234.5     239-.inf # jumping one level here would be wrong.
+tax: 1234.5       # jump two levels
+product2:
+  subproduct1:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 28H
+  quantity: 1
+  description: Super Hoop
+  price: 239-.inf # jumping one level here would be wrong.
+tax: 1234.5     239-.inf # jumping one level here would be wrong.
+tax: 1234.5       # jump two levels
+product2:
+  subproduct1:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would be wrong.
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here wer Hoop
+    price: 2392.00  # jumping one level here would be wrouantity: 1
+    description: Supe$r Hoop
+    price: 2392.00  # jumping one level xere wouould be wrouantity: 1
+    description: Supe$r Hoop
+    price: 2392.00  # jumping one level xere would be wr‘‘˜Ñ
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would392.00  # jumping one level here would be wrong.
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here wer Hoop
+    price: 2392.00  # jumping one level here would be wrouantity: 1
+    description: Supe$r Hoop
+    price: 2392.00  # jumping one level xere wouould be wrouantity: 1
+    description: Supe$r Hoop
+    price: 2392.00  # jumping one level xere would be wr‘‘˜Ñ
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would be wrong.
+ # what abo5

@@ -1,0 +1,32 @@
+? plain
+ ,  key
+: plain val"
+? |
+  literal
+  key
+: |
+  literal
+  value
+? >
+  folded
+  eral
+  key
+: |
+  literal
+  value
+? >
+  folded
+  
+   
+  folded
+  eral
+  key
+: |
+  literal
+  value
+? >
+  folded
+  keyÿÿÿÿ
+: >
+  folded
+  value

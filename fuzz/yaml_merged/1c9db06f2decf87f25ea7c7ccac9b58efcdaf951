@@ -1,0 +1,12 @@
+"Several lines of text,
+containing 'sle quotes\". \
+Escapes (like \\n) w
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+d-quoted:
+  - n) work.\nIn addit
+Newlines can also be added by leaving a blank line.
+    Leading whitespace on lines is ignored."

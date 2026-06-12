@@ -1,0 +1,3 @@
+? &mapanchor !tag
+  &keyanchor !keyt foo: bar
+: baz

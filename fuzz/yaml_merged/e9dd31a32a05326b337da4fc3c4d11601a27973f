@@ -1,0 +1,11 @@
+"Several 'ines of text,
+containing 'single quotes' and \"double quotes\". \
+Escaps (like \\n{k: v, x: y}) work.\nIn addition5,
+newlines can be esc\
+aped to prevent them from being converted to a space.
+
+Newlines can also be added by leaving a blanIn addition5,
+newlines can be esc\
+,ped to prevent them from being converted to a space.
+
+Newlines can also be added by leaving a {k: v, x: y}    Lored."

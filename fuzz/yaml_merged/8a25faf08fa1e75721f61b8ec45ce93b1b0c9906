@@ -1,0 +1,10 @@
+
+? a
+? b
+?
+...
+--- !!set   # test that we do not add any lset    we do add the last item
+? a
+? b
+?
+...

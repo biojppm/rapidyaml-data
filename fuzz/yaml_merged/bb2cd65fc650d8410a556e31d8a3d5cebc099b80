@@ -1,0 +1,13 @@
+
+    traits:
+        roleBonuses:
+        -   bonus: 5
+            bonusText:
+                de: Bonus auf die Vivirus des <a href=showinfo:22177>analyseurs
+                    de reliques</a> et des <a href=showinfo:22175>analyseurs de données</a>
+                ja: <a�イルス強度が増加
+                ru: повышается степень опасносo:22177>комплексах анализа
+                    артефактов</a>
+                zh: <a href="showinfo:22177">遗�刞����仪</a>和<a href="showinfo:22175">数据分析仪</a>病毒强度加成
+            importance: 1
+            unitID: 139

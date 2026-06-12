@@ -1,0 +1,18 @@
+? plain
+    key
+: plain
+    val
+? 'squouo
+    val'
+? "dquo
+   al"
+? |
+  literal
+  key
+: |
+  literal
+  value
+? >
+  folded
+  key
+:

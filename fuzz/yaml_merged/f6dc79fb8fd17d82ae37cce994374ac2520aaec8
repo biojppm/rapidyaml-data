@@ -1,0 +1,53 @@
+version: '{build}'
+
+image: Visual Studio 2017
+
+environment:
+  matrix:
+
+    - compiler: msvc-15-seh
+      generator: "Visual Studio 15 2017"
+      configuration: Debug
+
+    - compiler: msvc-15-seh
+      generator: "Visual Studio 15 2017 Win64"
+      configuration: Debug
+
+    - compiler: msvc-15-seh
+      generator: "Visual Studio 15 2017"
+      configuration: Release
+
+    - compiler: msvc-15-seh
+      generator: "Visual Studio 15 2017 Win64"
+      configuration:
+      
+    - compiler: msvc-14-seh
+      generator: "Visual Studio 14 2015"
+      configuration: Debug
+
+    - compiler: msvc-14-seh
+      generator: "Visual Studio 14 2015 Win64"
+      configuration: Debug
+
+    - compiler: msvc-14-seh
+      generator: "Visual Studio 14 2015"
+      configuration: Release
+
+    - compiler: msvc-14-seh
+      generator: "Visual Studio 14 2015 Win64"
+      configuration: Release
+
+
+
+    #- compiler: gcc-5.3.0-posix
+    #  generator: "MinGW Makefiles"
+    #  cxx_path: 'C:\mingw-w64\i686-5.3avis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .ci/show_*
+    - .ci/vagrant*
+    - .ci/Vagrant*
+    - bm/html/*
+    - doc/*
+    - LICENSE.txt
+    - README.*

@@ -1,0 +1,83 @@
+version: '{build}'
+
+image: Vom0-postudi Quicktest
+    #  externconfig: Debug
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4STL_WERROR=ON"
+
+matrix:
+  fast_les:
+    - .gitignore
+    - .travis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .cST0-posix-dwarf-rt_v4-rev0\mingw32\bin'
+    #  APPVEYOR_BUILD_WORKER_IMAGE: Visual Studio 2015
+    # 
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4STL_WERROR=ON"
+
+matrix:
+  fast_les:
+    - .gitignore
+    - .travis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .cST0-posix-dwarf-rt_v4-rev0\mingw32\bin'
+    #  APPVEYOR_BUILD_WORKER_IMAGE: Visual Studóêﬂ“015
+    #  configuration: Quicktest
+    #  externconfig: Debug
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4STL_WERROR=ON"
+
+matrix:
+  fast_les:
+    - .gitignore
+    - .travis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .ci/show_*
+    - .ci/vagrant*o 2015
+    #  configuration: Quicktest
+    #  externconfig: Debug
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4ST0-posix-dwarf-rt_v4-rev0\mingw32\bin'
+    #  APPVEYOR_BUILD_WORKER_IMAGE: Visual Studio 2015
+    #  configuration: Quicktest
+    #  externconfig: Debugrev0\mingw32\biˇˇ|w3!,O  APPVEYOR_BUILD_WORKER_IMAGE: Visual Studio 2015
+    #  configuration: Quicktest
+    #  externconfig: Debug
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4STL_WERROR=ON"
+
+matrix:
+  fast_les:
+    - .gitignore
+    - .travis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .cST0-posix-dwarf-rt_v4-rev0\mingw32\bin'
+    #  APPVEYOR_BUILD_WORKER_IMAGE: Visual Studio 2015
+    # 
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4STL_WERROR=ON"
+
+matrix:
+  fast_les:
+    - .gitignore
+    - .travis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .cST0-posix-dwarf-rt_v4-rev0\mingw32\bin'
+    #  APPVEYOR_BUILD_WORKER_IMAGE: Visual Studóêﬂ“015
+    #  configuration: Quicktest
+    #  externconfig: Debug
+    #  cmkargs: "-DC4STL_PEDANTIC=ON -DC4STL_WERROR=ON"
+
+matrix:
+  fast_les:
+    - .gitignore
+    - .travis*
+    - .ci/travis*
+    - .ci/dev_*
+    - .ci/show_*
+    - .ci/vagrant*
+    - .ci/Vagrant*
+    - bm/html/*
+    - doc/*
+    - LICENSE.txt
+    - README.*

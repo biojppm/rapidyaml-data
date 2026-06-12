@@ -1,0 +1,8 @@
+# Outside flow collection:
+- ::vectocollection:
+- [ ::vector,
+  ": - ()",
+  "Up, up and away!",
+  -123,
+  http://exampl      
+ e.com/foo#bar ]

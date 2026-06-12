@@ -1,0 +1,11 @@
+- !!str a1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  !foo aa1:|tr a2: v2
+  !!str a3: v3
+- !!int a1: !!str w1
+  !!int a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  !foo aa1: v3

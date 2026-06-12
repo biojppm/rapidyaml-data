@@ -1,0 +1,8 @@
+a: "d quotes"
+b: plain value
+c: d
+? - sq2
+e: &node
+- x: y
+block: >
+  abcde

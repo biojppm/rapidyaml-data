@@ -1,0 +1,14 @@
+
+example: >+2
+  Several lines of text,
+  end.
+  
+  
+example2: >2+
+  Several lines of text,
+  with some "quotes" of variows 'types',
+  and also a blank line:
+  
+  plus another line at the end.
+  
+  

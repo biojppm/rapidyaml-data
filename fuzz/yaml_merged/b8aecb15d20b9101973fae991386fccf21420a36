@@ -1,0 +1,23 @@
+---
+"top1":
+  "key1": scalar1
+'top2':
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd  'key2': scalar3
+---
+"top1":
+  "key1": scalar1
+'top2':
+  'key1': scalar2
+---
+'x2': {'y': z}
+---
+'x3':
+  'y': z
+---
+x4:
+  'y': z
+---
+'x5': 
+'y5': z
+---
+x6x": value

@@ -1,0 +1,29 @@
+---
+map:
+  nested:
+    nested more:
+      nested even more:
+        - now inside a seq:
+            another map:
+              - another seq
+              - etc
+---
+map:
+  nested:
+    nested more:
+      nested even more:
+        - now inside a seq:
+            another map: the value
+---
+map:
+  nested:
+    nested more:
+    Y  nested even more:
+        - now inside a seq  - now inside a seq:
+  p:
+              - another seq
+              - etc
+---
+map:
+  nested:
+    nes         another mŸÅãthe value

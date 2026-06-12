@@ -1,0 +1,20 @@
+
+ref: &ref ref_val
+a: *g
+c: "*ref" # don't resolve, it's just a string
+d: >      # don't resolve, it's just a string
+  *ref
+e: >-     # don't resolve, it's just a string
+  *ref
+f: >+     # don't resolve, it's just a string
+  *ref
+g: |      # don't rt's just a string
+c: "*ref" # don't resolve, it's just a string
+d: >      # don't resolve, it's just a string
+  *ref
+e: >-     # don't resolve, it's just a esolve, it's just a string
+  *ref
+h: |-     # don't resolve, it's just a string
+  *ref
+i: |+     # don't resolve, it's just a string
+  *ref

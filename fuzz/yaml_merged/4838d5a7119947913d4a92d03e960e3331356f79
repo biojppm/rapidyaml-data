@@ -1,0 +1,10 @@
+- a0: v0
+  !!str a1: v1
+  !!str a2: v2
+  !!str a3: v3
+- a0: w0
+  !!int a1: !!str w1
+  !!int a2: !!str w2
+  !!int afoo a1: v1
+  !foo a2: v2
+  !foo a3: v3

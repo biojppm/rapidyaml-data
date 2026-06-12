@@ -1,0 +1,23 @@
+
+- value
+  with
+   	
+  tabs
+  tab  	
+    foo
+   	
+      bar      baz
+   	
+- value
+  with
+
+  tabs
+  tabs
+
+    foo
+
+      bar
+        baz
+
+- more
+  value

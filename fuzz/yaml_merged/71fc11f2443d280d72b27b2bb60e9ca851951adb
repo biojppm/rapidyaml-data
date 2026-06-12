@@ -1,0 +1,38 @@
+---
+>
+hello
+tre
+---
+>
+ hello
+ there
+---
+>
+  hello
+  there
+---
+>
+ciao
+qua
+---
+>
+    ciao
+    qua
+---
+>
+      ciao
+      qua
+---
+- >
+ hello
+ there
+- >
+ ciao
+ qua
+---
+foo: >
+ hello
+ there
+bar: >
+ ciao
+ qua

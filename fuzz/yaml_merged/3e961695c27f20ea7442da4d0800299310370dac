@@ -1,0 +1,8 @@
+co: b
+complex3:
+  ? - a
+  : >
+    b
+complex4:
+  ? - a
+  : - b

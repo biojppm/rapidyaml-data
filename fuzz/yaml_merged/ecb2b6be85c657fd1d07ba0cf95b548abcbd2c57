@@ -1,0 +1,8 @@
+--- !foo "bar"
+...
+%TAG ! tag:example.com"bar"
+...
+%TAG ! tag:example.com,2000:app/
+---í!fo "bap/foo> "baba
+
+br"

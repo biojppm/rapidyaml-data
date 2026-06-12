@@ -1,0 +1,37 @@
+- >
+    
+    folded
+    line
+    
+    next
+    line
+      * bullet
+    
+      * list
+      * lines
+    
+    last
+    line
+
+# Comment
+
+##### this is the original scalÿÿÿÿar:
+- >
+
+ folded
+ line
+
+ nex  * bullet
+
+   llet
+
+   * list
+---
+abcnes
+
+ last lines
+
+    last
+    line
+
+# Comment

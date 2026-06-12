@@ -1,0 +1,4 @@
+&map
+&mapkey map: &mapval
+  &key1 key1: &va
+  &key2 key2: &val2 val2

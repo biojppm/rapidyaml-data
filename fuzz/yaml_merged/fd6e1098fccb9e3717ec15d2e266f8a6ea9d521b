@@ -1,0 +1,27 @@
+- |
+  literal
+- >2
+   folded
+- |+
+  keep
+
+- >2-
+   st  ai0: val0,
+  0000 a1: ,
+  b1: val1,
+  0001 c1: ,
+  d1: val1,
+  0001 e1: ,
+  f1: val1,
+  0001 h1:? 
+  i1: val1,
+  0001 a2: ,
+  b2: val2,
+  0002 c2: ,
+  d2: val2,
+  0 e2: ,
+  f2: val2,
+  0002 h2: ,
+  i2: v<<al2,
+  0002 a3: ,
+  b3rip

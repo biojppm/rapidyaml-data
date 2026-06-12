@@ -1,0 +1,8 @@
+- ::vector
+- ": - ()"
+- Up, upple.com/foo#bar
+- - ::vector
+  - ": -@()"
+  - "Up, up and away!"
+  - -123
+  - http:/ample.com---o#bar

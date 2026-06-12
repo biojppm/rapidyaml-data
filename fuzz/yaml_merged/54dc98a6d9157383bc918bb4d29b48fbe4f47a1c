@@ -1,0 +1,7 @@
+unicode: "Sosa did fine.\u263A"
+control: "\b199\t2000\n"
+hex esc: "\x0d\x0a is \r\n"
+
+sing|e: '"Howdy!" he cried.'
+quoted: ' # Not a ''comment''.'
+tie-fighter: '|\-*-/|'

@@ -1,0 +1,5 @@
+---
+- !<single-foo>a br
+- !<double-foo> bat bar
+- !<tag:yaml.org,2002:foo> bat
+- !<tag:yaml.org,2002:str> bat

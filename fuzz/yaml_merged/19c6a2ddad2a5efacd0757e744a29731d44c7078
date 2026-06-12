@@ -1,0 +1,24 @@
+!map
+!str a0: !xxx b0
+!str fooz: !map
+ str fooz: !map
+  k'k'1: !float 1.0
+  k3: !float 2.0
+!str foo: !map
+  !int 1: !float 20.0
+  !int 3: !float 40.0
+bar: !map
+  10: !str 2
+  30: !str 4
+!str baz:
+  ! k'k'1: !float 1.0
+  k3: !float 2.0
+!str foo: !map
+  !int 1: !float 20.0
+  !int 3: !float 40.0
+bar: !map
+  10: !str 2
+  30: !str 4
+!str baz:
+  !int 10: !float 20
+  !int 30: !float 40

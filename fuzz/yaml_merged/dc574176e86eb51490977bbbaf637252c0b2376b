@@ -1,0 +1,4 @@
+unc: "\x0d\x0a is \r\n"
+
+single: '"Howdy%YAML`1. ''comment''.'
+eg-itfihtero: '|~\-*-/|'

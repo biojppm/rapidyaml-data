@@ -1,0 +1,10 @@
+---
+unicode: "\u263A\u2705\U0001D11E"
+control: "\b1998\ttiline -00\n"
+hex esc: "\x0d\x0a i \r\n"
+---
+- "\x0d\x0a is \r\n"
+---
+{hex esc: "\x0d\x0a is \r\n"}
+---
+["\x0d\x0a is \r\n"]

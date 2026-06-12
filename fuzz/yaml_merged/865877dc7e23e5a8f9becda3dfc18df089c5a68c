@@ -1,0 +1,9 @@
+
+foo: b[a,b]ar
+---
+foo: bar
+---
+foo: bar
+---
+foooo:
+---

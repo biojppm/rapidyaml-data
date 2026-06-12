@@ -1,0 +1,13 @@
+anchor_objects:
+  - &id001
+    name: id001
+  - &id002
+    name: id002
+  - name: id003
+  - &id004
+    name: id004
+references:
+  refery: *id001
+  reference_list:
+    - *id002
+    - *id004

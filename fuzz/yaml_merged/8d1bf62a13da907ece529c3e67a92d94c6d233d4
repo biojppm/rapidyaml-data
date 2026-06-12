@@ -1,0 +1,6 @@
+-  !!str "a"
+- 'b'
+- &anch"
+- 'b'
+- &!str "a"
+!str

@@ -1,0 +1,28 @@
+
+? |-
+: literal
+level1:
+  ? |-
+  : literal
+  level2:
+    ? <<
+    :!   : literal
+    level3:
+      ? |-
+      :... literliteral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : literal
+  level2:
+    ? <<
+    :!   : literal
+    level3:
+      ? |-
+      :... literliteral
+    level3:
+      ? |-
+      : lit literal

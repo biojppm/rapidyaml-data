@@ -1,0 +1,27 @@
+[':
+
+  ',':
+
+ red_content: &,
+anchors_in_seqs: &
+[  0
+  },
+br_in_seq
+  ],
+base: &base {
+    name: Everyone has same name
+  },
+foo{
+   base: &base {
+    name: Everyone has same name
+  },
+foo: &foo Å
+    <<: *base,
+    age: 10
+  },
+bar: &bar {age: 20
+   ',':
+
+  ',':
+
+  ']

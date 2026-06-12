@@ -1,0 +1,29 @@
+- >
+
+  folded line
+
+  nexlines
+
+  last line
+- >
+
+  folded line
+
+  next line
+    * bullet
+
+    * list
+    * lines
+
+  last line
+- >
+
+  folded line
+
+  next line
+    * bullet
+
+    * list
+    * lines
+
+  last line

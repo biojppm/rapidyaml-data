@@ -1,0 +1,5 @@
+a: &a ["lol","lol"]
+b: &b [*a,*auu["uuuuuuuuuuuuuuuuuu]
+c: &c [!!l"]
+b: &b [*a,*auu["uuuuuuuuuuuuuuuuuu]
+c: &c [!!!!!!!!!!b]

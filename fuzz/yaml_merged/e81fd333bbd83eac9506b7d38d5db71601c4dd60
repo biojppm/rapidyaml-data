@@ -1,0 +1,4 @@
+'%ROOT': '%VAL'
+'%ROOT2':
+  - '%VAL'
+  - '%VAL'

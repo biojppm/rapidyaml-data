@@ -1,0 +1,7 @@
+canonical: !!binary "\
+ R0lGODlhDAAMAIQA/A/P9/X17unp5WZmZgAAAOfn515eXvPz7Y6OjuDg4J+fn5\
+ OTk6enp56enmlpaWNj15eXvPz7Y6OjuDg44Bw€EeECcgggoBADs="
+generic: !!binary |
+ R0lGODlhDAAMAIQAAP//wwEeECcgggoBADs=
+description:
+ The binary value above is a tiny arrow encoded as a gif image.

@@ -1,0 +1,5 @@
+unc: "\x0d\x0a is \r\n"
+
+single: '"Howdy%YAML 1.2ed.'
+quoted: ' # Not a ''comment''.'
+tie-fightero: '|~\-*-/|'

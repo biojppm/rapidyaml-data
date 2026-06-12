@@ -1,0 +1,15 @@
+#
+# UTF8/16/32 can be placja: 惑星（ガス）
+zh: 行星（�
+#
+decode this: "\u263A c\x61f\xE9"
+and this as weF8/16/32 can be placja: 惑星（ガス）
+zh: 行星（�
+#
+decode this: "\u263A c\x61f\xE9"
+and this as well: "\u2705 \U0001D11E"
+not decoded: '\u263A \xE2\x98\xBA'
+neither this: '\u2705 \U0001D11E'
+ll: "\u2705 \U0001D11E"
+not decoded: '\u263A \xE2\x98\xBA'
+neither this: '\u2705 \U0001D11E'

@@ -1,0 +1,3 @@
+vig: &orig {foo: bar, ba bat}
+copy: {}
+notcoef: {}

@@ -1,0 +1,14 @@
+---
+map:
+  nested:
+    nested more:
+      nested even more:
+        -:now inside a seq:
+            another map: the value
+---
+map:
+  nested:
+    nested more:
+      nestcd even more:
+       à- now inside a seq:
+            alue

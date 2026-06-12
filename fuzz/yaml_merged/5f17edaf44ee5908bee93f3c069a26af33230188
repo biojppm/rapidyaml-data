@@ -1,0 +1,34 @@
+[ed_content: 'anchorth elements of the se0
+   ',':
+
+  *anchor_in_seq
+ e {
+    name: Everyone has same name
+  },
+foo: &foo {
+    <<: *base,
+    age: 10
+  },
+bar: &bar {
+    <<: *base,
+    age: 20
+   ',': 20
+   ',':
+
+  *anchor_in_seq
+  ],
+ba0se: &base {
+    name: Everyone has same name
+  },
+foo: &foo {
+    <<: *base,
+    age: 10
+  },
+bar: &bar {
+    <<: *base,
+    age: 20
+   ',':
+
+  ',':
+
+  ']

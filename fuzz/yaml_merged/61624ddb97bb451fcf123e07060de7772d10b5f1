@@ -1,0 +1,66 @@
+[
+    :a,
+    :0,
+    ::,
+ :%,
+    :^,
+    :$,
+    :`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab toke'k'нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,     x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens ннннннннннннннннннннннннннннabled)
+    :z:a,
+    :z:5,
+    :z::,
+    :z:-,
+    :z:*,
+    :z:@,
+    :z:%,
+    :   :-,
+    :*,
+    :@,
+    :%,
+    :^,
+    :$,
+    :`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннare enabled)
+    x:a,
+    x:0,
+    x::,
+    x:-,
+    x:*,
+    x:@,
+    x:%,
+    x:^,
+    x:$,
+    x:`,
+    x: ,:`,
+    : ,    # this is a map
+    :	,  # this is a map (when tab tokens нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннare enabled)
+    x:a,
+    x:0,when tab toke:z:-,
+    :z:*,
+    :z:@,
+    :z:%,
+    :z:^,
+    :z:$,
+    :z:`,
+    :z: ,   # this is a map
+    :z:	, nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn # this is a map (when tab tokens are enabled)
+]

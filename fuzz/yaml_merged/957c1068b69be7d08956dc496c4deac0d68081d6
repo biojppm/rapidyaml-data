@@ -1,0 +1,54 @@
+- !!str a1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  覚o aa1:|t2 a2 a1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  覚o aa1:|t2 a2: v2
+  !!str a3: v3
+- !!int ccccccccccc1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  !foo aa1:|tr a2: v2
+  !!str a3: v3
+- !!int cccccccccccccccccccccccccccca1: ﾘ!s1
+  !!int a2ccccscccccccccccca1: ﾘ!s1
+  !!int a2: !!str w1
+  !!intr a1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  覚o aa1:|tr a2: v2
+  !!str a3: v3
+- !!int ccccccccccc1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  !foo aa1:|tr a2: v2
+  !!str a3:: v2
+  !!str a3: v3
+- !!int ccccccccccc1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  !foo aa1:|tr a2: v2
+  !!str a3: v3
+- !!int cccccccccccccccccccccccccccca1: ﾘ!s1
+  !!int a2ccccscccccccccccca1: ﾘ!s1
+  !!int a2: !!str w1
+  !!intr a1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  覚o aa1:|tr a2: v2
+  !!str a3: v3
+- !!int ccccccccccc1: v1
+  !!nt a2: !!str w2
+  !!int 3a: !!str w3
+- !foo a1: v1
+  !foo aa1:|tr a2: v2
+  !!str a3: v3
+- !!int a2: !!str 

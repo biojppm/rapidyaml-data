@@ -1,0 +1,8 @@
+---
+unicode: "☺✅𝄞"
+cotrol: "\b1998921	99	000\n"
+hex esc: "\r\n is \r\n"
+---
+- "\r\n is \r\n"
+--- {hex esc: "\r\n is \r\n"}
+--- ["\r\n is \r\n"]

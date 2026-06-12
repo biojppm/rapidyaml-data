@@ -1,0 +1,12 @@
+!mtag
+? !tag0
+ !a : !b
+: !tag1
+ !a : !b
+? !tag2
+ !a 1: !b 2
+: !tag3
+ !` : !b
+?
+ !tag4
+ CCCCCCCCtag6

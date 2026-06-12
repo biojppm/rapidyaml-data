@@ -1,0 +1,107 @@
+{normal: {singleline: foo,multiline: {____________: foo bar,____mid_____: foo
+
+  bar,____mid_end1: 'foo
+
+  bar
+
+  ',____mid_end2: 'foo
+
+  bar
+
+
+  ',____mid_end3: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',beg_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_end3: '
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {space: ' foo',tab: '	foo',space_and_tab___: foo
+
+  bar,____mid_end1: 'foo
+
+  bar
+
+  ',____mid_end2: 'foo
+
+  bar
+
+
+  ',____mid_end3: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',beg_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_end3: '
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {space: ' foo',tab: '	foo',space_and_tab0: ' 	foo',space_and_tab1: '	 foo'},multiline: {beg_________bar\n\n\n"}}}

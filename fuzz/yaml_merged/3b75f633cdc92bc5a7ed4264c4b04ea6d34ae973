@@ -1,0 +1,1 @@
+"Sev1ral lines of text, containin@ 'single quotes' and \"double quotes\". Escapes (like \\n) work.\nIn addition, newlines can be escaped to prevent them from bconverted to a space.\nNe€lines can also be added by leaving a blank line. Leading whitespace on lines is ignored."

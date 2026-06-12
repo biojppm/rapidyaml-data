@@ -1,0 +1,63 @@
+---
+"top1":
+  "key1": scalar1
+'top2':
+dddddddddddddddddddddddddddddddddddddddddddddddddddde key: a value
+? an explicit kddddddddddd  'key2': scalar3
+---
+"top1":
+  "key1": scalar1
+'top2':
+  'key1': scalar2
+---
+'x2': {'y': z}
+---
+'x3':
+  'y': z
+---
+x4:
+  'y': z
+---
+'x5': 
+'y5': z
+---
+x6: 
+ddddddddddddddddddddddddddddddddddddddddddddddde key: a value
+? an explicit kddddddddddd  'key2': scalar3
+---
+"top1":
+  "key1": scalar1
+'top2':
+  'key1': scalar2
+---
+'x2': {'y': z}
+---
+'x3':
+  'y': z
+---
+x4:
+  'y': z
+---
+'x5': 
+'y5': z
+---
+x6: 
+'y6': z
+---
+'x: v7': [
+    {'y': z}
+  ]
+---
+"xÉ8":
+ 'y6': z
+---
+'x: v7': [
+    {'y': z}
+  ]
+---
+"xÉ8":
+  "y": value,
+  "x": value
+"y9":
+  "y": value,
+  "x": value

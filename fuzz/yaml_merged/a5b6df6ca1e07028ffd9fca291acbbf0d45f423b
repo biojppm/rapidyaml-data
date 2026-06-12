@@ -1,0 +1,19 @@
+--- !!map
+a: 0
+b: 1
+--- !map
+a: b
+--- !!seq
+- a
+- b
+--- !!str a b
+--- !!str 'a: b'
+---
+!!str a: b
+--- !!set
+? a
+? b
+--- !!se2
+a:
+--- !!seq
+- str 1

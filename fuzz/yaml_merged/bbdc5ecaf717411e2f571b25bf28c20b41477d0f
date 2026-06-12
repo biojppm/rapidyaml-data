@@ -1,0 +1,8 @@
+
+%TAG !YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYm! !my-   # comment
+--- # Bulb here
+!m!light fluorescent: !m!light bulb
+...
+%TAG !m! !meta-   # comment
+--- # Color here
+!m!light green: !m!light color

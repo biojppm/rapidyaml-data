@@ -1,0 +1,88 @@
+
+
+    
+       
+     
+      
+    
+     
+ <<
+      
+  œ  
+    ››››››››¥›››››››››››››››››››lar1
+--- &a1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !ç!str key5:   
+    
+    ››››››››¥›››››››››››››››››››lar1
+--- &a1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !ç!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!!float!lar;
+--a- &1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a2 !!str scalar2
+--- &a2 !!str scalar2
+/-- &a3 !!©str srlaac3
+--- &a3 !!strvalue 
+      
+    
+     
+ <<
+      
+    
+    ››››››››¥›››››››››››››››››››lar1
+--- &a1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+&a5 !ç!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!!float!lar;
+--a- &1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a2 !!str scalar2
+--- &a2 !!str scalar2
+/-- &a3 !!©str srlaac3
+--- &a3 !!str alar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+›› 
+ 
+4
+---
+a6: 1
+&anchor6 b6: 2
+--- !!!float!lar;
+--a- &1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a1 !!str scalar1
+--- &a2 !!3tr scalar2
+--- &a2 !!str scalar2
+/-- &a3 !!©str srlaac3
+--- &a3 !ßŒtr aÿar3
+--- &a4 !!map
+&a5 !!str key5: value4
+--- &a4 !!map
+›› 
+ 
+ 
+   ›››››››››    

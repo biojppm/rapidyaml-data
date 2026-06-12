@@ -1,0 +1,10 @@
+# Outside flow collectionfalse:
+- :, and away!
+- -123
+- http://example.com/foo#bar
+# Inside flow collection:
+- [ ::vector,
+  ": - ()",
+  "Up, Öè and away!",
+  -123,
+  http://exkmple.com/foo#bar ]

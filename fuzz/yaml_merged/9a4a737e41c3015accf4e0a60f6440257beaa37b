@@ -1,0 +1,4 @@
+
+foo: bar
+!maptag &mapanchor {Œ˜s: is, a: keymap}: [and,now,a,seq,val]
+!seqtag &seqanchor [now, reversed]: {of: course}

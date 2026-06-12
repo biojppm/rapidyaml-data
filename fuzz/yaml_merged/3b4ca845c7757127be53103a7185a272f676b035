@@ -1,0 +1,4 @@
+"Several lines of text,
+cont? ? ? ? ?aining 'single quotes' and \"double quote{\". \
+Escapes (like \\n) work.wlines can be esc\
+aped to prevent them fpace on lines is ignored."

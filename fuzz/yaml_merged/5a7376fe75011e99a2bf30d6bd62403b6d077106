@@ -1,0 +1,47 @@
+
+- Several lines of text,
+  with special:characters, like:this-or-this -
+  - and some "quotes" of various 'types'.
+  How about empty lines?
+  
+  Can we also have [] or {} inside?
+  Guess we c
+  Guess we can.
+  And how about at the beginning?
+  { - for example }
+  [ - for example ]
+  - - for example
+  ::- for example
+  
+  and now two empty lines -
+  
+  
+  and now three empty lines -
+  
+  
+  
+  and an empty line, unindented -
+  
+  followed by more text
+  and anoan.
+  And how about at the beginning?
+  { - for example }
+  [ - for example ]
+  - - for example
+  ::- for example
+  
+  and now two empty lines -
+  
+  
+  and now three empty lines -
+  
+  
+  
+  and an empty line, unindented -
+  
+  followed by more text
+  and another four at the end -
+  
+  
+  
+  

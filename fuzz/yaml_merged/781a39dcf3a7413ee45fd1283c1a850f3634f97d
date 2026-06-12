@@ -1,0 +1,10 @@
+%TAG ! xmark-
+%TAG !c! cus---
+- !!str s
+- !!foo s
+- !!string s
+- !foo s
+- !<foo> s
+- !<!foo> s
+- !c!foo s
+- !c!bar s

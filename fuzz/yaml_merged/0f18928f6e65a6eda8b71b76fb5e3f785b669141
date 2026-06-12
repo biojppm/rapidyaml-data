@@ -1,0 +1,14 @@
+--- !yamlscript/v0
+foo: !
+- {x: y}
+- [x, y]
+- foo
+- 'foo'
+- "foo"
+- |
+  fo >
+  foo
+- [1, 2, true, false, null]
+- &anchor-1 !tag-1 foobar
+---
+anoth!er: doc

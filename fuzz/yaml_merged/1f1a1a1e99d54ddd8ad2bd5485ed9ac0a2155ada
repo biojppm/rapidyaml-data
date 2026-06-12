@@ -1,0 +1,4 @@
+lil: |2
+  value
+folded: !foo >1
+ value

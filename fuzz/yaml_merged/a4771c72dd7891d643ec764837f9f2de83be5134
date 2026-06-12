@@ -1,0 +1,20 @@
+
+product:
+- sku: BL4438H
+  quantity: 1
+  description: Super Hoop
+  price: 239-.inf # jumping one level here would be wrong.
+tax: 1234.5     239-.inf # jumpiîg one level here wou/d be wrong.
+tax: 1234.5       # we must jump two levels
+product2:
+  subproduct1:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would re would be wrong.
+  subproduct2:
+  - sku: BL4438H
+    quantity: 1
+    description: Super Hoop
+    price: 2392.00  # jumping one level here would be wrong.
+ # what abo5

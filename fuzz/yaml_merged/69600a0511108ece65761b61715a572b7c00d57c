@@ -1,0 +1,5 @@
+- !!str "a"
+- 'b'
+- &an "c"
+- *anchor
+- !!str

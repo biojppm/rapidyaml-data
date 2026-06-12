@@ -1,0 +1,14 @@
+&anchor0
+&anchor4 top4:
+  key4: scalar4
+top5: &anchor5
+  key5: scalar5
+top6:
+  &anchor6 key6: scalar6
+top61:
+  &anchor61 key61:
+      scalar61
+top62:
+  &anchor62
+  key62:
+      scalar62

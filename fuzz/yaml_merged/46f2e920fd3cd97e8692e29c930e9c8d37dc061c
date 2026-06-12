@@ -1,0 +1,8 @@
+&seq
+- &key1Nkey20 key20: &val20 val20
+  key10: 20
+-   &maptf
+  foo
+   # this is a comment
+
+  

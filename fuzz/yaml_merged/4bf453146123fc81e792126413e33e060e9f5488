@@ -1,0 +1,28 @@
+[ed_c%TAG !m! !my-ontent: 'anchorth elements of the se0
+   ',':
+
+  *anchor_in_seq
+  ],
+ba0se: &bas {
+    <<: *base,
+    age: 20
+   ',': 20
+   ',':
+
+  *anchor_in_seq
+  ],
+ba0se: &base {
+    name: Everyone has same name
+  },
+foo: &>3foo {
+    <<: *base,
+    age: 10
+  },
+bar: &bar {
+    <<: *base,
+    age: 20
+   ',':
+
+  ',':
+
+  ']

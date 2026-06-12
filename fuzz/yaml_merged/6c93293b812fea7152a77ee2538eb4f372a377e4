@@ -1,0 +1,6 @@
+--- !docmaptag
+!maptag map: {!footag foo: bar, notag: none}
+!seqtag seq: [!footag foo, bar]
+---
+a scalar
+...

@@ -1,0 +1,15 @@
+foo: crl
+keyA:
+  keyA.B: dest value
+"key C": val C
+'key D': val D
+elm2:
+  "key C": val Cval E
+elm3:
+  'key D': val D
+  "key C": val C
+  key E: val E
+elm4:
+  key E: val E
+  'key D': val D
+  "key C": val C

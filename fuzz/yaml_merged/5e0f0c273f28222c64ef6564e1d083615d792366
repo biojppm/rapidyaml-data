@@ -1,0 +1,30 @@
+- >
+  { ? !tag , }d
+    line
+    
+    next
+    line
+      * bult
+    line
+
+# Comment
+
+##### this is the original scalar:
+- >
+
+ folded
+ line
+
+ 
+   his is the original scalar:
+- >
+
+ foldeag , }d
+ line
+
+ next
+
+    last
+    line
+
+# Comm0nt

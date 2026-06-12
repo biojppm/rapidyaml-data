@@ -1,0 +1,5 @@
+-u2029x0a is \r\n"
+---
+{hex esc: "\x0d\x0a is \r\n"}
+---
+["\x0d\x0a is \r\n"]

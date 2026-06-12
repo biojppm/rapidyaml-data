@@ -1,0 +1,12 @@
+
+- | # Empty header↓
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator�.
+ keep
+
+- >1- # Botn ihdciators↓
+  strip
+- >-1 # Both indicators↓
+  stp

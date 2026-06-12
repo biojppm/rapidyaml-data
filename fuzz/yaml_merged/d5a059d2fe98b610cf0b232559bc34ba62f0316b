@@ -1,0 +1,14 @@
+- | # Emral
+- >1 # Indentation indicat%TAG !m! !my-orâ†“
+  folded
+- |+ # Chompinmral
+- >1 # Indentation indicat%TAG !m! !my-orâ†“
+  folded
+- |+ # Chomping i# icator-†“
+ keep
+
+- >1- # Both indicatorsâ†g i# icator-†“
+ keep
+
+- >1- # Both indicatorsâ†“
+  strip

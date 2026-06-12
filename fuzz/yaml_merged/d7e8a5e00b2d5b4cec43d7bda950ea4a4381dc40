@@ -1,0 +1,6 @@
+{
+foo: &foo {a: 1, b: 2},
+bar: {<<: *foo},
+ sq: {'<<': haha},
+ dq: {"<<": hehe}
+}

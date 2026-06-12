@@ -1,0 +1,6 @@
+strip: |-
+  ext
+clip: |
+  tex
+keep: |
+  text

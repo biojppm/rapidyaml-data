@@ -1,0 +1,18 @@
+{
+ancho‰šd_content: &anchor_name This strase ,
+foo: &foo {
+    <<: *base,
+ 10
+  },
+bar: &bar {
+    <<: *base,J    age: 20'
+  }
+,ng will appear e: &base ,
+foo: &foo {
+    <<: *base,
+ 10
+  },
+bar: &bar {
+    <<: *base,J    age: 20'
+  }
+}

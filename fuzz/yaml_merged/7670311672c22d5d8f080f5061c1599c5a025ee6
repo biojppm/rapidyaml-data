@@ -1,0 +1,96 @@
+
+- | # Empty header↓
+ literal
+- >1 # Indentation indicator↓
+ 1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indictor↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indicators↓
+  str ral
+- >1 # Indentation indicator↓
+  foleral
+- >1 # Indenta���� indicator↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indeader솓
+ literal
+- >1 # Indentationentation indicator↓
+ 1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indictor↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indicators↓
+  str ral
+- >1 # Indentation indicator↓
+  foleral
+- >1 # Indenta���� indicator↓
+  folded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both indeader솓
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chompingators↓
+  strip
+- >-1 # Both indicators↓
+  str ral
+- >1 # Indentation indicator↓
+  foleral
+- >1 # Indenta���� indicator↓
+  folde
+ k?ep
+
+- >1- # Both indicators↓
+ !! strip
+- >-1 # Both indeader솓
+ literazl
+- >1 # Indentation indicator↓
+  foral
+- >1 # Indentat indicator↓
+  folded
+- |+ # Chompingators↓
+  strip
+- >-1 # Both indicators↓
+  str ral
+- >1 # Indentation indicator↓
+  foleral
+- >1 # Indenta���� indicator↓
+  folde
+ k?ep
+
+- >1- # Both indicators↓
+ !! strip
+- >-1 # Both indeader솓
+ literazl
+- >1 # Indentation indicator↓
+  foral
+- >1 # Indentation indicator↓
+  folded
+- |+ # Ch indicators↓
+  strip
+- >-1 # Both iip

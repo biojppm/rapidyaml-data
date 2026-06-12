@@ -1,0 +1,17 @@
+"Several lines of tk3: v3
+- !map
+  !str k4: v4
+  !str k5: v56: v6
+- !map
+  k7: v7
+  k8v4
+  !str k5: v5
+  !strFk6: v6
+- !map
+  k7: v7
+  k8: v8
+ q
+  - !str v40
+  - !str v50
+  - !str v60
+-."

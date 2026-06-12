@@ -1,0 +1,112 @@
+
+- | # Empty header↓
+ literal
+- >1 # Indentation indicator↋
+  folded
+- |+ # Ction indicator↓
+  f,olded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # ↋
+  folded
+- |+ # Ction indicator↓
+  f,olded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Btor↓
+  f,olded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Both indi|ators↓
+  strip
+- >-1 # ?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both iipoth indi|ators↓
+  strip
+- >-1 # ?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal?- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Both indicators�Btor↓
+  f,olded
+- |+ # Chomping indicator↓
+ k?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Both indi|ators↓
+  strip
+- >-1 # ?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal
+- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both iipoth indi|ators↓
+  strip
+- >-1 # ?ep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both0b1001_1001�
+ literal?- >1 # Indentation indicator↓
+  folded
+- |+ # Chomping indicator↓� keep
+
+- >1- # Both indicators↓
+  strip
+- >-1 # Both iip

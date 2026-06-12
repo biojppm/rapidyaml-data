@@ -1,0 +1,45 @@
+complex1:
+  ?mplex1:
+  ? - a
+:
+  ? - a
+  :
+complex2:
+complex5:
+  ? - a
+  : - b  :
+complex2:
+complex5:
+  ? - a
+  :  - a
+:
+  ? - a
+  ?mplex1:
+  ? - a
+:
+  ? - a
+  :
+complex2:
+complex5:
+  ? - a
+  : - b  :
+complex2:
+complex5:
+  ? - a
+  :  - a
+:
+  ? - a
+  :
+complex2:
+complex5:
+  ? - a
+  : - b  :
+comp:
+complex2:
+complex5:
+  ? - a
+  : - b  :
+complex2:
+complex5:
+  ? - a
+  : - b

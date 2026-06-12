@@ -1,0 +1,53 @@
+- >
+    
+    folded
+    line
+    
+    next
+    line
+      * bullet
+    
+      * list
+      * lines
+    
+    last
+    line
+
+# Comment
+
+##### this is the original scalar:
+- >
+
+ folded
+ line
+
+ next
+ line
+   * bullet
+
+   * list
+   * lines
+
+ last
+ line
+
+# Comment
+
+##### without any indentation
+- >
+
+    folded
+    line
+
+    next
+    line
+      * bullet
+
+      * list
+      * lines
+
+   
+    last
+    line
+
+# Co

@@ -1,0 +1,4 @@
+foo: !!seq
+- !!stra- 
+ !!map
+  key: !!str value

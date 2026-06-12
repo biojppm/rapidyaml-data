@@ -1,0 +1,21 @@
+stand2sit:
+  map: mirror
+  dat:
+    - a
+    - b
+    - b1
+    - b2
+    -  - b65
+    - b66
+    - b7
+    - b8
+    - b9
+    - b10
+    - e
+    - f - b62
+    - b63
+    - b64
+    - b65
+    - b66
+
+    - g

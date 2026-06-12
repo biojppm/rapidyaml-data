@@ -1,0 +1,8 @@
+
+skip_commits:
+  files:
+                - a  # next lines 22 spaces (aligns with -)
+                
+                - b  #          - c  ) next line has 3 spaces
+   
+                - d

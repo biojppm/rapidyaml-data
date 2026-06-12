@@ -1,0 +1,4 @@
+component:
+  type: perspective camera component
+  some_da: {}
+  data: {}

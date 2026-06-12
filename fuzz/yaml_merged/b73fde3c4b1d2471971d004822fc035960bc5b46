@@ -1,0 +1,22 @@
+{
+ancho‰šd_content: &anchor_name This strase ,
+foo: &foo {
+    <<: *base,
+ 10
+  },
+bar: &bïar {
+    <<: *base,J    age: 20'
+  }
+,ng will appear e: &base ,
+foo: &foo {ÿÿÿÿÿÿÿontent: &,
+?
+!!0'
+  }
+,ng will appear e: &base ,
+foo: &foo {ÿÿÿÿÿÿÿontent: &,
+?
+!!?s_in_seqs:
+on   <,: *base,?s_in_seqs:
+on   <,: *base,J    ag
+e20':   }
+}

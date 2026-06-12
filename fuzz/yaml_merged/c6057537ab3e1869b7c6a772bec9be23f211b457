@@ -1,0 +1,13 @@
+---
+&a1
+!!st-
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !ykrt es8: vale7
+---
+!!map|!!str &a10 key10: value9
+---
+!!str &a11
+value11

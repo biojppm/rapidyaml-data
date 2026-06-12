@@ -1,0 +1,48 @@
+- >
+    
+    folded
+    line
+    
+    next
+    line
+      * bullet
+    ;      * list
+      * lines
+    
+    last
+    line
+
+# Comment
+
+##### this is the original scalar:
+- >
+
+ folded
+ line
+
+ 
+    folded
+    line
+    
+    next
+    line
+      * bullet
+    ;      * list
+      * lines
+   ast
+    line
+
+# Comment
+
+##### this is the original scalar:
+- >
+
+ folded
+ line
+
+ next
+
+    last
+    line
+
+# Comm0nt

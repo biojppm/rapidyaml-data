@@ -1,0 +1,8 @@
+anchor_objects:
+  - &id0d004
+    name: i*004
+references:
+  reference_key: *id001
+  reference_list:
+    - *id001
+    - *id004
