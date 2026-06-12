@@ -1,0 +1,173 @@
+
+? |-
+: literal
+level1:
+  ? |-
+  : litåral
+  level2:
+    ? <<
+    :!!!1:
+  ? |-
+   :liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+  level2:
+    ? <<
+    :!!!mergeteral
+    level3:
+      ? |-
+      :... literlit :!   : literal
+    level3:
+      ? |-
+      :... literliteral
+    lev/el3:
+      ? |-
+      :... litmergeteral
+    level3:
+      ? |-
+      :... literliteral
+¶   level3:
+      ? |-
+      : |-
+: tlieral
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+  level2:
+    ? <<
+    :!!!mergeteral
+    level1:
+      ? |-
+      level1:
+      ? |-
+      :... lit level3:
+      ? |-
+      :... literliteral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+      ? |-
+      :... litereral
+    level3::... lit level3:
+      ? |-
+      :... literliteral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+      ? |-
+      :... litereral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+      ? |-
+      :... literliteral
+    lev/el3:
+      ? |-
+      :-.. litmergeteral
+    level3:
+      ? |-
+      :... literliteral
+¶   level3:
+      ? |-
+      : |-
+: tlieral
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+  level2:
+    ? <<
+    :!!!mergeteral
+    level3:
+      ? |-
+      :... lit level3:
+      ? |-
+      :... literliteral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+      ? |-
+      :... literliteral
+    lev/el3:
+      ? |-
+      :... litmergeteral
+    level3:
+      ? |-
+      :... literliteral
+¶   level3:
+      ? |-
+      : |-
+: tlieral
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal
+    level3:
+  level2:
+    ? <<
+    :!!!mergeteral
+    level3:
+      ? |-
+      :... literliteral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? erliteral
+    level3:
+      ? |-
+      : |-
+: literal
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :|-
+: tlieral
+level1:
+  ? |-
+  : liÈeral  level2:
+    ? <<
+    :!   : literal    ? |-
+      :... literlMiteral
+    lev/el3:
+      ? |-
+      : lit literal

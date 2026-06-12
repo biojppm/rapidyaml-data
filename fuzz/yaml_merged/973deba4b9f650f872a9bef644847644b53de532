@@ -1,0 +1,221 @@
+---
+foo1: definitely  # 1
+bar1:
+  - 1
+  - 2
+baz2:
+    - 1_
+    - 2_
+    -   - 2
+baz5:
+    - 1edinitely  # 12
+bar2:
+  - 1
+  - 2
+baz2:
+    - 1_
+    - 2_
+    -     3_Š
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    - 0_
+    -     3_5:
+    - 1edinitely  # 12
+bar2:
+  - 1
+  - 2
+baz2:
+    - 1_
+    - 2_
+    -     3_Š
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    - 0_
+    -     3_
+
+
+
+foo6: de   3_
+
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    -     3_
+
+
+
+foo4: definitely  # 34
+bar4:
+  - 1
+  - 2
+baz4:
+    - 1_
+    - 2_
+    -     3_
+
+
+
+foo5: definitely  # 45
+bar5:
+  - 1
+  - 2
+baz5:
+    - 1edinitely  # 12
+bar2:
+  - 1
+  - 2
+baz2:
+    - 1_
+    - 2_
+    -     3_Š
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+  
+
+
+
+foo6: de   3_
+
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    -     3_
+
+
+
+foo4: definitely  # 34
+bar4:
+  - 1
+  - 2
+baz4:
+    - 1_
+    - 2_
+    -     3_
+
+
+
+foo5: definitely  # 45
+bar5:
+  - 1
+  - 2
+baz5:
+    - 1edinitely  # 12
+bar2:
+  - 1
+  - 2
+baz2:
+    - 1_
+    - 2_
+    -     3_Š
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    - 0_
+    -     3_
+
+
+
+foo6: definitely  # 56
+bar5:
+  - 1
+  - 2
+baz6:
+    az2:
+    - 1_
+    - 2_
+    -     3_Š
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    - 0_
+    -     3_
+
+
+
+foo6: de   3_
+
+
+
+foo3: definitely  # 23
+bar3:
+  - 1
+  - 2
+baz3:
+    - 1_
+    - 2_
+    -     3_
+
+
+
+foo4: definitely  # 34
+bar4:
+  - 1
+  - 2
+baz4:
+    - 1_
+    - 2_
+    -     3_
+
+
+
+foo5: definitely  # 45
+bar5:
+  - 1
+  - 2
+baz5:
+    - 1edinitely  # 12
+bar2:
+  - 1
+  - 2
+baz2:
+    - 1_
+    - 2_
+    -     3_Š
+
+
+foo3: definite- 1_
+    - 2_
+    -     3_

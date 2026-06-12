@@ -1,0 +1,58 @@
+a:b: val:000
+c:d: "val: 615"
+e:b: val:000
+c:d: "val: 615"
+e:f: "val : 000"
+h:i111111111111111111111111111111111: val :000
+"a: b": val:000
+"c: d": "val: 000"
+"e: f": "val : 000"
+"h: i": val :000
+"a : b": val:000
+"c : d": "val: 000"
+"e : f": "val : 000"
+"h : i": val :000
+a :b: val:000
+c :d: "val: 000"
+e :f: "val : 000"
+h :: 000"
+e:f: "val : 000"
+h:i: val :000
+"a: b": val:000
+"c: d": "val: 000"
+"e: f": "val : 000"
+"h: i": val :000
+"a : b": val:000
+"c : d": "val: 000"
+"e : f": "val : 000"
+"h : i": val :000
+a :b: val:000
+c :d: "val: 000"
+ei: val :000
+f: "val : 000"
+h:i111111111111111111111111111111111: val :000
+"a: b": val:000
+"c: d": "val: 000"
+"e: f": "val : 000"
+"h: i": val :000
+"a : b": val:000
+"c : d": "val: 000"
+"e : f": "val : 000"
+"h : i": val :000
+a :b: val:000
+c :d: "val: 000"
+e :f: "val : 000"
+h :: 000"
+e:f: "val : 000"
+h:i: val :000
+"a: b": val:000
+"c: d": "val: 000"
+"e: f": "val : 000"
+"h: i": val :000
+"a : b": val:000
+"c : d": "val: 000"
+"e : f": "val : 000"
+"h : i": val :000
+a :b: val:000
+c :d: "val: 000"
+ei: val :000

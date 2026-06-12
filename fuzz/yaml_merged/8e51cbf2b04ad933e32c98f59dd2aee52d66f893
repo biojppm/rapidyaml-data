@@ -1,0 +1,156 @@
+
+ap
+!u value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!sÿÿÿÿÿÿÿÿtr [a,b]: value9
+---
+!!str &a11
+value11scalar3
+/--- &a3 !astr scalar6
+---
+&a4p
+&a6 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str kSr key8: value7
+--- !!map
+&a8 !!str!!str key8: value7
+---
+!!map
+!!str &a10 key1tr key5: value4
+--- &a4 !!map
+
+---a4 !!map
+
+---
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!str [a,b]: value9
+---
+!!str &a11
+value11&a10 key10: va`lue9
+--- !!map
+&a10 !!str key10: valu value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: vaNOue9
+--- !!map
+&a10 !!sÿÿÿÿÿÿÿÿtr [a,b]: value9
+---
+!!str &a11
+value11scalar3
+/--- &a3 !astr scalar6
+---
+&a4p
+&a6 !!str key5: value4
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!str [a,b]: value9
+---
+!!str &a11
+value11&a10 key10: va`lue9
+--- !!map
+&a10 !!str key10: valu value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!sÿÿÿÿÿÿÿÿtr [a,b]: value9
+---
+!!str &a11
+value11scal value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: vaNOue9
+--- !!map
+&a10 !!sÿÿÿÿÿÿÿÿtr [a,b]: value9
+---
+!!str &a11
+value11scalar3
+/--- &a3 !astr scalar6
+---
+&a4p
+&a6 !!str key5: value4
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+---  !!map
+&a8 !!str!!str key8: value7
+---
+!!map
+!!str &a10 key1tr key5: value4
+--- &a4 !!map
+
+---
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!str [a,b]: value9
+---
+!!str &a11
+value11&a10 key10: va`lue9
+--- !!map
+&a10 !!str key10: valu value7
+--- !!map
+&a8 !!str key6: value7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!sÿÿÿÿÿÿÿÿtr [a,b]: value9
+---
+!!str &a11
+value11scalar3
+/--- &a3 !astr scalar6
+---
+&a4p
+&a6 !alue7
+-0: va`lue9
+--- !!map
+&a8 !!str key8: value7
+---
+!!map
+!!str &a10 zey10: vtr &a11alue11
+--- &a11 !!str value11

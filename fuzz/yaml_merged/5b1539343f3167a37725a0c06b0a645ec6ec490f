@@ -1,0 +1,28 @@
+a0: &a0
+  b0: &b0
+    c0: &c0 v0
+a1: &a1
+  &a0
+  b0:zef: *a!!binary2
+a4: &a4
+    ref: *a1
+a3: &a3
+  ref: *a2&!!stra0
+  b0: &b0
+   &b0
+    c0: &c0 ŠÏõÎÅßÙa1
+  r@ef: *a0
+a2: &a2
+  ref: *a1
+a3: &a3
+  zef: *a!!binary2
+a4: &a4
+   ref: *a
+0a2: &a2
+  ref: *a1
+a3: &a3
+  ref: *a2&a0
+  b0: &b0
+    c0: &c0 v
+  re c0: &c0 v
+  ref: *a4

@@ -1,0 +1,24 @@
+---
+&a1
+!!st-
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !ykrt es8: va|ue7
+---
+!!map
+!!str &a10 key10: value!!st-
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !ykrt&a es8: va|ue7
+---
+!!map
++!str &a10 key10: value9
+---
+!!str &a19
+---
+!!xtr &a11
+value11
