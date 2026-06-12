@@ -107,9 +107,15 @@ help:
 
 
 .PHONY: allbin
-allbin:
+allbin: allyaml alljson
+
+.PHONY: allyaml
+allyaml:
 	set -xe && \
 	  for exe in bin/*yaml* ; do $(MAKE) yaml FUZZBIN=$$exe ; done
+
+.PHONY: alljson
+alljson:
 	set -xe && \
 	  for exe in bin/*json* ; do $(MAKE) json FUZZBIN=$$exe ; done
 
@@ -143,11 +149,11 @@ stop:
 
 .PHONY: check
 check:
-	if [ ! -f "$(FUZZBIN)" ] ; then \
+	@if [ ! -f "$(FUZZBIN)" ] ; then \
 	  echo "FUZZBIN not found: $(FUZZBIN)" ; \
 	  exit 1 ; \
 	fi
-	if [ ! -x "$(FUZZBIN)" ] ; then \
+	@if [ ! -x "$(FUZZBIN)" ] ; then \
 	  echo "FUZZBIN not executable: $(FUZZBIN)" ; \
 	  exit 1 ; \
 	fi
