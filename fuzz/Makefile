@@ -13,9 +13,11 @@ OPTIONS ?=
 DICT ?= 1
 DICT_YAML ?= yaml.dict
 DICT_JSON ?= json.dict
+DICT_SRLZ ?= srlz.dict
 ifneq ($(DICT),0)
 OPTS_YAML_ += -dict=$(DICT_YAML)
 OPTS_JSON_ += -dict=$(DICT_JSON)
+OPTS_SRLZ_ += -dict=$(DICT_SRLZ)
 endif
 
 # whether to merge cases into representative cases
@@ -26,6 +28,7 @@ OPTS_ += -merge=$(MERGE)
 ifneq ($(MERGE),0)
 OPTS_YAML_ += -merge_control_file=mergefile-yaml-$(shell basename $(FUZZBIN)).dat
 OPTS_JSON_ += -merge_control_file=mergefile-json-$(shell basename $(FUZZBIN)).dat
+OPTS_SRLZ_ += -merge_control_file=mergefile-srlz-$(shell basename $(FUZZBIN)).dat
 endif
 
 # number of threads
@@ -68,13 +71,18 @@ CORPUS_JSON_ALL := \
 	json_merged/ \
 	json_fails/ \
 	json_rapidyamldump/
+CORPUS_SRLZ_ALL := \
+	json_merged/ \
+	json_fails/
 # can be set by the caller
 CORPUS_YAML ?= $(CORPUS_YAML_ALL)
 CORPUS_JSON ?= $(CORPUS_JSON_ALL)
+CORPUS_SRLZ ?= $(CORPUS_SRLZ_ALL)
 # where to place failure cases
 # note the trailing slash! it is neeeded for directories
 FAIL_DIR_YAML ?= yaml_fails/
 FAIL_DIR_JSON ?= json_fails/
+FAIL_DIR_SRLZ ?= srlz_fails/
 
 # keep going on failure case?
 IGNORE_OOMS ?= 1
@@ -93,6 +101,7 @@ help:
 	@echo
 	@echo "    yaml  - fuzz yaml"
 	@echo "    json  - fuzz json"
+	@echo "    srlz  - fuzz serialization"
 	@echo "    stop  - stop fuzzing session (use from different console, or Ctrl-Z before 'make stop')"
 	@echo "    check - verify fuzz executable"
 	@echo
@@ -140,6 +149,17 @@ json: check
 	  $(OPTS_) \
 	  -artifact_prefix=$(FAIL_DIR_JSON) \
 	  $(CORPUS_JSON)
+
+
+.PHONY: srlz
+srlz: check
+	set -xe && \
+	cd $(THIS_DIR) && \
+	  $(FUZZBIN) \
+	  $(OPTS_SRLZ_) \
+	  $(OPTS_) \
+	  -artifact_prefix=$(FAIL_DIR_SRLZ) \
+	  $(CORPUS_SRLZ)
 
 
 .PHONY: stop
