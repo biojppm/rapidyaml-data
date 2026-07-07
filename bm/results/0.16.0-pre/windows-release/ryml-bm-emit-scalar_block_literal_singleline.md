@@ -1,0 +1,40 @@
+## emit benchmark: scalar_block_literal_singleline
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-scalar_block_literal_singleline-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-scalar_block_literal_singleline-ryml_yaml_str_reserve"/>
+
+### emit benchmark: scalar_block_literal_singleline
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-scalar_block_literal_singleline-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-scalar_block_literal_singleline-cpu_time_ms.html)
+
+[![C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_block_literal_singleline: MB/s](./ryml-bm-emit-scalar_block_literal_singleline-mega_bytes_per_second.png)](./ryml-bm-emit-scalar_block_literal_singleline-mega_bytes_per_second.png)
+[![C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_block_literal_singleline: CPU time](./ryml-bm-emit-scalar_block_literal_singleline-cpu_time_ms.png)](./ryml-bm-emit-scalar_block_literal_singleline-cpu_time_ms.png)
+
+```
++---------------------------------------------------------------------------------------------------+
+|                          emit benchmark: scalar_block_literal_singleline                          |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |   MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve | 1047.30 | 125.00x | 12400.00% |          0.01 |       0.01x |     -99.20% |
+| ryml_yaml_str         | 1047.30 | 125.00x | 12400.00% |          0.01 |       0.01x |     -99.20% |
+| ryml_yaml_ostream     |  215.28 |  25.69x |  2469.47% |          0.03 |       0.04x |     -96.11% |
+| ryml_yaml_ofstream    |  146.78 |  17.52x |  1651.93% |          0.04 |       0.06x |     -94.29% |
+| ryml_yaml_file        |  229.63 |  27.41x |  2640.77% |          0.02 |       0.04x |     -96.35% |
+| ryml_yaml_str_file    |  574.08 |  68.52x |  6751.88% |          0.01 |       0.01x |     -98.54% |
+| yamlcpp_              |    8.38 |   1.00x |     0.00% |          0.65 |       1.00x |       0.00% |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+```
+

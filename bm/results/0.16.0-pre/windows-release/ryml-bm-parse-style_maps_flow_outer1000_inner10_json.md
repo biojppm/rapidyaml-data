@@ -1,0 +1,58 @@
+## parse benchmark: style_maps_flow_outer1000_inner10_json
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-parse-style_maps_flow_outer1000_inner10_json-ryml_ints_yaml_inplace_reuse_nofilter'>ryml_ints_yaml_inplace_reuse_nofilter</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-parse-style_maps_flow_outer1000_inner10_json-ryml_ints_yaml_inplace_reuse_nofilter"/>
+
+### parse benchmark: style_maps_flow_outer1000_inner10_json
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-parse-style_maps_flow_outer1000_inner10_json-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-parse-style_maps_flow_outer1000_inner10_json-cpu_time_ms.html)
+
+[![C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner10_json: MB/s](./ryml-bm-parse-style_maps_flow_outer1000_inner10_json-mega_bytes_per_second.png)](./ryml-bm-parse-style_maps_flow_outer1000_inner10_json-mega_bytes_per_second.png)
+[![C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner10_json: CPU time](./ryml-bm-parse-style_maps_flow_outer1000_inner10_json-cpu_time_ms.png)](./ryml-bm-parse-style_maps_flow_outer1000_inner10_json-cpu_time_ms.png)
+
+```
++---------------------------------------------------------------------------------------------------------------------+
+|                               parse benchmark: style_maps_flow_outer1000_inner10_json                               |
++------------------------------------------+---------+---------+----------+---------------+-------------+-------------+
+| function                                 |    MB/s | MB/s(x) |  MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++------------------------------------------+---------+---------+----------+---------------+-------------+-------------+
+| ryml_ints_yaml_inplace_reuse_nofilter    |  121.08 |  57.94x | 5693.68% |          0.61 |       0.02x |     -98.27% |
+| ryml_ints_yaml_inplace_reuse             |  117.72 |  56.33x | 5532.75% |          0.63 |       0.02x |     -98.22% |
+| ryml_ints_yaml_inplace_nofilter_reserve  |  121.28 |  58.03x | 5702.97% |          0.61 |       0.02x |     -98.28% |
+| ryml_ints_yaml_inplace_nofilter          |   64.60 |  30.91x | 2991.14% |          1.14 |       0.03x |     -96.76% |
+| ryml_ints_yaml_inplace_reserve           |  110.36 |  52.81x | 5180.70% |          0.67 |       0.02x |     -98.11% |
+| ryml_ints_yaml_inplace                   |   63.06 |  30.18x | 2917.54% |          1.17 |       0.03x |     -96.69% |
+| ryml_yaml_inplace_reuse_nofilter_reserve |  105.95 |  50.69x | 4969.47% |          0.70 |       0.02x |     -98.03% |
+| ryml_yaml_inplace_reuse_nofilter         |   92.13 |  44.08x | 4308.24% |          0.80 |       0.02x |     -97.73% |
+| ryml_yaml_inplace_reuse_reserve          |  100.90 |  48.28x | 4728.07% |          0.73 |       0.02x |     -97.93% |
+| ryml_yaml_inplace_reuse                  |   96.32 |  46.09x | 4508.61% |          0.77 |       0.02x |     -97.83% |
+| ryml_yaml_arena_reuse_nofilter_reserve   |   98.56 |  47.16x | 4615.79% |          0.75 |       0.02x |     -97.88% |
+| ryml_yaml_arena_reuse_nofilter           |   38.35 |  18.35x | 1735.13% |          1.93 |       0.05x |     -94.55% |
+| ryml_yaml_arena_reuse_reserve            |   90.59 |  43.35x | 4234.82% |          0.82 |       0.02x |     -97.69% |
+| ryml_yaml_arena_reuse                    |  105.95 |  50.69x | 4969.47% |          0.70 |       0.02x |     -98.03% |
+| ryml_yaml_inplace_nofilter_reserve       |   78.52 |  37.57x | 3656.84% |          0.94 |       0.03x |     -97.34% |
+| ryml_yaml_inplace_nofilter               |   47.68 |  22.82x | 2181.51% |          1.55 |       0.04x |     -95.62% |
+| ryml_yaml_inplace_reserve                |   94.60 |  45.26x | 4426.32% |          0.78 |       0.02x |     -97.79% |
+| ryml_yaml_inplace                        |   47.09 |  22.53x | 2153.10% |          1.57 |       0.04x |     -95.56% |
+| ryml_yaml_arena_nofilter_reserve         |   92.94 |  44.47x | 4346.91% |          0.80 |       0.02x |     -97.75% |
+| ryml_yaml_arena_nofilter                 |   48.16 |  23.04x | 2204.31% |          1.53 |       0.04x |     -95.66% |
+| ryml_yaml_arena_reserve                  |   80.30 |  38.42x | 3742.22% |          0.92 |       0.03x |     -97.40% |
+| ryml_yaml_arena                          |   48.16 |  23.04x | 2204.31% |          1.53 |       0.04x |     -95.66% |
+| libyaml_arena                            |   10.14 |   4.85x |  384.96% |          7.29 |       0.21x |     -79.38% |
+| libyaml_arena_reuse                      |   10.81 |   5.17x |  417.29% |          6.84 |       0.19x |     -80.67% |
+| yamlcpp_arena                            |    2.09 |   1.00x |    0.00% |         35.36 |       1.00x |       0.00% |
++------------------------------------------+---------+---------+----------+---------------+-------------+-------------+
+```
+

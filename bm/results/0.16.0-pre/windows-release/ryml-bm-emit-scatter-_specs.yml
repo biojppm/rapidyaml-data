@@ -1,0 +1,220 @@
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-appveyor.json
+  name: appveyor
+  path: C:/proj/rapidyaml/bm/cases/appveyor.yml
+  size: 2219
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-compile_commands.json
+  name: compile_commands
+  path: C:/proj/rapidyaml/bm/cases/compile_commands.json
+  size: 47186
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_block_folded_multiline.json
+  name: scalar_block_folded_multiline
+  path: C:/proj/rapidyaml/bm/cases/scalar_block_folded_multiline.yml
+  size: 73355
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_block_folded_singleline.json
+  name: scalar_block_folded_singleline
+  path: C:/proj/rapidyaml/bm/cases/scalar_block_folded_singleline.yml
+  size: 5405
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_block_literal_multiline.json
+  name: scalar_block_literal_multiline
+  path: C:/proj/rapidyaml/bm/cases/scalar_block_literal_multiline.yml
+  size: 73355
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_block_literal_singleline.json
+  name: scalar_block_literal_singleline
+  path: C:/proj/rapidyaml/bm/cases/scalar_block_literal_singleline.yml
+  size: 5405
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_dquot_multiline.json
+  name: scalar_dquot_multiline
+  path: C:/proj/rapidyaml/bm/cases/scalar_dquot_multiline.yml
+  size: 72892
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_dquot_singleline.json
+  name: scalar_dquot_singleline
+  path: C:/proj/rapidyaml/bm/cases/scalar_dquot_singleline.yml
+  size: 4903
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_plain_multiline.json
+  name: scalar_plain_multiline
+  path: C:/proj/rapidyaml/bm/cases/scalar_plain_multiline.yml
+  size: 72752
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_plain_singleline.json
+  name: scalar_plain_singleline
+  path: C:/proj/rapidyaml/bm/cases/scalar_plain_singleline.yml
+  size: 4755
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_squot_multiline.json
+  name: scalar_squot_multiline
+  path: C:/proj/rapidyaml/bm/cases/scalar_squot_multiline.yml
+  size: 72984
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-scalar_squot_singleline.json
+  name: scalar_squot_singleline
+  path: C:/proj/rapidyaml/bm/cases/scalar_squot_singleline.yml
+  size: 4899
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-travis.json
+  name: travis
+  path: C:/proj/rapidyaml/bm/cases/travis.yml
+  size: 4174
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-block.json
+  name: block
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/block.yaml
+  size: 81682685
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-blueprints.json
+  name: blueprints
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/blueprints.yaml
+  size: 5246296
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-combase.json
+  name: combase
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/combase.pdb.yaml
+  size: 146714073
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-flow.json
+  name: flow
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/flow.yaml
+  size: 34643784
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-invItems.json
+  name: invItems
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invItems.yaml
+  size: 55781715
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-invNames.json
+  name: invNames
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invNames.yaml
+  size: 27707502
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-invPositions.json
+  name: invPositions
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invPositions.yaml
+  size: 44653416
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-invUniqueNames.json
+  name: invUniqueNames
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invUniqueNames.yaml
+  size: 24425970
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-small-test-case.json
+  name: small-test-case
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/small-test-case.yml
+  size: 289137
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-trusty.json
+  name: trusty
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/trusty.yml
+  size: 59466
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-typeDogma.json
+  name: typeDogma
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/typeDogma.yaml
+  size: 21509351
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-typeIDs.json
+  name: typeIDs
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/typeIDs.yaml
+  size: 79356656
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-typeMaterials.json
+  name: typeMaterials
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/typeMaterials.yaml
+  size: 2001562
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner10.json
+  name: style_maps_blck_outer1000_inner10
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_blck_outer1000_inner10.yml
+  size: 98900
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner100.json
+  name: style_maps_blck_outer1000_inner100
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_blck_outer1000_inner100.yml
+  size: 1079000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner1000.json
+  name: style_maps_blck_outer1000_inner1000
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_blck_outer1000_inner1000.yml
+  size: 11780000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_flow_outer1000_inner10.json
+  name: style_maps_flow_outer1000_inner10
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner10.yml
+  size: 73900
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_flow_outer1000_inner100.json
+  name: style_maps_flow_outer1000_inner100
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner100.yml
+  size: 784000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_flow_outer1000_inner1000.json
+  name: style_maps_flow_outer1000_inner1000
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner1000.yml
+  size: 8785000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_flow_outer1000_inner1000_json.json
+  name: style_maps_flow_outer1000_inner1000_json
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner1000_json.yml
+  size: 8785003
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_flow_outer1000_inner100_json.json
+  name: style_maps_flow_outer1000_inner100_json
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner100_json.yml
+  size: 784003
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_maps_flow_outer1000_inner10_json.json
+  name: style_maps_flow_outer1000_inner10_json
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner10_json.yml
+  size: 73903
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_blck_outer1000_inner10.json
+  name: style_seqs_blck_outer1000_inner10
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_blck_outer1000_inner10.yml
+  size: 88900
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_blck_outer1000_inner100.json
+  name: style_seqs_blck_outer1000_inner100
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_blck_outer1000_inner100.yml
+  size: 889000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_blck_outer1000_inner1000.json
+  name: style_seqs_blck_outer1000_inner1000
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_blck_outer1000_inner1000.yml
+  size: 8890000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner10.json
+  name: style_seqs_flow_outer1000_inner10
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner10.yml
+  size: 43900
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner100.json
+  name: style_seqs_flow_outer1000_inner100
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner100.yml
+  size: 394000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner1000.json
+  name: style_seqs_flow_outer1000_inner1000
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner1000.yml
+  size: 3895000
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json.json
+  name: style_seqs_flow_outer1000_inner1000_json
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner1000_json.json
+  size: 3895003
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner100_json.json
+  name: style_seqs_flow_outer1000_inner100_json
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner100_json.json
+  size: 394003
+- json:
+  - C:/proj/rapidyaml/build/windows-x86_64-vs2026-Release/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner10_json.json
+  name: style_seqs_flow_outer1000_inner10_json
+  path: C:/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner10_json.json
+  size: 43903

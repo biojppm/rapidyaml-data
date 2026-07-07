@@ -1,0 +1,153 @@
+{
+  "context": {
+    "date": "2026-07-07T22:43:41+01:00",
+    "host_name": "BACH",
+    "executable": "Release\\ryml-bm-emit.exe",
+    "num_cpus": 20,
+    "mhz_per_cpu": 3696,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 1048576,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 20185088,
+        "num_sharing": 20
+      }
+    ],
+    "load_avg": [],
+    "library_version": "v1.9.5",
+    "library_build_type": "release",
+    "json_schema_version": 1
+  },
+  "benchmarks": [
+    {
+      "name": "bm_ryml_yaml_str_reserve",
+      "family_index": 0,
+      "per_family_instance_index": 0,
+      "run_name": "bm_ryml_yaml_str_reserve",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 7,
+      "real_time": 1.0042724285712470e+08,
+      "cpu_time": 1.0044642857142857e+08,
+      "time_unit": "ns",
+      "bytes_per_second": 5.5533797262222219e+08,
+      "items_per_second": 9.9555555555555557e+00
+    },
+    {
+      "name": "bm_ryml_yaml_str",
+      "family_index": 1,
+      "per_family_instance_index": 0,
+      "run_name": "bm_ryml_yaml_str",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 6,
+      "real_time": 1.1235233333335751e+08,
+      "cpu_time": 1.1197916666666667e+08,
+      "time_unit": "ns",
+      "bytes_per_second": 4.9814369637209302e+08,
+      "items_per_second": 8.9302325581395348e+00
+    },
+    {
+      "name": "bm_ryml_yaml_ostream",
+      "family_index": 2,
+      "per_family_instance_index": 0,
+      "run_name": "bm_ryml_yaml_ostream",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 6.0305360000006664e+08,
+      "cpu_time": 5.9375000000000000e+08,
+      "time_unit": "ns",
+      "bytes_per_second": 9.3948153263157889e+07,
+      "items_per_second": 1.6842105263157894e+00
+    },
+    {
+      "name": "bm_ryml_yaml_ofstream",
+      "family_index": 3,
+      "per_family_instance_index": 0,
+      "run_name": "bm_ryml_yaml_ofstream",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 8.5874220000005150e+08,
+      "cpu_time": 8.5937500000000000e+08,
+      "time_unit": "ns",
+      "bytes_per_second": 6.4909633163636364e+07,
+      "items_per_second": 1.1636363636363636e+00
+    },
+    {
+      "name": "bm_ryml_yaml_file",
+      "family_index": 4,
+      "per_family_instance_index": 0,
+      "run_name": "bm_ryml_yaml_file",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 5.7474430000002027e+08,
+      "cpu_time": 5.7812500000000000e+08,
+      "time_unit": "ns",
+      "bytes_per_second": 9.6487292540540546e+07,
+      "items_per_second": 1.7297297297297298e+00
+    },
+    {
+      "name": "bm_ryml_yaml_str_file",
+      "family_index": 5,
+      "per_family_instance_index": 0,
+      "run_name": "bm_ryml_yaml_str_file",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 5,
+      "real_time": 1.4320171999997911e+08,
+      "cpu_time": 1.3750000000000000e+08,
+      "time_unit": "ns",
+      "bytes_per_second": 4.0568520727272725e+08,
+      "items_per_second": 7.2727272727272725e+00
+    },
+    {
+      "name": "bm_yamlcpp",
+      "family_index": 6,
+      "per_family_instance_index": 0,
+      "run_name": "bm_yamlcpp",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 8.6420292999998760e+09,
+      "cpu_time": 8.6406250000000000e+09,
+      "time_unit": "ns",
+      "bytes_per_second": 6.4557501338155512e+06,
+      "items_per_second": 1.1573236889692586e-01
+    }
+  ]
+}

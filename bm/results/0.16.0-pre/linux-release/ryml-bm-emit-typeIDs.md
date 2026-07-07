@@ -1,0 +1,43 @@
+## emit benchmark: typeIDs
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-typeIDs-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-typeIDs-ryml_yaml_str_reserve"/>
+
+### emit benchmark: typeIDs
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-typeIDs-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-typeIDs-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-typeIDs: MB/s](./ryml-bm-emit-typeIDs-mega_bytes_per_second.png)](./ryml-bm-emit-typeIDs-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-typeIDs: CPU time](./ryml-bm-emit-typeIDs-cpu_time_ms.png)](./ryml-bm-emit-typeIDs-cpu_time_ms.png)
+
+```
++---------------------------------------------------------------------------------------------------+
+|                                      emit benchmark: typeIDs                                      |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |   MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve | 1276.72 | 117.14x | 11613.93% |         62.16 |       0.01x |     -99.15% |
+| ryml_yaml_str         | 1233.57 | 113.18x | 11218.10% |         64.33 |       0.01x |     -99.12% |
+| ryml_yaml_ostream     |  702.64 |  64.47x |  6346.75% |        112.94 |       0.02x |     -98.45% |
+| ryml_yaml_ofstream    |  733.22 |  67.27x |  6627.33% |        108.23 |       0.01x |     -98.51% |
+| ryml_yaml_file        |  786.58 |  72.17x |  7116.96% |        100.89 |       0.01x |     -98.61% |
+| ryml_yaml_str_file    |  980.33 |  89.95x |  8894.61% |         80.95 |       0.01x |     -98.89% |
+| fyaml_str_reserve     |   24.11 |   2.21x |   121.25% |       3290.79 |       0.45x |     -54.80% |
+| fyaml_str             |   24.08 |   2.21x |   120.92% |       3295.70 |       0.45x |     -54.74% |
+| fyaml_ostream         |   23.80 |   2.18x |   118.41% |       3333.68 |       0.46x |     -54.21% |
+| yamlcpp_              |   10.90 |   1.00x |     0.00% |       7281.02 |       1.00x |       0.00% |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+```
+

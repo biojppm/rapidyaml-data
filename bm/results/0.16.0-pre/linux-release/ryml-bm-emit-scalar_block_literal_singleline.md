@@ -1,0 +1,43 @@
+## emit benchmark: scalar_block_literal_singleline
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-scalar_block_literal_singleline-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-scalar_block_literal_singleline-ryml_yaml_str_reserve"/>
+
+### emit benchmark: scalar_block_literal_singleline
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-scalar_block_literal_singleline-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-scalar_block_literal_singleline-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-scalar_block_literal_singleline: MB/s](./ryml-bm-emit-scalar_block_literal_singleline-mega_bytes_per_second.png)](./ryml-bm-emit-scalar_block_literal_singleline-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-scalar_block_literal_singleline: CPU time](./ryml-bm-emit-scalar_block_literal_singleline-cpu_time_ms.png)](./ryml-bm-emit-scalar_block_literal_singleline-cpu_time_ms.png)
+
+```
++---------------------------------------------------------------------------------------------------+
+|                          emit benchmark: scalar_block_literal_singleline                          |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |   MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve |  971.97 | 127.93x | 12693.07% |          0.01 |       0.01x |     -99.22% |
+| ryml_yaml_str         |  983.27 | 129.42x | 12841.86% |          0.01 |       0.01x |     -99.23% |
+| ryml_yaml_ostream     |  606.24 |  79.79x |  7879.33% |          0.01 |       0.01x |     -98.75% |
+| ryml_yaml_ofstream    |  535.96 |  70.54x |  6954.37% |          0.01 |       0.01x |     -98.58% |
+| ryml_yaml_file        |  649.39 |  85.47x |  8447.33% |          0.01 |       0.01x |     -98.83% |
+| ryml_yaml_str_file    |  825.51 | 108.65x | 10765.45% |          0.01 |       0.01x |     -99.08% |
+| fyaml_str_reserve     |   48.84 |   6.43x |   542.86% |          0.11 |       0.16x |     -84.44% |
+| fyaml_str             |   49.03 |   6.45x |   545.37% |          0.11 |       0.15x |     -84.51% |
+| fyaml_ostream         |   46.13 |   6.07x |   507.13% |          0.11 |       0.16x |     -83.53% |
+| yamlcpp_              |    7.60 |   1.00x |     0.00% |          0.69 |       1.00x |       0.00% |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+```
+

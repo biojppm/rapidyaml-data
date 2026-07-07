@@ -1,0 +1,88 @@
+## parse benchmark: compile_commands
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-parse-compile_commands-ryml_ints_estimate'>ryml_ints_estimate</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-parse-compile_commands-ryml_ints_estimate"/>
+
+### parse benchmark: compile_commands
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-parse-compile_commands-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-parse-compile_commands-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-compile_commands: MB/s](./ryml-bm-parse-compile_commands-mega_bytes_per_second.png)](./ryml-bm-parse-compile_commands-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-compile_commands: CPU time](./ryml-bm-parse-compile_commands-cpu_time_ms.png)](./ryml-bm-parse-compile_commands-cpu_time_ms.png)
+
+```
++---------------------------------------------------------------------------------------------------------------------+
+|                                          parse benchmark: compile_commands                                          |
++------------------------------------------+---------+---------+----------+---------------+-------------+-------------+
+| function                                 |    MB/s | MB/s(x) |  MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++------------------------------------------+---------+---------+----------+---------------+-------------+-------------+
+| ryml_ints_estimate                       |  931.86 |  41.36x | 4036.49% |          0.05 |       0.02x |     -97.58% |
+| ryml_ints_json_inplace_reuse_nofilter    |  630.53 |  27.99x | 2698.91% |          0.07 |       0.04x |     -96.43% |
+| ryml_ints_json_inplace_reuse             |  632.54 |  28.08x | 2707.81% |          0.07 |       0.04x |     -96.44% |
+| ryml_ints_json_inplace_nofilter_reserve  |  630.17 |  27.97x | 2697.29% |          0.07 |       0.04x |     -96.43% |
+| ryml_ints_json_inplace_nofilter          |  318.88 |  14.15x | 1315.48% |          0.15 |       0.07x |     -92.94% |
+| ryml_ints_json_inplace_reserve           |  632.88 |  28.09x | 2709.34% |          0.07 |       0.04x |     -96.44% |
+| ryml_ints_json_inplace                   |  318.84 |  14.15x | 1315.34% |          0.15 |       0.07x |     -92.93% |
+| ryml_ints_yaml_inplace_reuse_nofilter    |  618.04 |  27.43x | 2643.45% |          0.08 |       0.04x |     -96.35% |
+| ryml_ints_yaml_inplace_reuse             |  617.61 |  27.42x | 2641.56% |          0.08 |       0.04x |     -96.35% |
+| ryml_ints_yaml_inplace_nofilter_reserve  |  615.54 |  27.32x | 2632.36% |          0.08 |       0.04x |     -96.34% |
+| ryml_ints_yaml_inplace_nofilter          |  310.39 |  13.78x | 1277.79% |          0.15 |       0.07x |     -92.74% |
+| ryml_ints_yaml_inplace_reserve           |  616.02 |  27.34x | 2634.48% |          0.08 |       0.04x |     -96.34% |
+| ryml_ints_yaml_inplace                   |  310.96 |  13.80x | 1280.35% |          0.15 |       0.07x |     -92.76% |
+| ryml_json_inplace_reuse_nofilter_reserve |  907.09 |  40.27x | 3926.55% |          0.05 |       0.02x |     -97.52% |
+| ryml_json_inplace_reuse_nofilter         |  906.24 |  40.23x | 3922.77% |          0.05 |       0.02x |     -97.51% |
+| ryml_json_inplace_reuse_reserve          |  906.59 |  40.24x | 3924.34% |          0.05 |       0.02x |     -97.52% |
+| ryml_json_inplace_reuse                  |  908.00 |  40.31x | 3930.60% |          0.05 |       0.02x |     -97.52% |
+| ryml_json_arena_reuse_nofilter_reserve   |  891.56 |  39.58x | 3857.60% |          0.05 |       0.03x |     -97.47% |
+| ryml_json_arena_reuse_nofilter           |  892.54 |  39.62x | 3861.97% |          0.05 |       0.03x |     -97.48% |
+| ryml_json_arena_reuse_reserve            |  892.20 |  39.60x | 3860.44% |          0.05 |       0.03x |     -97.48% |
+| ryml_json_arena_reuse                    |  889.42 |  39.48x | 3848.11% |          0.05 |       0.03x |     -97.47% |
+| ryml_json_inplace_nofilter_reserve       |  905.40 |  40.19x | 3919.05% |          0.05 |       0.02x |     -97.51% |
+| ryml_json_inplace_nofilter               |  835.17 |  37.07x | 3607.28% |          0.06 |       0.03x |     -97.30% |
+| ryml_json_inplace_reserve                |  906.31 |  40.23x | 3923.07% |          0.05 |       0.02x |     -97.51% |
+| ryml_json_inplace                        |  832.43 |  36.95x | 3595.15% |          0.06 |       0.03x |     -97.29% |
+| ryml_json_arena_nofilter_reserve         |  891.75 |  39.58x | 3858.47% |          0.05 |       0.03x |     -97.47% |
+| ryml_json_arena_nofilter                 |  821.14 |  36.45x | 3545.01% |          0.06 |       0.03x |     -97.26% |
+| ryml_json_arena_reserve                  |  890.34 |  39.52x | 3852.21% |          0.05 |       0.03x |     -97.47% |
+| ryml_json_arena                          |  822.37 |  36.50x | 3550.48% |          0.06 |       0.03x |     -97.26% |
+| ryml_yaml_inplace_reuse_nofilter_reserve |  877.29 |  38.94x | 3794.27% |          0.05 |       0.03x |     -97.43% |
+| ryml_yaml_inplace_reuse_nofilter         |  880.13 |  39.07x | 3806.87% |          0.05 |       0.03x |     -97.44% |
+| ryml_yaml_inplace_reuse_reserve          |  881.30 |  39.12x | 3812.04% |          0.05 |       0.03x |     -97.44% |
+| ryml_yaml_inplace_reuse                  |  881.58 |  39.13x | 3813.30% |          0.05 |       0.03x |     -97.44% |
+| ryml_yaml_arena_reuse_nofilter_reserve   |  865.84 |  38.43x | 3743.42% |          0.05 |       0.03x |     -97.40% |
+| ryml_yaml_arena_reuse_nofilter           |  785.06 |  34.85x | 3384.87% |          0.06 |       0.03x |     -97.13% |
+| ryml_yaml_arena_reuse_reserve            |  865.89 |  38.44x | 3743.67% |          0.05 |       0.03x |     -97.40% |
+| ryml_yaml_arena_reuse                    |  866.60 |  38.47x | 3746.82% |          0.05 |       0.03x |     -97.40% |
+| ryml_yaml_inplace_nofilter_reserve       |  870.11 |  38.62x | 3762.37% |          0.05 |       0.03x |     -97.41% |
+| ryml_yaml_inplace_nofilter               |  807.95 |  35.86x | 3486.45% |          0.06 |       0.03x |     -97.21% |
+| ryml_yaml_inplace_reserve                |  879.00 |  39.02x | 3801.84% |          0.05 |       0.03x |     -97.44% |
+| ryml_yaml_inplace                        |  808.23 |  35.88x | 3487.71% |          0.06 |       0.03x |     -97.21% |
+| ryml_yaml_arena_nofilter_reserve         |  865.01 |  38.40x | 3739.76% |          0.05 |       0.03x |     -97.40% |
+| ryml_yaml_arena_nofilter                 |  798.88 |  35.46x | 3446.20% |          0.06 |       0.03x |     -97.18% |
+| ryml_yaml_arena_reserve                  |  862.63 |  38.29x | 3729.17% |          0.05 |       0.03x |     -97.39% |
+| ryml_yaml_arena                          |  798.23 |  35.43x | 3443.33% |          0.06 |       0.03x |     -97.18% |
+| libyaml_arena                            |  135.06 |   6.00x |  499.54% |          0.35 |       0.17x |     -83.32% |
+| libyaml_arena_reuse                      |  135.79 |   6.03x |  502.78% |          0.34 |       0.17x |     -83.41% |
+| libfyaml_arena                           |  149.15 |   6.62x |  562.06% |          0.31 |       0.15x |     -84.90% |
+| yamlcpp_arena                            |   22.53 |   1.00x |    0.00% |          2.08 |       1.00x |       0.00% |
+| rapidjson_arena                          |  756.93 |  33.60x | 3259.98% |          0.06 |       0.03x |     -97.02% |
+| rapidjson_inplace                        | 1741.62 |  77.31x | 7630.98% |          0.03 |       0.01x |     -98.71% |
+| sajson_arena                             |  592.57 |  26.30x | 2530.38% |          0.08 |       0.04x |     -96.20% |
+| sajson_inplace                           |  599.41 |  26.61x | 2560.78% |          0.08 |       0.04x |     -96.24% |
+| jsoncpp_arena                            |  298.60 |  13.25x | 1225.49% |          0.16 |       0.08x |     -92.46% |
+| nlohmann_arena                           |  197.17 |   8.75x |  775.25% |          0.24 |       0.11x |     -88.57% |
++------------------------------------------+---------+---------+----------+---------------+-------------+-------------+
+```
+

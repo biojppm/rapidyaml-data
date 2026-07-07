@@ -1,0 +1,52 @@
+## emit benchmark: style_seqs_flow_outer1000_inner1000_json
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-ryml_yaml_str_reserve"/>
+
+### emit benchmark: style_seqs_flow_outer1000_inner1000_json
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json: MB/s](./ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-mega_bytes_per_second.png)](./ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json: CPU time](./ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-cpu_time_ms.png)](./ryml-bm-emit-style_seqs_flow_outer1000_inner1000_json-cpu_time_ms.png)
+
+```
++---------------------------------------------------------------------------------------------------+
+|                      emit benchmark: style_seqs_flow_outer1000_inner1000_json                     |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |   MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve |  274.56 |  66.80x |  6579.53% |         14.18 |       0.01x |     -98.50% |
+| ryml_json_str_reserve |   72.81 |  17.71x |  1671.40% |         53.48 |       0.06x |     -94.35% |
+| ryml_yaml_str         |  274.98 |  66.90x |  6589.95% |         14.16 |       0.01x |     -98.51% |
+| ryml_json_str         |   68.22 |  16.60x |  1559.62% |         57.08 |       0.06x |     -93.97% |
+| ryml_yaml_ostream     |  167.49 |  40.75x |  3974.91% |         23.25 |       0.02x |     -97.55% |
+| ryml_json_ostream     |   61.17 |  14.88x |  1388.07% |         63.66 |       0.07x |     -93.28% |
+| ryml_yaml_ofstream    |  142.83 |  34.75x |  3374.79% |         27.26 |       0.03x |     -97.12% |
+| ryml_json_ofstream    |   57.39 |  13.96x |  1296.32% |         67.85 |       0.07x |     -92.84% |
+| ryml_yaml_file        |  171.38 |  41.69x |  4069.40% |         22.72 |       0.02x |     -97.60% |
+| ryml_json_file        |   64.89 |  15.79x |  1478.61% |         60.01 |       0.06x |     -93.67% |
+| ryml_yaml_str_file    |  260.93 |  63.48x |  6247.96% |         14.92 |       0.02x |     -98.42% |
+| ryml_json_str_file    |   66.37 |  16.15x |  1514.71% |         58.67 |       0.06x |     -93.81% |
+| fyaml_str_reserve     |   20.48 |   4.98x |   398.26% |        190.13 |       0.20x |     -79.93% |
+| fyaml_str             |   20.50 |   4.99x |   398.75% |        189.95 |       0.20x |     -79.95% |
+| fyaml_ostream         |   18.77 |   4.57x |   356.61% |        207.48 |       0.22x |     -78.10% |
+| yamlcpp_              |    4.11 |   1.00x |     0.00% |        947.35 |       1.00x |       0.00% |
+| rapidjson_            |  471.39 | 114.68x | 11368.17% |          8.26 |       0.01x |     -99.13% |
+| jsoncpp_              |   37.23 |   9.06x |   805.73% |        104.60 |       0.11x |     -88.96% |
+| nlohmann_             |  217.72 |  52.97x |  5196.76% |         17.89 |       0.02x |     -98.11% |
++-----------------------+---------+---------+-----------+---------------+-------------+-------------+
+```
+

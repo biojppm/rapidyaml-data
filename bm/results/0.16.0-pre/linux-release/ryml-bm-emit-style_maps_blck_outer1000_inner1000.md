@@ -1,0 +1,43 @@
+## emit benchmark: style_maps_blck_outer1000_inner1000
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-style_maps_blck_outer1000_inner1000-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-style_maps_blck_outer1000_inner1000-ryml_yaml_str_reserve"/>
+
+### emit benchmark: style_maps_blck_outer1000_inner1000
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-style_maps_blck_outer1000_inner1000-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-style_maps_blck_outer1000_inner1000-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner1000: MB/s](./ryml-bm-emit-style_maps_blck_outer1000_inner1000-mega_bytes_per_second.png)](./ryml-bm-emit-style_maps_blck_outer1000_inner1000-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner1000: CPU time](./ryml-bm-emit-style_maps_blck_outer1000_inner1000-cpu_time_ms.png)](./ryml-bm-emit-style_maps_blck_outer1000_inner1000-cpu_time_ms.png)
+
+```
++--------------------------------------------------------------------------------------------------+
+|                       emit benchmark: style_maps_blck_outer1000_inner1000                        |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |  MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve |  447.90 |  68.51x | 6750.66% |         24.07 |       0.01x |     -98.54% |
+| ryml_yaml_str         |  445.08 |  68.08x | 6707.61% |         24.22 |       0.01x |     -98.53% |
+| ryml_yaml_ostream     |  200.05 |  30.60x | 2959.87% |         53.89 |       0.03x |     -96.73% |
+| ryml_yaml_ofstream    |  176.40 |  26.98x | 2598.01% |         61.11 |       0.04x |     -96.29% |
+| ryml_yaml_file        |  225.22 |  34.45x | 3344.76% |         47.86 |       0.03x |     -97.10% |
+| ryml_yaml_str_file    |  411.68 |  62.97x | 6196.72% |         26.19 |       0.02x |     -98.41% |
+| fyaml_str_reserve     |   17.53 |   2.68x |  168.20% |        614.77 |       0.37x |     -62.71% |
+| fyaml_str             |   16.79 |   2.57x |  156.75% |        642.19 |       0.39x |     -61.05% |
+| fyaml_ostream         |   16.37 |   2.50x |  150.45% |        658.33 |       0.40x |     -60.07% |
+| yamlcpp_              |    6.54 |   1.00x |    0.00% |       1648.82 |       1.00x |       0.00% |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+```
+

@@ -1,0 +1,43 @@
+## emit benchmark: invPositions
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-invPositions-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-invPositions-ryml_yaml_str_reserve"/>
+
+### emit benchmark: invPositions
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-invPositions-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-invPositions-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-invPositions: MB/s](./ryml-bm-emit-invPositions-mega_bytes_per_second.png)](./ryml-bm-emit-invPositions-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-invPositions: CPU time](./ryml-bm-emit-invPositions-cpu_time_ms.png)](./ryml-bm-emit-invPositions-cpu_time_ms.png)
+
+```
++--------------------------------------------------------------------------------------------------+
+|                                   emit benchmark: invPositions                                   |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |  MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve |  641.01 |  89.63x | 8863.30% |         69.66 |       0.01x |     -98.88% |
+| ryml_yaml_str         |  593.38 |  82.97x | 8197.34% |         75.25 |       0.01x |     -98.79% |
+| ryml_yaml_ostream     |  311.85 |  43.61x | 4260.68% |        143.19 |       0.02x |     -97.71% |
+| ryml_yaml_ofstream    |  300.96 |  42.08x | 4108.30% |        148.37 |       0.02x |     -97.62% |
+| ryml_yaml_file        |  361.84 |  50.60x | 4959.67% |        123.41 |       0.02x |     -98.02% |
+| ryml_yaml_str_file    |  535.96 |  74.94x | 7394.34% |         83.32 |       0.01x |     -98.67% |
+| fyaml_str_reserve     |   19.49 |   2.73x |  172.55% |       2290.94 |       0.37x |     -63.31% |
+| fyaml_str             |   19.58 |   2.74x |  173.82% |       2280.30 |       0.37x |     -63.48% |
+| fyaml_ostream         |   18.96 |   2.65x |  165.17% |       2354.71 |       0.38x |     -62.29% |
+| yamlcpp_              |    7.15 |   1.00x |    0.00% |       6243.92 |       1.00x |       0.00% |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+```
+

@@ -1,0 +1,43 @@
+## emit benchmark: style_maps_blck_outer1000_inner100
+
+<p>Data type benchmark results:</p>
+<ul>
+   <li><pre><a href='#ryml-bm-emit-style_maps_blck_outer1000_inner100-ryml_yaml_str_reserve'>ryml_yaml_str_reserve</a></pre></li> </ul>
+
+
+
+<br/>
+<br/>
+
+---
+
+<a id="ryml-bm-emit-style_maps_blck_outer1000_inner100-ryml_yaml_str_reserve"/>
+
+### emit benchmark: style_maps_blck_outer1000_inner100
+
+* Interactive html graphs
+  * [MB/s](./ryml-bm-emit-style_maps_blck_outer1000_inner100-mega_bytes_per_second.html)
+  * [CPU time](./ryml-bm-emit-style_maps_blck_outer1000_inner100-cpu_time_ms.html)
+
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner100: MB/s](./ryml-bm-emit-style_maps_blck_outer1000_inner100-mega_bytes_per_second.png)](./ryml-bm-emit-style_maps_blck_outer1000_inner100-mega_bytes_per_second.png)
+[![/home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-emit-style_maps_blck_outer1000_inner100: CPU time](./ryml-bm-emit-style_maps_blck_outer1000_inner100-cpu_time_ms.png)](./ryml-bm-emit-style_maps_blck_outer1000_inner100-cpu_time_ms.png)
+
+```
++--------------------------------------------------------------------------------------------------+
+|                        emit benchmark: style_maps_blck_outer1000_inner100                        |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+| function              |    MB/s | MB/s(x) |  MB/s(%) | cpu time (ms) | cpu time(x) | cpu time(%) |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+| ryml_yaml_str_reserve |  444.93 |  65.55x | 6454.51% |          2.20 |       0.02x |     -98.47% |
+| ryml_yaml_str         |  454.75 |  66.99x | 6599.18% |          2.15 |       0.01x |     -98.51% |
+| ryml_yaml_ostream     |  183.01 |  26.96x | 2596.02% |          5.35 |       0.04x |     -96.29% |
+| ryml_yaml_ofstream    |  165.59 |  24.39x | 2339.37% |          5.91 |       0.04x |     -95.90% |
+| ryml_yaml_file        |  209.65 |  30.88x | 2988.46% |          4.67 |       0.03x |     -96.76% |
+| ryml_yaml_str_file    |  431.03 |  63.50x | 6249.71% |          2.27 |       0.02x |     -98.43% |
+| fyaml_str_reserve     |   30.29 |   4.46x |  346.19% |         32.32 |       0.22x |     -77.59% |
+| fyaml_str             |   30.17 |   4.44x |  344.47% |         32.45 |       0.22x |     -77.50% |
+| fyaml_ostream         |   27.62 |   4.07x |  306.91% |         35.44 |       0.25x |     -75.42% |
+| yamlcpp_              |    6.79 |   1.00x |    0.00% |        144.22 |       1.00x |       0.00% |
++-----------------------+---------+---------+----------+---------------+-------------+-------------+
+```
+

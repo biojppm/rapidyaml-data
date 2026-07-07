@@ -1,0 +1,50 @@
++---------------------------------------------------------------------------------------------------------+
+|                                emit CPU time (less is better): all files                                |
++------------------------------------------+-----------+-----------+----------+--------------+------------+
+| file                                     | size (KB) | rapidyaml |  yamlcpp | rapidyaml(x) | yamlcpp(x) |
++------------------------------------------+-----------+-----------+----------+--------------+------------+
+| appveyor                                 |       2.2 |      0.00 |     0.18 |         0.01 |       1.00 |
+| compile_commands                         |      47.2 |      0.06 |     5.62 |         0.01 |       1.00 |
+| scalar_block_folded_multiline            |      73.4 |      0.05 |     8.96 |         0.01 |       1.00 |
+| scalar_block_folded_singleline           |       5.4 |      0.01 |     0.64 |         0.01 |       1.00 |
+| scalar_block_literal_multiline           |      73.4 |      0.05 |     3.30 |         0.01 |       1.00 |
+| scalar_block_literal_singleline          |       5.4 |      0.01 |     0.65 |         0.01 |       1.00 |
+| scalar_dquot_multiline                   |      72.9 |      0.08 |     6.84 |         0.01 |       1.00 |
+| scalar_dquot_singleline                  |       4.9 |      0.01 |     0.49 |         0.01 |       1.00 |
+| scalar_plain_multiline                   |      72.8 |      0.04 |     6.84 |         0.01 |       1.00 |
+| scalar_plain_singleline                  |       4.8 |      0.00 |     0.52 |         0.01 |       1.00 |
+| scalar_squot_multiline                   |      73.0 |      0.07 |     6.98 |         0.01 |       1.00 |
+| scalar_squot_singleline                  |       4.9 |      0.01 |     0.49 |         0.01 |       1.00 |
+| travis                                   |       4.2 |      0.00 |     0.33 |         0.01 |       1.00 |
+| block                                    |   81682.7 |     76.70 |  6781.25 |         0.01 |       1.00 |
+| blueprints                               |    5246.3 |      8.33 |   593.75 |         0.01 |       1.00 |
+| combase                                  |  146714.1 |    167.97 | 15312.50 |         0.01 |       1.00 |
+| flow                                     |   34643.8 |     66.76 |  6140.62 |         0.01 |       1.00 |
+| invItems                                 |   55781.7 |    100.45 |  8640.62 |         0.01 |       1.00 |
+| invNames                                 |   27707.5 |     44.79 |  4046.88 |         0.01 |       1.00 |
+| invPositions                             |   44653.4 |     78.12 |  6546.88 |         0.01 |       1.00 |
+| invUniqueNames                           |   24426.0 |     41.36 |  3640.62 |         0.01 |       1.00 |
+| small-test-case                          |     289.1 |      0.53 |    27.04 |         0.02 |       1.00 |
+| trusty                                   |      59.5 |      0.08 |     4.46 |         0.02 |       1.00 |
+| typeDogma                                |   21509.4 |     50.00 |  3718.75 |         0.01 |       1.00 |
+| typeIDs                                  |   79356.7 |     78.12 |  7031.25 |         0.01 |       1.00 |
+| typeMaterials                            |    2001.6 |      4.14 |   335.94 |         0.01 |       1.00 |
+| style_maps_blck_outer1000_inner10        |      98.9 |      0.23 |    14.38 |         0.02 |       1.00 |
+| style_maps_blck_outer1000_inner100       |    1079.0 |      2.25 |   183.59 |         0.01 |       1.00 |
+| style_maps_blck_outer1000_inner1000      |   11780.0 |     24.04 |  2015.62 |         0.01 |       1.00 |
+| style_maps_flow_outer1000_inner10        |      73.9 |      0.25 |    15.28 |         0.02 |       1.00 |
+| style_maps_flow_outer1000_inner100       |     784.0 |      2.46 |   192.71 |         0.01 |       1.00 |
+| style_maps_flow_outer1000_inner1000      |    8785.0 |     26.44 |  2031.25 |         0.01 |       1.00 |
+| style_maps_flow_outer1000_inner1000_json |    8785.0 |     26.88 |  2046.88 |         0.01 |       1.00 |
+| style_maps_flow_outer1000_inner100_json  |     784.0 |      2.46 |   187.50 |         0.01 |       1.00 |
+| style_maps_flow_outer1000_inner10_json   |      73.9 |      0.25 |    15.28 |         0.02 |       1.00 |
+| style_seqs_blck_outer1000_inner10        |      88.9 |      0.17 |     9.03 |         0.02 |       1.00 |
+| style_seqs_blck_outer1000_inner100       |     889.0 |      1.57 |   102.68 |         0.02 |       1.00 |
+| style_seqs_blck_outer1000_inner1000      |    8890.0 |     19.00 |  1062.50 |         0.02 |       1.00 |
+| style_seqs_flow_outer1000_inner10        |      43.9 |      0.15 |     8.75 |         0.02 |       1.00 |
+| style_seqs_flow_outer1000_inner100       |     394.0 |      1.41 |    98.21 |         0.01 |       1.00 |
+| style_seqs_flow_outer1000_inner1000      |    3895.0 |     16.77 |  1000.00 |         0.02 |       1.00 |
+| style_seqs_flow_outer1000_inner1000_json |    3895.0 |     16.39 |  1031.25 |         0.02 |       1.00 |
+| style_seqs_flow_outer1000_inner100_json  |     394.0 |      1.38 |    98.21 |         0.01 |       1.00 |
+| style_seqs_flow_outer1000_inner10_json   |      43.9 |      0.15 |     8.54 |         0.02 |       1.00 |
++------------------------------------------+-----------+-----------+----------+--------------+------------+

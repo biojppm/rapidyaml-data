@@ -1,0 +1,220 @@
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-appveyor.json
+  name: appveyor
+  path: /home/jpmag/proj/rapidyaml/bm/cases/appveyor.yml
+  size: 2129
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-compile_commands.json
+  name: compile_commands
+  path: /home/jpmag/proj/rapidyaml/bm/cases/compile_commands.json
+  size: 46825
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_block_folded_multiline.json
+  name: scalar_block_folded_multiline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_block_folded_multiline.yml
+  size: 72577
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_block_folded_singleline.json
+  name: scalar_block_folded_singleline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_block_folded_singleline.yml
+  size: 5257
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_block_literal_multiline.json
+  name: scalar_block_literal_multiline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_block_literal_multiline.yml
+  size: 72577
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_block_literal_singleline.json
+  name: scalar_block_literal_singleline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_block_literal_singleline.yml
+  size: 5257
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_dquot_multiline.json
+  name: scalar_dquot_multiline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_dquot_multiline.yml
+  size: 72181
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_dquot_singleline.json
+  name: scalar_dquot_singleline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_dquot_singleline.yml
+  size: 4824
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_plain_multiline.json
+  name: scalar_plain_multiline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_plain_multiline.yml
+  size: 72041
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_plain_singleline.json
+  name: scalar_plain_singleline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_plain_singleline.yml
+  size: 4676
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_squot_multiline.json
+  name: scalar_squot_multiline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_squot_multiline.yml
+  size: 72273
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-scalar_squot_singleline.json
+  name: scalar_squot_singleline
+  path: /home/jpmag/proj/rapidyaml/bm/cases/scalar_squot_singleline.yml
+  size: 4820
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-travis.json
+  name: travis
+  path: /home/jpmag/proj/rapidyaml/bm/cases/travis.yml
+  size: 4067
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-block.json
+  name: block
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/block.yaml
+  size: 81682685
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-blueprints.json
+  name: blueprints
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/blueprints.yaml
+  size: 5246296
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-combase.json
+  name: combase
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/combase.pdb.yaml
+  size: 146714073
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-flow.json
+  name: flow
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/flow.yaml
+  size: 34643784
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-invItems.json
+  name: invItems
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invItems.yaml
+  size: 55781715
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-invNames.json
+  name: invNames
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invNames.yaml
+  size: 27707502
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-invPositions.json
+  name: invPositions
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invPositions.yaml
+  size: 44653416
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-invUniqueNames.json
+  name: invUniqueNames
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/invUniqueNames.yaml
+  size: 24425970
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-small-test-case.json
+  name: small-test-case
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/small-test-case.yml
+  size: 289136
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-trusty.json
+  name: trusty
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/trusty.yml
+  size: 59466
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-typeDogma.json
+  name: typeDogma
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/typeDogma.yaml
+  size: 21509351
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-typeIDs.json
+  name: typeIDs
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/typeIDs.yaml
+  size: 79356656
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-typeMaterials.json
+  name: typeMaterials
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/large_yaml_files/typeMaterials.yaml
+  size: 2001562
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_blck_outer1000_inner10.json
+  name: style_maps_blck_outer1000_inner10
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_blck_outer1000_inner10.yml
+  size: 88900
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_blck_outer1000_inner100.json
+  name: style_maps_blck_outer1000_inner100
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_blck_outer1000_inner100.yml
+  size: 979000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_blck_outer1000_inner1000.json
+  name: style_maps_blck_outer1000_inner1000
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_blck_outer1000_inner1000.yml
+  size: 10780000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner10.json
+  name: style_maps_flow_outer1000_inner10
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner10.yml
+  size: 72900
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner100.json
+  name: style_maps_flow_outer1000_inner100
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner100.yml
+  size: 783000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner1000.json
+  name: style_maps_flow_outer1000_inner1000
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner1000.yml
+  size: 8784000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner1000_json.json
+  name: style_maps_flow_outer1000_inner1000_json
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner1000_json.yml
+  size: 8784002
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner100_json.json
+  name: style_maps_flow_outer1000_inner100_json
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner100_json.yml
+  size: 783002
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_maps_flow_outer1000_inner10_json.json
+  name: style_maps_flow_outer1000_inner10_json
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_maps_flow_outer1000_inner10_json.yml
+  size: 72902
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_blck_outer1000_inner10.json
+  name: style_seqs_blck_outer1000_inner10
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_blck_outer1000_inner10.yml
+  size: 78900
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_blck_outer1000_inner100.json
+  name: style_seqs_blck_outer1000_inner100
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_blck_outer1000_inner100.yml
+  size: 789000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_blck_outer1000_inner1000.json
+  name: style_seqs_blck_outer1000_inner1000
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_blck_outer1000_inner1000.yml
+  size: 7890000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_flow_outer1000_inner10.json
+  name: style_seqs_flow_outer1000_inner10
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner10.yml
+  size: 42900
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_flow_outer1000_inner100.json
+  name: style_seqs_flow_outer1000_inner100
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner100.yml
+  size: 393000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_flow_outer1000_inner1000.json
+  name: style_seqs_flow_outer1000_inner1000
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner1000.yml
+  size: 3894000
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_flow_outer1000_inner1000_json.json
+  name: style_seqs_flow_outer1000_inner1000_json
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner1000_json.json
+  size: 3894002
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_flow_outer1000_inner100_json.json
+  name: style_seqs_flow_outer1000_inner100_json
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner100_json.json
+  size: 393002
+- json:
+  - /home/jpmag/proj/rapidyaml/build/linux-x86_64-gxx16.1-Release-17/bm/bm-results/ryml-bm-parse-style_seqs_flow_outer1000_inner10_json.json
+  name: style_seqs_flow_outer1000_inner10_json
+  path: /home/jpmag/proj/rapidyaml/build/extern/rapidyaml-data/bm/style_seqs_flow_outer1000_inner10_json.json
+  size: 42902
