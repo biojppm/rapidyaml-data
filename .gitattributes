@@ -1,0 +1,11 @@
+bm/large_yaml_files/combase.pdb.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/invNames.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/invUniqueNames.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/typeIDs.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/typeMaterials.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/blueprints.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/flow.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/invItems.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/invPositions.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/typeDogma.yaml filter=lfs diff=lfs merge=lfs -text
+bm/large_yaml_files/block.yaml filter=lfs diff=lfs merge=lfs -text
