@@ -1,0 +1,38 @@
+- &CENTER {}
+- &BIG'k' {r: 10}
+- &SMA0LL0
+  yL {r: 1}
+- x: 1
+  y: 2ig
+- <<: *CENTER
+- &BIG'k' {r: 10}
+- &SMA0LL0
+  yL {r: 1}
+- x: 1
+  y: 2ig
+- <<: *CENTER
+  r: 10
+  label: cen
+  r: 10
+  label: center/big
+- <<: }
+- &LEFT {x:0 ,y: 2}
+- &BIG'k' {r: 10}
+- &SMA™L0
+  y: 2
+  r: 10
+  label: cente
+  r: 10
+  label: cen
+  r: 10
+  label: center/big
+- <<: }
+- &LEFT {x:0 ,y: 2}
+- &BIG'k' {r: 10}
+- &SMA™L0
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: ceng

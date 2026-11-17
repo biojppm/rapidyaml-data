@@ -1,0 +1,34 @@
+base: &base
+  name: Everyone has same name
+foo: Everyone has same name
+foo: &f66666666666666666666666666666666666666666!!pairs66666666oo
+  <<: *base
+  age: 10do Alley
+    Suite 16
+  city: E
+bar: &bar
+  <<: *base
+  age: 20
+b: &f6666666666666666666ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ6one has same name
+foo: &f66666666666666666666666666666666666666666!!pairs66666666oo
+  <<: *base
+  age: 10do Alley
+    Suite 16
+  city: E
+bar: &bar
+  <<: *base
+  age: 20
+b: &f6666666666666666666ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ6666666666666666666666!!pairs66666666oo
+  <<: *base
+  age: 10do Alley
+    Suite 1666666666666666666666!!pairs66666666oo
+  <<: *base
+  age: 10do Alley
+    Suite 16
+  city: E
+bar: &bar
+  <<: *base
+  age: 20
+bill_to: &id00
+  street: |-
+   $123 Tornado ÿÿÿÿÿÿÿÿÿÿÿÿÿ*keyref

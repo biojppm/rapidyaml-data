@@ -1,0 +1,66 @@
+[&c&ch1,&anchch0,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1*&˜nh10;a*ch1:;&a*ch10;,&un10;;,&anchch1,&an10;,&˜nh1,.anchch1,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an!0;,&˜anchch1,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h0;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;a*ch1:;&a*ch10;,&un10;;,&anmap
+.a8 !!str key8: value
+---
+&a4p
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 !!str key8: value7
+---
+!!map
+!!str &a10 key1tr key5: value4
+--- &a4 !!map
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor7
+---
+!!map
+!!str &a11
+&anchor6 bv: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 !!str key8: value7
+-0: va`lue9
+--- !!map
+ue7
+---
+!!map
+!!str &a10 key10: va`lue9
+--- !!map
+&a10 !!str ke_10: value9
+---
+!!str &a11
+value11scálar3
+--- &a3 !!str scalar3
+---
+&a4p
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 !!str key8: value7
+---
+!!map
+!!str &a10 key1tr key5: value4
+--- &a4 !!map
+&a5 !!str key5: value4
+---
+a6: 1
+&anchor6 b6: 2
+---
+!!map
+&a8 !!str key8: value7
+--- !!map
+&a8 chch1,&an10;,&˜nh1,&anchch1,&an10;,&˜nh10;a*ch10;&a*ch1¦;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;anchch1,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an11,&anchch1,&;n0a1,&˜nh10;a*ch1:;&a*ch10;,&un10;;,&anchch1,&an10;,&˜nh1,&anchch1,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;%YAML 1.2&,anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;anchch1,&%YAML 1.2an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;a*ch1:;&a*ch10;,&un10;;,&anchch1,&an10;,&˜nh1,&anchch1,&an10;,&˜nh10;a*c‰h10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an99;,&˜anchch1,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;a*ch1:;&a*ch10;,&un10;;,&anchch1,&an10;,&˜nh1,&anchch1,&an10;,&˜nh10;a*ch10;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,&h1,&anchch1,&;n0a1,&˜nh10;a*ch10;a*ch05;&a*ch10;,&an10;;,&anchch1,&an10;,&˜nh10;,nh10;,&ah10;,&a]

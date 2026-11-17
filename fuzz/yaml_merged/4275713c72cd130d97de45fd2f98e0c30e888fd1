@@ -1,0 +1,6 @@
+---
+top1: &node1
+  &k1 y4: four1.3e+9 &node5
+  !!pythonve
+top6: &val6 six
+top7: &val7 seven

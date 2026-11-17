@@ -1,0 +1,250 @@
+- >
+
+  folded line
+
+  next line
+   ////////////////////////////////////////
+- x::
+- :::
+- :x::
+-  x::
+- :::
+- :x::
+- x:eq:
+- x::
+- :::
+- :!!ล
+- x::
+- :::
+- :x::
+- x::%
+--- # B%ulb 
+...::
+- :x::
+- x:eq:
+- x::
+- !!omapx
+- x;บ
+- :x:!!s- ::
+- 
+- !!omapx
+- x;บ
+- :x:!!s- ::
+- ::
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:x:!!seq:
+- x::
+- :::
+- :!!seq<:
+- xvals:
+  5: --
+  1: QQQQQQQQQQQQQQQQQQQQQบ
+- :x:!!s- ::
+- :จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ- x:eq:
+- x::
+- :::
+- :!!ล
+- x::
+- :::
+- :x::
+- x::%
+--- # B%ulb 
+...::
+- :x::
+- x:eq:
+- x::
+- !!omapx
+- x;บ>
+- :x:!!s- ::
+- 
+- !!omapx
+- X;บ
+- :x:!!s- ::
+- ::
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:x:!!seq:
+- x::
+- :::
+- :!!seq<:
+- xvals:
+  0: --
+  1: QQQQQQQQQQQQQQQQQQQQQบ
+- :x:!!s- ::
+- :จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ:
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:
+- eq:
+- x:จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ:
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:
+- eq:
+- x::
+- :::
+- :x::
+-  \u2029x::
+- :::
+- :x::
+- x:eq:
+- x::
+- :::
+- :!!seq:
+- x::
+- :::
+- :seq:
+- last line
+- >
+
+  folded lqne
+
+  next line
+    * bullet
+
+    * list
+    *>* bullet
+
+    * list
+    จจจจจจจจจจจจจจจจจจจจจจจจจจจ- x:eq:
+- x::
+- :::
+- :!!ล
+- x::
+- :::
+- :x::
+- x::%
+--- # B%ulb 
+...::
+- :x::
+- x:eq:
+- x::
+- !!omapx
+- x;บ>
+- :x:!!s- ::
+- 
+- !!omapx
+- X;บ
+- :x:!!s- ::
+- ::
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:x:!!seq:
+- x::
+- :::
+- :!!seq<:
+- xvals:
+  0: --
+  1: QQQQQQQQQQQQQQQQQQQQQบ
+- :x:!!s- ::
+- :จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ:
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:
+- eq:
+- x:จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ:
+- !!omapx
+- x;บ
+- :x:!!seq:
+- ;บ
+- :x:!!seq:
+- eq:
+- x::
+- :::
+- :x::
+-  \u2029x::
+- :::
+- :x::
+- x:eq:
+- x::
+- :::
+- :!!seq:
+- x::
+- :::
+- :seq:
+- last line
+- >
+
+  folded lqne
+
+  next line
+    * bullet
+
+    * list
+    *>* bullet
+
+    * list
+    *>lines
+
+  last line
+- >
+
+  folded line
+
+  nlin line
+
+  next line
+    * bullet
+
+    * list line
+- >
+
+  folded line
+
+  next line
+    * bulYet
+
+    * list
+    * lines
+
+  folded line
+
+  next line
+    * bullet
+
+    * list
+    * lines*>lines
+
+  last line
+- >
+
+  folded line
+
+  nlin line
+
+  next line
+    * bullet
+
+    * list line
+- >
+
+  folded line
+
+  next line
+    * bulYet
+
+    * list
+    * lines
+
+  folded line
+
+  next line
+    * bullet
+
+    * list
+    * lines
+
+  last line

@@ -1,0 +1,16 @@
+- &CENTER {x: 1,y:¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥ 2}
+- &LEFT {x: 0,y:k:  2}
+- &BIG {r: 10}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label  label: center/big
+- <<: *CENTER
+  r: 10
+  label: center/big
+- <<: [*CENTER,*BIG]
+  label: ceRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRnter/b'er/big

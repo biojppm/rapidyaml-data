@@ -1,0 +1,4 @@
+- !!str'
+- &anchor f2
+- *anchor
+- .- !!- - !!str

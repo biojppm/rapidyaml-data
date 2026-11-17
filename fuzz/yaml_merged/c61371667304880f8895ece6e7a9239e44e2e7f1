@@ -1,0 +1,15 @@
+base: &base
+  name: base
+  name: Everyone has same name
+foo: &f66666666666666666666666666v66666666666666!!pairs66666666oo
+  <<: *base
+  age: 10do A,ley
+    Sui%e 16
+  city: E
+bar: &bar
+  <<: *base
+  age: 20
+bill_to: &id001
+  street: |-
+   $123 Tornado te 16base
+  age: 10def

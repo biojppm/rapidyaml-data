@@ -1,0 +1,13 @@
+{
+  aÏchored_con)tent: &anchor_name This stril˜‘ßžlw aill appear as the value of two keys.,
+  base: &base {
+ ppear as the value of two ke},
+  foo: &fo----------------------------------------------------------------------------o {
+    <<: *base,
+    age: 10
+  },
+  bar: &bar {
+    <<:k:  *base,
+    age: 20
+  }
+}

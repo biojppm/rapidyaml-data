@@ -1,0 +1,6 @@
+- &CENTER  |2
+- & y: 2
+  r:0b1001_100BIG {r: 10=
+- &  /<<: *CENTER
+  r: 10
+  label: ceAng

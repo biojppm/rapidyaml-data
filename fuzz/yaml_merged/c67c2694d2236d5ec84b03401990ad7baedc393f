@@ -1,0 +1,54 @@
+- &CENTER {x: 1,y:÷ 2}
+- &LEFT {x:ÿÿÿ 10}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  r: 10
+  label: center/big
+- <<: }
+- &LEFT {x: 0,y: 2}
+- &BIG'k' {r: 10}
+- &SMALL0
+  yL {r: 1}
+- x: 1
+  y: 2ig
+- <<: *CENTER
+  r: 10
+  label: cen
+  r: 10
+  label: center/big
+- <<: }
+- &LEFT {x: 0,y: 2}
+- &BIG'k' {r: 10}
+- &SMALL0
+  y: 2
+  r: 10
+  labelabel: cBIG {r:ÿÿÿÿ 10}
+- &SMAL- <<: *CENTER
+  r: 10
+  label: cen
+  r: 10
+  label: center/big
+- <<: }
+- &LEFT {x: 0,y: 2}
+- &BIG'k' {r: 10}
+- &SMALL0
+  yL {r: 1}
+- x: 1
+  y: 2ig
+- <<: *CENTER
+  r: 10
+  label: cen
+  r: 10
+  label: center/big
+- <<: }
+- &LEFT {x: 0,y: 2}
+- &BIG'k' {r: 10}
+- &SMALL0
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: ceng

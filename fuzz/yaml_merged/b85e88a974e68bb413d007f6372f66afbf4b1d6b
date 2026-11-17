@@ -1,0 +1,14 @@
+base: &base
+  name: Everyone has same nam&base
+  name: Everyone has same name
+foo: &f666666666666666666666666666666r
+  <<: *base
+ill_to: &id001
+ ˜street: |-
+  d001
+  street: |-
+   Ceánterville
+  state: KS
+ship_to: }id001
+&keyref key: &valref val
+*valref : *keyref

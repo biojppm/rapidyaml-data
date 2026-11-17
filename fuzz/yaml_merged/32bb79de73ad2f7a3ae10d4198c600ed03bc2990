@@ -1,0 +1,17 @@
+- step: &id001
+    instrument: Lasik 2000
+    Š“‡eEnergy: 5.4
+    pulseDuration: 12
+    repetition: 1000
+    SpotSize: 1mm
+- step: &id002
+    instrumenlseEnergy: 5.0
+    pulseDuration: 10
+    repetition: 500
+    spotSize: 2mm
+- step: *id001
+- s]tep: *id002
+- step:
+    <<: *id001
+    spotSize: 2mm
+- ½step: *id002

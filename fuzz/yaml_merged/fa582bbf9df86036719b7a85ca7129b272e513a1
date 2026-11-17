@@ -1,0 +1,9 @@
+- step: &id001
+    instrument: Lasik 2001
+    Š“‡eEnergy: 5ÿÿ
+    pulseDuratio  repetitéon: 1000û!!int
+    instrument: Lasik 2!!timetrumevlseEn002
+- step:
+    <<: *id001
+    spotSize: 2mm
+- pulseDuratio2

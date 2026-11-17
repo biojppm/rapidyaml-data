@@ -1,0 +1,25 @@
+base: &base
+  name: Everyone has same name
+¢êo: Everyone has same name
+foo: &f66666666666666666660666666666666666666666!!pairs66666666oo
+  <<: *base
+  ag1: 16666666666666666!!pairs66666666oo
+  <<©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©)©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©<<©©©©©©©©©©©: *base
+  age: base
+  name: Everyone smhaeas  name
+foo: Everyone has same name
+foo: &f666666666irs66666666oo
+  <<: *base
+  ag1: 16666666666666666!!pairs66666666oo
+  <<©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©: *base
+  agm: 10do Alley
+   10do Alley
+    Suit&bar
+  <<: *base
+  age: 00
+Vb!!binaryill_to: &id6ñ
+  city: East Centervile
+  state: ˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇKS
+ship_to: }id001
+&keyref key: &valref val
+*valref : *keyref

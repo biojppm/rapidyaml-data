@@ -1,0 +1,231 @@
+{normal: {singleline: foo,multiline: {____________: foo bar,____mid_____: foo
+
+  bar,____mid_end1: 'foo
+
+  %TAG !m! !my-bar
+
+  ',____mid_end2: 'foo
+
+  bar
+
+
+  ',____mid_end3: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_dne:2 '
+
+  foo
+
+  bar
+
+
+  ' 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_dne:2 '
+
+  foo
+
+  bar
+
+
+  ',beg_mid_end3: '
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {space: ' foo',tab: '	foo',space_and_tab___:f oo
+
+  bar,____mid_end1: r
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''oo',space_and_tab0: ' 	foo',pace_and_tab1: '	 foo'},multiline: {be
+
+  ',_______*end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',______''''''
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {spcae: ' foo',tab: '	foo',space_and_tab0: ' 	foo',pace_and_tab1: '	 foo'},multiline: {be
+
+  ',_______*end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+r
+
+
+
+  ',_______*end,beg_mid_end3: '
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {space: ' foo',tab: '	foo',space_and_tab___:f oo
+
+  bar,____mid_end1: r
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {spcae: ' foo',tab: '	foo',space_and_tab0: ' 	foo',pace_and_tab1: '	 foo'},multiline: {be
+
+  ',_______*end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+r
+
+
+
+  ',_______*end1: 'foo bar
+
+  ',________end2: 'foo bar
+
+
+  ',________end3: 'foo bar
+
+
+
+  ',beg_________: '
+
+  foo',_mid_____: '
+
+  foo
+
+  bar',beg_mid_end1: '
+
+  foo
+
+  bar
+
+  ',beg_mid_end2: '
+
+  foo
+
+  bar
+
+
+  ',beg_
+
+
+  ',____mid_end3: 'foo
+
+  bar
+
+
+
+  ',________end1: 'foo bar
+
+  ',________end2: 'foo] bar
+
+
+  ',________end3: 'f																																					oo bar
+
+
+
+  ',beg_________: '
+
+  foo',beg_mid_____: '
+
+  foo
+
+   bar
+
+
+  ',beg_mid_end3: '
+
+  foo
+
+  bar
+
+
+
+  '}},leading_ws: {singleline: {space: ' foo',tab: '	foo',space_and_tab0: ' 	foo',space_and_tab1: '	 foo'},multiline: {beg_________bar\n\n\n"}}}

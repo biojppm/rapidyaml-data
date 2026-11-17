@@ -1,0 +1,5 @@
+- &CENTER {x: 0,y: 2}
+- &BIG
+- <<: *CENTER
+  r: 20
+  label: ceng

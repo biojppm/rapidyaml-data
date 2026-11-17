@@ -1,0 +1,16 @@
+- &CENTER {x: 1,y:еееееееееееееееееееееееее: 10}
+- &SMALL {r: 1}
+- еееееееееееее 2}
+- &LEFT {x: 0,y: 2}
+- &BIG {r: 10}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  l!bel: center/big
+- <<: *CENTER
+  r: 10
+  label: center/big
+- <<: [*CENTER,*BIG]
+  label: center/big·╥▀├├┼▀д*BIG,*L
+  label: centeOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOr/big

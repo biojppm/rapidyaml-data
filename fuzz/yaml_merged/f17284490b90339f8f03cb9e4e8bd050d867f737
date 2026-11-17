@@ -1,0 +1,31 @@
+- &CENTER {}
+- &BIG'k' {r: 10}
+- &SMA0LL0
+  yL {r: 1}
+- x: 1
+  y: 1ig
+- <<: *CENTER
+- 10}
+- &SMA0LL0
+  yL {r: 1}
+- x: 1
+  y: 1ig
+- <<: *CENTER
+- &BIG'k' {r: 10}
+- &SMA0LL0
+  yL {r: 1}
+- x: 1
+  y: 2ig
+- <<: A™L0
+  y:bel: center/bi &SMAD0LL0
+  yL {r: 1}
+- x: 1
+  y: 2ig
+- <<: *CENTER
+- &BIG
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: ceng

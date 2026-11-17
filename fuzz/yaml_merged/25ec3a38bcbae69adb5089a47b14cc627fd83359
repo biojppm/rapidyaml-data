@@ -1,0 +1,17 @@
+- &CENTER {x: 1,y:¥¥¥¥¥¥¥¥
+  y: 2
+  r:¥¥¥¥¥¥¥¥¥¥¥¥¥¥M¥¥¥¥¥¥¥¥¥ 0,y: 2}
+- &BIG {r: 10}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 10
+  label: cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿenter/big
+- <<: [*CENTER,*BIG]
+  label: center/bigúÿÿÿ#Åß¤*BIG,*LEFT,*SMALL]
+  x: 2
+  label: centeOOOOOÿÿÿ#OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿOOr/big

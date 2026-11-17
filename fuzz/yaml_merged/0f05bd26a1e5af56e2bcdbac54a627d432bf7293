@@ -1,0 +1,20 @@
+base: &base
+  name: Everyone has same name
+foo: Everyone has same name
+foo: &f66666666666666666666666666666666666666666!!pairs66666666oo
+  <<: *base
+  ag1: 16666666666666666!!pairs66666666oo
+  <<: *base
+  age: 10do Alley
+    Suit&bar
+  <<: *base
+  age: 00
+Vbill_to: &id001
+  street: |-
+   $123 T\u2029ornado Alley
+    Suite 16–
+  city: East Centervile
+  state: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿKS
+ship_to: }id001
+&keyref key: &valref val
+*valref : *keyref

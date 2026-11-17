@@ -1,0 +1,123 @@
+- &CENTER {x: 1,y: 2}
+- &LEFT {x: 0,y: 2}
+- &BIG {r: 10}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cneter/big
+- <<: [*CENTER,*BIG]
+  label: ceER,*BIG]
+  l: cneter/big
+- <<: [*CENTER,*BIG]
+  label: ceER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMALLnt}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LE z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<:  1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LE z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMALLnt}
+- ڨMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMter/biz[*BIG,*LEFT,*SMALLeER,*BIG]
+  label: center/big
+- <<: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cneter/big
+- <<: [*CENTER,*BIG]
+  label: ceER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMALLnt}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LE z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<:  1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LE z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMALLnt}
+- ڨMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMter/biz[*BIG,*LEFT,*SMALLnt}
+- &SMALL {r: 1}
+- x: 1
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  label: cente[/big
+- <<: [*CENTER,*BIG]
+  label: center/big
+- <<: z[*BIG,*LEFT,*SMALL]
+  x: er/big
+- <<: z[*BIG,*LEFT,*SMter/big

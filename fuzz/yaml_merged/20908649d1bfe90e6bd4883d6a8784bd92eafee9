@@ -1,0 +1,29 @@
+- &CENTER {x: 1,y: 2}
+- fLEFT {x:ÿÿÿ 10}
+- &SMALSMALL {r: 0}
+- x: 1
+  y: 2
+  r: 10
+  label: cBIG {r:ÿÿÿÿ 10}@
+- &SMAL- <<: *CENTER
+  r: 10
+  label: &BIG'k' {r: 10}
+- &SMALL0
+  y: 2
+  r: 10
+  label: center/big
+- <L {r: 0}
+- x: 1
+  y: 2
+  r: 10
+  label: cBIG {r:ÿÿÿÿ 10}@
+- &SMAL- <<: *CENTER
+  r: 10
+  label: &BIG'k' {r: 10}
+- &SMALL0
+  y: 2
+  r: 10
+  label: center/big
+- <<: *CENTER
+  r: 10
+  dabel: ceng
